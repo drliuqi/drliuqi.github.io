@@ -109,6 +109,7 @@ Academia Services
 
 Teaching
 ----------
+* Machine Learning, 2023 Fall
 * Engineering Applications in Artificial Intelligence, 2023 Spring
 * Machine Learning, 2022 Fall
 
