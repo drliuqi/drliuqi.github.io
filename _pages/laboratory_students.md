@@ -16,18 +16,18 @@ Postdocs & RAs
 
 Doctoral Students
 --------
-* CHEN Bin 陈彬 (2022.9-):
+* CHEN Bin 陈彬 (2022.9-):(科大讯飞联合培养)
 * WANG Yuxiao 王煜骁 (2022.9-): Human-object interaction detection
 * CHEN Huajun 陈铧浚 (2023.9-): Text-to-image generation
 * ZHANG Xiaohan 张笑晗 (2023.9-): 3D scene reconstruction
-* DENG Yu 邓宇 (2023.9-): Video deepfake detection
+* DENG Yu 邓宇 (2023.9-): Video deepfake detection (阿里联合培养)
 * WANG Yifei 王毅飞 (2023.9-): Micro-expression recognition
 
 
 Graduate Students
 --------
 * LIN Jinhao 林锦濠 (2022.9-): Sentiment recognition
-* ZHAO Baozhu 赵宝柱 (2023.9-): Indoor scene 3D reconstruction
+* ZHAO Baozhu 赵宝柱 (2023.9-): Indoor scene 3D reconstruction (阿里联合培养)
 * SU Junyan 苏俊彦 (2023.9-): Audio deepfake detection
 * XUE Weiying 薛炜樱 (2023.9-): Human-object interaction detection
 * GUO Jingfeng 郭靖丰 (2023.9-): Large-scale outdoor scene 3D reconstruction
