@@ -22,7 +22,7 @@ Doctoral Students
 * ZHANG Xiaohan 张笑晗 (2023.9-): 3D scene reconstruction
 * DENG Yu 邓宇 (2023.9-): Video deepfake detection (阿里联合培养)
 * WANG Yifei 王毅飞 (2023.9-): Micro-expression recognition
-* ZHANG Xiaoyang 张晓阳 (2023.9-): (学科交叉培养)
+* ZHANG Xiaoyang 张晓阳 (2023.9-): (学科交叉培养) 
 
 
 Graduate Students
