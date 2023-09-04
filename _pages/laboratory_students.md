@@ -16,12 +16,13 @@ Postdocs & RAs
 
 Doctoral Students
 --------
-* CHEN Bin 陈彬 (2022.9-):(科大讯飞联合培养)
+* CHEN Bin 陈彬 (2022.9-): (科大讯飞联合培养)
 * WANG Yuxiao 王煜骁 (2022.9-): Human-object interaction detection
 * CHEN Huajun 陈铧浚 (2023.9-): Text-to-image generation
 * ZHANG Xiaohan 张笑晗 (2023.9-): 3D scene reconstruction
 * DENG Yu 邓宇 (2023.9-): Video deepfake detection (阿里联合培养)
 * WANG Yifei 王毅飞 (2023.9-): Micro-expression recognition
+* ZHANG Xiaoyang 张晓阳 (2023.9-): (学科交叉培养)
 
 
 Graduate Students
