@@ -57,6 +57,12 @@ Awards and Honors
 * National Scholarship, HEU, 2015
 
 
+Teaching
+----------
+* Machine Learning, 2023 Fall
+* Engineering Applications in Artificial Intelligence, 2023 Spring
+* Machine Learning, 2022 Fall
+
 
 Academia Services
 ----------
@@ -107,10 +113,6 @@ Academia Services
 * etc.   
 
 
-Teaching
-----------
-* Machine Learning, 2023 Fall
-* Engineering Applications in Artificial Intelligence, 2023 Spring
-* Machine Learning, 2022 Fall
+
 
 
