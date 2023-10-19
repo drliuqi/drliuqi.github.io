@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/LRRS-DOA
 date: 2023-2-1
 year: "2023"
-venue: "IEEE Transactions on Aerospace and Electronic Systems, 59, 4,"
+venue: "IEEE Transactions on Aerospace and Electronic Systems, 59(4),"
 city: 
 state: ""
 thumbnail: "LRRS-DOA.png"
