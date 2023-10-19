@@ -1,0 +1,9 @@
+@ARTICLE{9970585,
+  author={Li, Xiao Peng and Shi, Zhang-Lei and Liu, Qi and So, Hing Cheung},
+  journal={IEEE Transactions on Cybernetics}, 
+  title={Fast Robust Matrix Completion via Entry-Wise ℓ0-Norm Minimization}, 
+  year={2023},
+  volume={53},
+  number={11},
+  pages={7199-7212},
+  doi={10.1109/TCYB.2022.3224070}}
