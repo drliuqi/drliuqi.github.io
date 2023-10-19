@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/L0-BCD
 date: 2023-1-6
 year: "2023"
-venue: "IEEE Transactions on Cybernetics,"
+venue: "IEEE Transactions on Cybernetics, 2023"
 city: 
 state: ""
 thumbnail: "L0-BCD.png"
