@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/SAR
 date: 2023-1-1
 year: "2023"
-venue: "IEEE Transactions on Aerospace and Electronic Systems, 59, 1,"
+venue: "IEEE Transactions on Aerospace and Electronic Systems, 59(1),"
 city: 
 state: ""
 thumbnail: "SAR.png"
