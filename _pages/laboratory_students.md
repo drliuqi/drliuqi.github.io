@@ -12,7 +12,7 @@ redirect_from:
 
 Postdocs & RAs
 --------
-* WEI Zhenao 魏振傲：Human-object interaction detection
+* WEI Zhenao 魏振傲：Human-object contact detection
 
 Doctoral Students
 --------
@@ -20,7 +20,7 @@ Doctoral Students
 * WANG Yuxiao 王煜骁 (2022.9-): Human-object interaction detection
 * CHEN Huajun 陈铧浚 (2023.9-): Text-to-image generation
 * ZHANG Xiaohan 张笑晗 (2023.9-): 3D scene reconstruction
-* DENG Yu 邓宇 (2023.9-): Multimodal OCR recognition (阿里联合培养)
+* DENG Yu 邓宇 (2023.9-): Multimodal deepfake detection (阿里联合培养)
 * WANG Yifei 王毅飞 (2023.9-): Micro-expression recognition
 * ZHANG Xiaoyang 张晓阳 (2023.9-): (学科交叉培养)
 * LI Haowen 黎皓文 (2024.9-): Text-to-video generation
