@@ -16,7 +16,7 @@ Postdocs & RAs
 
 Doctoral Students
 --------
-* CHEN Bin 陈彬 (2022.9-): (科大讯飞联合培养)
+* CHEN Bin 陈彬 (2022.9-): Industrial visual inspection (科大讯飞联合培养)
 * WANG Yuxiao 王煜骁 (2022.9-): Human-object interaction detection
 * CHEN Huajun 陈铧浚 (2023.9-): Text-to-image generation
 * ZHANG Xiaohan 张笑晗 (2023.9-): 3D scene reconstruction
