@@ -1,20 +1,20 @@
 ---
-title: "Parameter Tuning-Free Missing-Feature Reconstruction for Robust Sound Recognition"
+title: "BianQue: Balancing the Questioning and Suggestion Ability of Health LLMs with Multi-turn Health Conversations Polished by ChatGPT"
 collection: journals
-permalink: /publication/ASR
-date: 2021-1-01
-year: "2021"
-venue: "IEEE Journal of Selected Topics in Signal Processing, 15(1),"
+permalink: /publication/Bianque
+date: 2023-12-06
+year: "2023"
+venue: "EMNLP Findings,"
 city: 
 state: ""
-thumbnail: "ASR.png"
+thumbnail: "Bianque.png"
 teaser : 
-authors: "Qi Liu, Jibin Wu"
-bibtex: ASR.txt
-uri: ASR.pdf
+authors: "Yirong Chen, Zhenyu Wang, Xiaofen Xing, Zhipei Xu, Kai Fang, Junhong Wang, Sihang Li, Jieling Wu, Qi Liu, Xiangmin Xu"
+bibtex: Bianque.txt
+uri: Bianque.pdf
 arxiv: 
 project: 
-source: https://www.researchgate.net/publication/344585427_Optimum_Co-Design_for_Image_Denoising_between_Type-2_Fuzzy_Identifier_and_Matrix_Completion_Denoiser
+source: 
 poster: 
 data:
 ---
