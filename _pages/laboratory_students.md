@@ -12,7 +12,7 @@ redirect_from:
 
 Postdocs & RAs
 --------
-<img src="{{ "lab_logo.png" | prepend: "/images/" | prepend: base_path }}" class="lab_logo" alt="{{ South China University of Technology Machine Intelligence Laboratory(SMIL)}}" width = "20%">
+<img src="{{ "lab_logo.png" | prepend: "/images/" | prepend: base_path }}" class="lab_logo"  width = "10%">
 * WEI Zhenao 魏振傲：Human-object contact detection
 
 Doctoral Students
