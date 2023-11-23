@@ -12,7 +12,7 @@ redirect_from:
 Perennial Openings
 ----------
 <br />
-　　I am looking for postdocs (300~600K annual salaries, or more), research assistants (6K~8K per month), Ph.D students, master students, and visiting students in AIGC, 3D Scene Reconstruction, Affective Computing, as well as their applications. If you are interested in these positions, please drop me an email.
+　　I am looking for postdocs (300~600K annual salaries, or more), research assistants (6K~8K per month), Ph.D students, master students, and visiting students in AIGC, 3D scene reconstruction, affective computing, human-computer interaction as well as their applications. If you are interested in these positions, please drop me an email.
 
 Requirements:
 * Postdoc: Ph.D degree in EE or CS; will perform research on natural language processing, dialogue generation, human-computer interaction, affective computing, 3D vision, or related video/image/speech/radar signal processing.
