@@ -8,11 +8,10 @@ redirect_from:
 ---
 
 <br />
-　　Students in our group major in AIGC, 3D Scene Reconstruction, Affective Computing, Machine Learning, Digital Twin, Detection & Estimation, etc.
+　　Students in our group major in AIGC, 3D scene reconstruction, affective computing, human-computer interaction, and their applications.
 
 Postdocs & RAs
 --------
-<img src="{{ "lab_logo.png" | prepend: "/images/" | prepend: base_path }}" class="lab_logo"  width = "10%">
 * WEI Zhenao 魏振傲：Human-object contact detection
 
 Doctoral Students
