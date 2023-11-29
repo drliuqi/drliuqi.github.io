@@ -21,7 +21,7 @@ Doctoral Students
 * CHEN Huajun 陈铧浚 (2023.9-): Text-to-image generation
 * ZHANG Xiaohan 张笑晗 (2023.9-): 3D scene reconstruction
 * DENG Yu 邓宇 (2023.9-): Multimodal deepfake detection (阿里联合培养)
-* WANG Yifei 王毅飞 (2023.9-): Micro-expression recognition
+* WANG Yifei 王毅飞 (2023.9-): Multimodal affective computing
 * ZHANG Xiaoyang 张晓阳 (2023.9-): (学科交叉培养)
 * LI Haowen 黎皓文 (2024.9-): Text-to-video generation
 
@@ -29,10 +29,10 @@ Doctoral Students
 Graduate Students
 --------
 * LIN Jinhao 林锦濠 (2022.9-): Multimodal sentiment analysis
-* ZHAO Baozhu 赵宝柱 (2023.9-): 3D Indoor scene reconstruction (阿里联合培养)
+* ZHAO Baozhu 赵宝柱 (2023.9-): 3D indoor scene reconstruction (阿里联合培养)
 * SU Junyan 苏俊彦 (2023.9-): Audio deepfake detection
 * XUE Weiying 薛炜樱 (2023.9-): Human-object interaction detection
-* GUO Jingfeng 郭靖丰 (2023.9-): 3D Large-scale outdoor scene reconstruction
+* GUO Jingfeng 郭靖丰 (2023.9-): 3D large-scale outdoor scene reconstruction
 * WANG Shiqi 王诗琦 (2024.9-): 3D human pose estimation
 * YANG Yi 杨燚 (2024.9-): Multimodal somnipathy analysis
 
