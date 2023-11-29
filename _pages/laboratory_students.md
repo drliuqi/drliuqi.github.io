@@ -28,13 +28,13 @@ Doctoral Students
 
 Graduate Students
 --------
-* LIN Jinhao 林锦濠 (2022.9-): Sentiment recognition
-* ZHAO Baozhu 赵宝柱 (2023.9-): Indoor scene 3D reconstruction (阿里联合培养)
+* LIN Jinhao 林锦濠 (2022.9-): Multimodal sentiment analysis
+* ZHAO Baozhu 赵宝柱 (2023.9-): 3D Indoor scene reconstruction (阿里联合培养)
 * SU Junyan 苏俊彦 (2023.9-): Audio deepfake detection
 * XUE Weiying 薛炜樱 (2023.9-): Human-object interaction detection
-* GUO Jingfeng 郭靖丰 (2023.9-): Large-scale outdoor scene 3D reconstruction
+* GUO Jingfeng 郭靖丰 (2023.9-): 3D Large-scale outdoor scene reconstruction
 * WANG Shiqi 王诗琦 (2024.9-): 3D human pose estimation
-* YANG Yi 杨燚 (2024.9-): Multimodal affective computing
+* YANG Yi 杨燚 (2024.9-): Multimodal somnipathy analysis
 
 Undergraduate Students
 --------
@@ -52,4 +52,4 @@ Undergraduate Students
 
 Alumni (whereabout)
 --------
-* WANG Yifei 王毅飞(RA，2022.9-2023.7)，now pursuing PhD degree at our group in SCUT.
+* WANG Yifei 王毅飞(RA，2022.9-2023.7)， now pursuing PhD degree at our group in SCUT.
