@@ -48,6 +48,7 @@ Patents
 
 Awards and Honors
 ----------
+* 多模态计算与情感交互实验室入选2023年广东省人工智能风云榜-科研机构风云榜, 2023
 * 2020 Exemplary Reviewer of the IEEE Communications Letters, 2023
 * IEEE ICSIDP 2019 (Chongqing), Best Paper Award, 2019
 * Institutional Research Tuition Scholarship, CityU, 2018-2019
