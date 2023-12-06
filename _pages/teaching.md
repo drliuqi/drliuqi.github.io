@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-* 2023.12.06：我们多模态计算与情感交互实验室入选了2023年广东省人工智能风云榜-科研机构风云榜. https://mp.weixin.qq.com/s?__biz=MzUxMTQ0MjU2OQ==&mid=2247499125&idx=1&sn=2d6fcf5103ae4b511c9e8b323e232180&chksm=f9711693ce069f8559dbaa54b1afa52e61ce7961944d159cd956a68fa73e9379366f8eff9a51&scene=0&xtrack=1#rd
+* 2023.12.06：我们多模态计算与情感交互实验室入选了2023年广东省人工智能风云榜-科研机构风云榜. https://mp.weixin.qq.com/s?__biz=MzUxMTQ0MjU2OQ==&mid=2247499125&idx=1&sn=2d6fcf5103ae4b511c9e8b323e232180&chksm.
 * 2023.08.28：课题组获得2023年中央高校基本科研业务费（自然科学类）成果转化类项目“华南理工大学-无锡“未来技术”联合研究中心”.
 * 2023.06.28：I am awarded as 2020 Exemplary Reviewer of the IEEE Communications Letters. https://www.comsoc.org/publications/journals/ieee-comml/reviewer-and-editor-appreciation.
 * 2023.06.26: I organize an IEEE Interest of Things Journal (JCR Q1, IF = 10.238) special issue on "Efficient, Effective, and Explicable AI Inspired IoT over Non-terrestrial Networks", jointly with Dr. H. Chen from Zhijiang Lab, Prof. Q. Yu (中科院院士、IEEE Fellow) from Pengcheng Lab, Prof. I.F. Akyildiz (IEEE Fellow) from Georgia Institute of Technology, and Prof. S. Vorobyov (IEEE Fellow) from Aalto University. Welcome to submit! Please refer to: https://ieee-iotj.org/wp-content/uploads/2023/06/3EAI_Non_Terrestrial.pdf.
