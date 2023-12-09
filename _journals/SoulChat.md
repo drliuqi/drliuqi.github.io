@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "SoulChat.png"
 teaser : 
-authors: "Yirong Chen, Zhenyu Wang, Xiaofen Xing, Zhipei Xu, Kai Fang, Junhong Wang, Sihang Li, Jieling Wu, Qi Liu, Xiangmin Xu"
+authors: "Yirong Chen, Xiaofen Xing, Jingkai Lin, Huimin Zheng, Zhenyu Wang, Qi Liu, Xiangmin Xu"
 bibtex: SoulChat.txt
 uri: SoulChat.pdf
 arxiv: 
