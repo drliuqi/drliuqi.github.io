@@ -5,6 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
+* 2023.12.09：恭喜课题组本科生刘锦绣同学喜提CCF-A顶会一篇，我们的scene graph to image generation工作被AAAI 2024接收。
 * 2023.12.06：我们多模态计算与情感交互实验室入选了2023年广东省人工智能风云榜-科研机构风云榜. https://mp.weixin.qq.com/s?__biz=MzUxMTQ0MjU2OQ==&mid=2247499125&idx=1&sn=2d6fcf5103ae4b511c9e8b323e232180&chksm.
 * 2023.08.28：课题组获得2023年中央高校基本科研业务费（自然科学类）成果转化类项目“华南理工大学-无锡“未来技术”联合研究中心”.
 * 2023.06.28：I am awarded as 2020 Exemplary Reviewer of the IEEE Communications Letters. https://www.comsoc.org/publications/journals/ieee-comml/reviewer-and-editor-appreciation.
