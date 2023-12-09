@@ -12,9 +12,9 @@ teaser :
 authors: "Yirong Chen, Xiaofen Xing, Jingkai Lin, Huimin Zheng, Zhenyu Wang, Qi Liu, Xiangmin Xu"
 bibtex: SoulChat.txt
 uri: SoulChat.pdf
-arxiv: 
+arxiv: https://arxiv.org/pdf/2311.00273v1.pdf
 project: 
-source: 
+source: https://github.com/scutcyr/soulchat
 poster: 
 data:
 ---
