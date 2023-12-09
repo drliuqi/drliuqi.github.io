@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "R3CD.png"
 teaser : 
-authors: "Jinxiu Liu, Qi Liu"
+authors: "Jinxiu Liu, Qi Liu*"
 bibtex: R3CD.txt
 uri: R3CD.pdf
 arxiv: 
