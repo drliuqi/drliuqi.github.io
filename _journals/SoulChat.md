@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/SoulChat
 date: 2023-12-06
 year: "2023"
-venue: "EMNLP Findings,"
+venue: "Findings of ACL, EMNLP,"
 city: 
 state: ""
 thumbnail: "SoulChat.png"
