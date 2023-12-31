@@ -14,7 +14,7 @@ bibtex: R3CD.txt
 uri: R3CD.pdf
 arxiv: 
 project: 
-source: 
+source: https://brandon-liu-jx.github.io/r3cd/
 poster: 
 data:
 ---
