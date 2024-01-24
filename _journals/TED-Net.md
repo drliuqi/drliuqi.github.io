@@ -14,7 +14,7 @@ bibtex: TED-Net.txt
 uri: TED-Net.pdf
 arxiv: 
 project: 
-source: 
+source: https://github.com/YuxiaoWang-AI/TED-Net
 poster: 
 data:
 ---
