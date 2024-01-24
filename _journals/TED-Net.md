@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "TED-Net.png"
 teaser : 
-authors: "Yuxiao Wang, Qi Liu, Yu Lei"
+authors: "Yuxiao Wang, Qi Liu*, Yu Lei"
 bibtex: TED-Net.txt
 uri: TED-Net.pdf
 arxiv: 
