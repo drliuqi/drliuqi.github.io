@@ -39,20 +39,6 @@ Graduate Students
 * WANG Shiqi 王诗琦 (2024.9-): 3D human pose estimation
 * YANG Yi 杨燚 (2024.9-): Multimodal somnipathy analysis
 
-Undergraduate Students
---------
-* PAN Yufei 潘雨菲 
-* ZHENG Xiang 郑想 
-* ZHANG Bowen 张博文
-* CAI Zihao 蔡子皓 
-* YIN Bo 尹博 
-* JIANG Xinyu 蒋新宇 
-* WANG Zihan 王子寒 
-* CHEN Zixuan 陈子轩
-* HU Tianyi 胡天屹 
-* LIU Xingyan 刘兴琰
-* HAN Lele 韩乐乐
-
 Alumni (whereabout)
 --------
 * WANG Yifei 王毅飞(RA，2022.9-2023.7)， now pursuing PhD degree at our group in SCUT.
