@@ -1,0 +1,1 @@
+J. Liu and Q. Liu, “R3CD: Scene Graph to Image Generation with Relation-Aware Compositional Contrastive Control Diffusion”, AAAI, vol. 38, no. 4, pp. 3657-3665, Mar. 2024.
