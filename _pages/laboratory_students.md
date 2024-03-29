@@ -38,6 +38,7 @@ Graduate Students
 * GUO Jingfeng 郭靖丰 (2023.9-): 3D large-scale outdoor scene reconstruction
 * WANG Shiqi 王诗琦 (2024.9-): 3D human pose estimation
 * YANG Yi 杨燚 (2024.9-): Multimodal somnipathy analysis
+* Shuyi Hu 胡舒熠 (2024.9-): 
 
 Alumni (whereabout)
 --------
