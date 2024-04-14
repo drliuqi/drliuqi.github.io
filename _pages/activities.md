@@ -85,7 +85,10 @@ Academia Services
 * J. Xu, Q. Liu, P. Xiao, Session Chair of "Array Signal Processing", in the 14th International Conference on Signal Processing Systems (ICSPS), Zhenjiang, China, 2022. http://www.icsps.org/s6.html
 
 4) Invited Talks:
-* Keynote Speaker: "Human-Object Interaction Detection", the 3rd ICFEICT, Yangzhou, China, 26 May 2023-29 May 2023.
+* 受邀报告："大模型垂直落地挑战及在主动健康方向探索", 电子科技大学计算机学院，成都，2024/04/12. https://www.scse.uestc.edu.cn/info/1056/15623.htm
+* 受邀报告："HealthGPT：主动健康大模型", 广州人工智能公共算力中心，广州，2023/07/06. https://zhuanlan.zhihu.com/p/642571833
+* 受邀报告："类脑计算与高效能算法设计"， 广东省智能科学与技术研究院，珠海，2023/06/29. https://gdiist.cn/news/detail/6/124
+* Keynote Speaker: "Human-Object Interaction Detection", the 3rd ICFEICT, Yangzhou, China, 26 May 2023-29 May 2023. https://www.computer.org/csdl/proceedings-article/icfeict/2023/023500z022/1Q5p9H6WnQs
 * Invited Speaker: "Image denoising via 2D random interpolation average scheme", hosted by Prof. Truong Nguyen (IEEE Fellow), Department of Electrical and Computer Engineering, University of California, San Diego (UCSD), 03 Dec. 2018.
 * Invited Speaker: "Weakly convex optimization for signal processing problems", hosted by Prof. P.P. Vaidyanathan (IEEE Fellow，美国工程院院士), Department of Electrical Engineering, California Institute of Technology (Caltech), 30 Nov. 2018. 
 
