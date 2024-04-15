@@ -36,7 +36,7 @@ Graduate Students
 * SU Junyan 苏俊彦 (2023.9-): 3D indoor scene reconstruction
 * XUE Weiying 薛炜樱 (2023.9-): Human-object interaction detection
 * GUO Jingfeng 郭靖丰 (2023.9-): 3D large-scale outdoor scene reconstruction
-* WANG Shiqi 王诗琦 (2024.9-): 3D human pose estimation
+* WANG Shiqi 王诗琦 (2024.9-): 3D human pose estimation (阿里联合培养)
 * YANG Yi 杨燚 (2024.9-): Multimodal somnipathy analysis
 * Shuyi Hu 胡舒熠 (2024.9-): 
 
