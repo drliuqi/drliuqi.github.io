@@ -19,7 +19,7 @@ Experiences
 * Visiting Scholar: Oct. 2018 - Apr. 2019  
   Department of Electrical and Computer Engineering, University of California Davis (UCD), CA, USA   
   Supervisor: Prof. Zhi Ding (IEEE Fellow)
-* Ph.D degree: Aug. 2016 - Aug. 2019  
+* Ph.D degree: Aug. 2016 - Oct. 2019  
   Department of Electrical Engineering, City University of Hong Kong (CityU), Hong Kong, China   
   Supervisor: Prof. Hing Cheung So (IEEE Fellow)
 * M.S degree: Sept. 2013 - Mar. 2016  
