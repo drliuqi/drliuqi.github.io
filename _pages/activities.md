@@ -62,11 +62,6 @@ Awards and Honors
 * National Scholarship, HEU, 2015
 
 
-Teaching
-----------
-* Machine Learning, 2023 Fall
-* Engineering Applications in Artificial Intelligence, 2023 Spring
-* Machine Learning, 2022 Fall
 
 
 Academia Services
@@ -95,31 +90,11 @@ Academia Services
 * Invited Speaker: "Image denoising via 2D random interpolation average scheme", hosted by Prof. Truong Nguyen (IEEE Fellow), Department of Electrical and Computer Engineering, University of California, San Diego (UCSD), 03 Dec. 2018.
 * Invited Speaker: "Weakly convex optimization for signal processing problems", hosted by Prof. P.P. Vaidyanathan (IEEE Fellow，美国工程院院士), Department of Electrical Engineering, California Institute of Technology (Caltech), 30 Nov. 2018. 
 
-5) Journal/Conference Reviewer:  
-* IEEE Internet of Things Journal
-* IEEE Transactions on Cybernetics
-* IEEE Transactions on Evolutionary Computations
-* IEEE Transactions on Signal Processing
-* IEEE Transactions on Communications
-* IEEE Transactions on Audio, Speech and Language Processing
-* IEEE Journal of Selected Topics in Signal Processing
-* IEEE Transactions on Aerospace and Electronic Systems
-* IEEE Transactions on Vehicular Technology
-* IEEE Transactions on Systems, Man and Cybernetics: Systems
-* IEEE Sensors Journal
-* IEEE Systems Journal
-* IEEE Signal Processing Letters
-* IEEE Wireless Communications Letters
-* IEEE Communications Letters
-* Signal Processing
-* Digital Signal Processing
-* Journal of Machine Learning Research (JMLR)
-* International Conference on Machine Learning (ICML) 2022
-* IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2023
-* IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2022
-* IEEE International Joint Conference on Neural Networks (IJCNN) 2021
-* IEEE Sensor Array and Multichannel Signal Processing Workshop (SAM) 2018
-* etc.   
+Teaching
+----------
+* Machine Learning, 2023 Fall
+* Engineering Applications in Artificial Intelligence, 2023 Spring
+* Machine Learning, 2022 Fall
 
 
 
