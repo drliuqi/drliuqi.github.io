@@ -26,6 +26,7 @@ Doctoral Students
 * LI Haowen 黎皓文 (2024.9-): Text-to-video generation
 * CAO Boyu 曹博禹 (2024.9-): Text-to-music generation (阿里联合培养)
 * XU Mingda 许明达 (2024.9-): 3D scene reconstruction (阿里联合培养)
+* ZHUANG Nan 庄楠 (2024.6-): Human-object interaction detection (浙江大学联合培养)
 
 
 
