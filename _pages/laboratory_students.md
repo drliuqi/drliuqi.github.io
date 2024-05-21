@@ -12,7 +12,7 @@ redirect_from:
 
 Postdocs & RAs
 --------
-* WEI Zhenao 魏振傲：Human-object contact detection
+* WEI Zhenao 魏振傲 (2023.1-)：Human-object contact detection
 
 Doctoral Students
 --------
