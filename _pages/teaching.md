@@ -9,6 +9,7 @@ author_profile: true
 * 2023.12.06：多模态计算与情感交互实验室入选了2023年广东省人工智能风云榜-科研机构风云榜. https://mp.weixin.qq.com/s?__biz=MzUxMTQ0MjU2OQ==&mid=2247499125&idx=1&sn=2d6fcf5103ae4b511c9e8b323e232180&chksm.
 * 2023.08.28：课题组获得2023年中央高校基本科研业务费（自然科学类）成果转化类项目“华南理工大学-无锡“未来技术”联合研究中心”.
 * 2023.08.01：刘琦教授被广东省人工智能产业协会聘请为粤港澳大湾区人工智能产业智库专家.
+* 2023.07.24：刘琦教授被增选为中国图象图形学学会多媒体专委会委员.
 * 2023.06.28：Prof. Liu is awarded as 2020 Exemplary Reviewer of the IEEE Communications Letters. https://www.comsoc.org/publications/journals/ieee-comml/reviewer-and-editor-appreciation.
 * 2023.06.26: Prof. Liu organizes an IEEE Interest of Things Journal (JCR Q1, IF = 10.238) special issue on "Efficient, Effective, and Explicable AI Inspired IoT over Non-terrestrial Networks", jointly with Dr. H. Chen from Zhijiang Lab, Prof. Q. Yu (中科院院士、IEEE Fellow) from Pengcheng Lab, Prof. I.F. Akyildiz (IEEE Fellow) from Georgia Institute of Technology, and Prof. S. Vorobyov (IEEE Fellow) from Aalto University. Welcome to submit! Please refer to: https://ieee-iotj.org/wp-content/uploads/2023/06/3EAI_Non_Terrestrial.pdf.
 * 2023.06.07：课题组获得广州钛动科技股份有限公司的企业委托项目“在线广告需求平台算法与策略优化项目”.
