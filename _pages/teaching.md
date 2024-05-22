@@ -14,7 +14,7 @@ author_profile: true
 * 2023.06.26: Prof. Liu organizes an IEEE Interest of Things Journal (JCR Q1, IF = 10.238) special issue on "Efficient, Effective, and Explicable AI Inspired IoT over Non-terrestrial Networks", jointly with Dr. H. Chen from Zhijiang Lab, Prof. Q. Yu (中科院院士、IEEE Fellow) from Pengcheng Lab, Prof. I.F. Akyildiz (IEEE Fellow) from Georgia Institute of Technology, and Prof. S. Vorobyov (IEEE Fellow) from Aalto University. Welcome to submit! Please refer to: https://ieee-iotj.org/wp-content/uploads/2023/06/3EAI_Non_Terrestrial.pdf.
 * 2023.06.07：课题组获得广州钛动科技股份有限公司的企业委托项目“在线广告需求平台算法与策略优化项目”.
 * 2023.04.28: Prof. Liu is elevated to the grade of IEEE Senior member.
-* 2023.04.17：刘琦教授被聘请为全国研究生教育评估监测专家库专家。
+* 2023.04.17：刘琦教授被聘请为全国研究生教育评估监测专家库专家.
 * 2023.02.09: 课题组本科生-陈子轩同学和刘彦志同学分别获得2023年学校百步梯攀登计划立项“民之康健吾辈责--基于混合现实的健康app及其配套硬件开发”、“虚拟教练--基于AI姿态分析及混合现实人机交互的智慧健身指导系统”.
 * 2023.01.06: Welcome Dr. Wei Zhenao from Ritsumeikan University, Japan! Zhenao joins us as a Postdoc.
 * 2022.10.29: 课题组获得北京航空航天大学-中国航天九院鸿鹊创新中心2022年度开放基金“面向电磁信号参数测量的深度神经网络轻量化结构研究”.
