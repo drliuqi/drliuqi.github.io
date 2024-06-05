@@ -11,6 +11,8 @@ redirect_from:
 
 Experiences
 ----------
+* 副处长（挂职）：2022年5月-2023年5月
+  华南理工大学，科学技术研究院，重大项目与高新技术处
 * Professor: Mar. 2022 - now   
   School of Future Technology, South China University of Technology (SCUT), Guangzhou, China
 * Research Fellow: Oct. 2019 - Mar. 2022  
