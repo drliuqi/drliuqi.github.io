@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "JointScnn.png"
 teaser : 
-authors: "Zhixuan Zhang, Qi Liu, Zhenao Wei"
+authors: "Zhixuan Zhang, Qi Liu*, Zhenao Wei"
 bibtex: JointScnn.txt
 uri: JointScnn.pdf
 arxiv: 
