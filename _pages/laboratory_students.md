@@ -44,4 +44,4 @@ Graduate Students
 
 Alumni (whereabout)
 --------
-* WANG Yifei 王毅飞(RA，2022.9-2023.7)， now pursuing PhD degree at our group in SCUT.
+* WANG Yifei 王毅飞(RA，2022.9-2023.7)，pursuing PhD degree at our group in SCUT.
