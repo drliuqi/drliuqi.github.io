@@ -17,7 +17,7 @@ Perennial Openings
 Requirements:
 * Postdoc: Ph.D degree in EE or CS; will perform research on natural language processing, dialogue generation, human-computer interaction, affective computing, 3D vision, or related video/image/speech/radar signal processing.
 * Research assistant: should possess at least bachelor's degree (no requirement in discipline). Programming experience is preferred.
-* 硕士/博士研究生招生：英雄不问"出身"，不以一时之成败论英雄，有发表论文者优先。（注：团队成员有来自于双非院校，也有来自于985/211高校，甚至有来自于日本、美国等大学）
+* 硕士/博士研究生招生：英雄不问“出身”，不以一时之成败论英雄，有发表论文者优先。（注：团队成员有来自于双非院校，也有来自于985/211高校，甚至有来自于日本、美国等大学）
 
 Potential candidates are welcome to submit their CVs to:  
 Prof. Qi Liu (drliuqi@scut.edu.cn)   
