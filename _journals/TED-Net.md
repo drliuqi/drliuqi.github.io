@@ -16,5 +16,5 @@ arxiv:
 project: 
 source: https://github.com/YuxiaoWang-AI/TED-Net
 poster: 
-data:
+data: https://github.com/YuxiaoWang-AI/TED-Net
 ---
