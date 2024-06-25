@@ -14,7 +14,7 @@ bibtex: JointScnn.txt
 uri: JointScnn.pdf
 arxiv: 
 project: 
-source: 
+source: https://github.com/drliuqi/Joint-Scnn-For-DOA
 poster: 
 data:
 ---
