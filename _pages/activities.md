@@ -82,12 +82,7 @@ Academia Services
 * Xianpeng Wang, Qi Liu, and Bin Zhang, Special Issue on "Efficient Processing and Learning with DNNs for Multidimensional Signal Processing", International Journal of Antennas and Propagation, 2022. https://www.hindawi.com/journals/ijap/si/837632/
 * Xianpeng Wang, Qi Liu, Bin Zhang and Wei Liu, Special Issue on "Scalable and Robust Optimization Techniques for Multidimensional Signal Processing", Wireless Communications and Mobile Computing, 2022. https://www.hindawi.com/journals/wcmc/si/395818/
 
-3) Conference Chair:  
-* Q. Liu and Z. Wei, Workshop Chair of "Multimodal/Crossmodal Perception and Content Understanding" in the 4th International Conference on Image, Vision and Intelligent Systems (ICIVIS), Xining, China, 2024. http://www.icivis.net//
-* Q. Liu and H. Cao, Special Session Chair of "Artificial Intelligence based Array Signal Processing and Its Applications" in the 2nd International Conference on Frontiers of Electronics, Information and Computation Technologies (ICFEICT), Wuhan, China, 2022. http://www.feict.net/workshop/
-* J. Xu, Q. Liu, P. Xiao, Session Chair of "Array Signal Processing", in the 14th International Conference on Signal Processing Systems (ICSPS), Zhenjiang, China, 2022. http://www.icsps.org/s6.html
-
-4) Invited Talks:
+3) Invited Talks:
 * 受邀报告："大模型垂直落地挑战及在主动健康方向探索", 华南理工大学新闻与传播学院，广州，2024/06/13
 * 受邀报告："基于多源异构信息的多模态数据处理", 西安科技大学，西安，第三届西部融合通信与智能信息处理学术论坛会议，2024/05/11
 * 受邀报告："大模型垂直落地挑战及在主动健康方向探索", 电子科技大学计算机学院，成都，2024/04/12. https://www.scse.uestc.edu.cn/info/1056/15623.htm
@@ -96,6 +91,12 @@ Academia Services
 * Keynote Speaker: "Human-Object Interaction Detection", the 3rd ICFEICT, Yangzhou, China, 26 May 2023-29 May 2023. https://www.computer.org/csdl/proceedings-article/icfeict/2023/023500z022/1Q5p9H6WnQs
 * Invited Speaker: "Image denoising via 2D random interpolation average scheme", hosted by Prof. Truong Nguyen (IEEE Fellow), Department of Electrical and Computer Engineering, University of California, San Diego (UCSD), 03 Dec. 2018.
 * Invited Speaker: "Weakly convex optimization for signal processing problems", hosted by Prof. P.P. Vaidyanathan (IEEE Fellow，美国工程院院士), Department of Electrical Engineering, California Institute of Technology (Caltech), 30 Nov. 2018. 
+
+4) Conference Chair:  
+* Q. Liu and Z. Wei, Workshop Chair of "Multimodal/Crossmodal Perception and Content Understanding" in the 4th International Conference on Image, Vision and Intelligent Systems (ICIVIS), Xining, China, 2024. http://www.icivis.net//
+* Q. Liu and H. Cao, Special Session Chair of "Artificial Intelligence based Array Signal Processing and Its Applications" in the 2nd International Conference on Frontiers of Electronics, Information and Computation Technologies (ICFEICT), Wuhan, China, 2022. http://www.feict.net/workshop/
+* J. Xu, Q. Liu, P. Xiao, Session Chair of "Array Signal Processing", in the 14th International Conference on Signal Processing Systems (ICSPS), Zhenjiang, China, 2022. http://www.icsps.org/s6.html
+
 
 Teaching
 ----------
