@@ -28,6 +28,7 @@ Doctoral Students
 * XU Mingda 许明达 (2024.9-): 3D scene reconstruction (阿里联合培养)
 * ZHUANG Nan 庄楠 (2024.6-): Human-object interaction detection (浙江大学联合培养)
 * LUO Ye 罗烨 (2024.9-): (学科交叉培养)
+* TAHIR AREEBA (2024.9-): 
 
 
 
