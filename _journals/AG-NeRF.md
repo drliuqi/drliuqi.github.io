@@ -14,7 +14,7 @@ bibtex: AG-NeRF.txt
 uri: AG-NeRF.pdf
 arxiv: https://arxiv.org/abs/2405.06214
 project: 
-source: 
+source: https://github.com/gjgjgjfff/AG-NeRF
 poster: 
 data:
 ---
