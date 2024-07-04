@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/TED-Net
 date: 2024-1-22
 year: "2024"
-venue: "IEEE Transactions on Circuits and Systems for Video Technology,"
+venue: "IEEE Transactions on Circuits and Systems for Video Technology, 34(7),"
 city: 
 state: ""
 thumbnail: "TED-Net.png"
