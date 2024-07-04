@@ -1,0 +1,10 @@
+@ARTICLE{10415065,
+  author={Wang, Yuxiao and Liu, Qi and Lei, Yu},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={TED-Net: Dispersal Attention for Perceiving Interaction Region in Indirectly-Contact HOI Detection}, 
+  year={2024},
+  volume={34},
+  number={7},
+  pages={5603-5615},
+  keywords={Decoding;Pipelines;Task analysis;Streaming media;Semantics;Visualization;Feature extraction;Human-object interaction;object detection;computer vision},
+  doi={10.1109/TCSVT.2024.3358952}}
