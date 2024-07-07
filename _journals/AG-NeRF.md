@@ -12,7 +12,7 @@ teaser :
 authors: "Jingfeng Guo, Xiaohan Zhang, Baozhu Zhao, Qi Liu*"
 bibtex: AG-NeRF.txt
 uri: AG-NeRF.pdf
-arxiv: https://arxiv.org/abs/2405.06214
+arxiv: https://arxiv.org/abs/2404.11897
 project: 
 source: https://github.com/gjgjgjfff/AG-NeRF
 poster: 
