@@ -79,6 +79,7 @@ Academia Services
 * Electronics and Signal Processing, 2022- . https://www.elspub.com/journals/electronics-and-signal-processing
 
 2) Guest Editor:  
+* Hongxu Zhu, Haoran Chi, Xinyuan Qian, Rui Liu, and Qi Liu, Special Issue on "Human Machine Interface for Next Generation Consumer Electronics", IEEE Transactions on Consumer Electronics, 2024. https://ctsoc.ieee.org/images/TCE_FILES/Approved_CFP/August_2024/TCE_SS_CFP_Human_Machine_Interface_for_Next_generation_Consumer_Electronics.pdf.
 * Hongyang Chen, Qi Liu, Quan Yu, Ian F. Akyildiz, and Sergy Vorobyov, Special Issue on "Efficient, Effective, and Explicable AI Inspired IoT over Non-terrestrial Networks", IEEE Interest of Things Journal, 2023. https://ieee-iotj.org/wp-content/uploads/2023/06/3EAI_Non_Terrestrial.pdf.
 * Qi Liu, Junli Liang, Hing Cheung So, and Yimin Daniel Zhang, Special Issue on "Neural Networks and Machine Learning for Multidimensional Signal Processing", IET Signal Processing, 2022. https://digital-library.theiet.org/content/journals/iet-spr
 * Xianpeng Wang, Qi Liu, and Bin Zhang, Special Issue on "Efficient Processing and Learning with DNNs for Multidimensional Signal Processing", International Journal of Antennas and Propagation, 2022. https://www.hindawi.com/journals/ijap/si/837632/
