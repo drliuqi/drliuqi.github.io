@@ -5,6 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
+* 2024.08.01: We organize a special issue on "Human Machine Interface for Next Generation Consumer Electronics", IEEE Transactions on Consumer Electronics. Welcome to submit! Please refer to: https://ctsoc.ieee.org/images/TCE_FILES/Approved_CFP/August_2024/TCE_SS_CFP_Human_Machine_Interface_for_Next_generation_Consumer_Electronics.pdf
 * 2024.06.01：课题组本科生刘锦绣同学加入斯坦福大学李飞飞（Fei-Fei Li）教授团队.
 * 2024.05.22：课题组获批2024年校级教研教改项目——青年教改一般项目“聚焦产学研的机器学习前沿课堂”.
 * 2024.04.18：课题组和厦门威恩科技有限公司联合共建“AI赋能主动健康联合实验室”.
