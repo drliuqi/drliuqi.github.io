@@ -27,7 +27,7 @@ Doctoral Students
 * CAO Boyu 曹博禹 (2024.9-): Text-to-music generation (阿里联合培养)
 * XU Mingda 许明达 (2024.9-): 3D scene reconstruction (阿里联合培养)
 * ZHUANG Nan 庄楠 (2024.6-): Human-object interaction detection (浙江大学联合培养)
-* LUO Ye 罗烨 (2024.9-): (学科交叉培养)
+* LUO Ye 罗烨 (2024.9-): AI + Physics (学科交叉培养)
 * TAHIR AREEBA (2024.9-): 
 
 
@@ -39,9 +39,9 @@ Graduate Students
 * SU Junyan 苏俊彦 (2023.9-): 3D scene reconstruction
 * XUE Weiying 薛炜樱 (2023.9-): Human-object interaction detection
 * GUO Jingfeng 郭靖丰 (2023.9-): 3D scene reconstruction
-* WANG Shiqi 王诗琦 (2024.9-): 3D scene estimation (阿里联合培养)
-* YANG Yi 杨燚 (2024.9-): Multimodal somnipathy analysis
-* Shuyi Hu 胡舒熠 (2024.9-): 
+* WANG Shiqi 王诗琦 (2024.9-): 3D scene reconstruction (阿里联合培养)
+* YANG Yi 杨燚 (2024.9-): Text-to-music generation
+* Shuyi Hu 胡舒熠 (2024.9-): 3D scene reconstruction 
 
 Alumni (whereabout)
 --------
