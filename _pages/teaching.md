@@ -5,6 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
+* 2024.09.03：刘琦教授被推荐为华南理工大学2023-2024学年度本科生优秀班主任.
 * 2024.09.02: 刘琦教授参与起草了国家标准《上下肢运动功能评估与训练设备通用要求》（标准号：20221530-T-314）.
 * 2024.08.14: 课题组获批未来技术太湖创新基金.
 * 2024.08.01: We organize a special issue on "Human Machine Interface for Next Generation Consumer Electronics", IEEE Transactions on Consumer Electronics. Welcome to submit! Please refer to: https://ctsoc.ieee.org/images/TCE_FILES/Approved_CFP/August_2024/TCE_SS_CFP_Human_Machine_Interface_for_Next_generation_Consumer_Electronics.pdf
