@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "OpenStory.png"
 teaser : 
-authors: "Zilyu Ye, Jinxiu Liu, Jinjin Cao, Zhiyang Chen, Ziwei Xuan, Mingyuan Zhou, Qi Liu, Guo-Jun Qi"
+authors: "Zilyu Ye, Jinxiu Liu, Jinjin Cao, Zhiyang Chen, Ziwei Xuan, Mingyuan Zhou, Qi Liu*, Guo-Jun Qi*"
 bibtex: OpenStory.txt
 uri: OpenStory.pdf
 arxiv: 
