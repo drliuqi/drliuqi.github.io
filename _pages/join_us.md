@@ -24,6 +24,6 @@ Requirements:
   3）睡眠障碍/分期检测（注：医学背景优先）. 
 * 课题组非常自由，但是我对学生在科研态度上要求严格，如果只是为了混学位，或读研期间只想着去公司实习，请勿联系！！！
 
-Potential candidates are welcome to submit CVs to:  
+Potential candidates are welcome to submit CV to:  
 Prof. Qi Liu (drliuqi@scut.edu.cn)   
 School of Future Technology, South China University of Technology.
