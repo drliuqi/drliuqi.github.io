@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/ConP
 date: 2024-6-07
 year: "2024"
-venue: "Science Bulletin,"
+venue: "Science Bulletin, 69, 18,"
 city: 
 state: ""
 thumbnail: "ConP.png"
