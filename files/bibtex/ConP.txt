@@ -1,0 +1,14 @@
+@article{WU20242906,
+title = {Multi-rater Prism: Learning self-calibrated medical image segmentation from multiple raters},
+journal = {Science Bulletin},
+volume = {69},
+number = {18},
+pages = {2906-2919},
+year = {2024},
+issn = {2095-9273},
+doi = {https://doi.org/10.1016/j.scib.2024.06.037},
+url = {https://www.sciencedirect.com/science/article/pii/S2095927324005279},
+author = {Junde Wu and Huihui Fang and Jiayuan Zhu and Yu Zhang and Xiang Li and Yuanpei Liu and Huiying Liu and Yueming Jin and Weimin Huang and Qi Liu and Cen Chen and Yanfei Liu and Lixin Duan and Yanwu Xu and Li Xiao and Weihua Yang and Yue Liu},
+keywords = {Medical image segmentation, Multiple raters, Self-calibration, Half-quadratic algorithm},
+abstract = {In medical image segmentation, it is often necessary to collect opinions from multiple experts to make the final decision. This clinical routine helps to mitigate individual bias. However, when data is annotated by multiple experts, standard deep learning models are often not applicable. In this paper, we propose a novel neural network framework called Multi-rater Prism (MrPrism) to learn medical image segmentation from multiple labels. Inspired by iterative half-quadratic optimization, MrPrism combines the task of assigning multi-rater confidences and calibrated segmentation in a recurrent manner. During this process, MrPrism learns inter-observer variability while taking into account the image’s semantic properties and finally converges to a self-calibrated segmentation result reflecting inter-observer agreement. Specifically, we propose Converging Prism (ConP) and Diverging Prism (DivP) to iteratively process the two tasks. ConP learns calibrated segmentation based on multi-rater confidence maps estimated by DivP, and DivP generates multi-rater confidence maps based on segmentation masks estimated by ConP. Experimental results show that the two tasks can mutually improve each other through this recurrent process. The final converged segmentation result of MrPrism outperforms state-of-the-art (SOTA) methods for a wide range of medical image segmentation tasks. The code is available at https://github.com/WuJunde/MrPrism.}
+}
