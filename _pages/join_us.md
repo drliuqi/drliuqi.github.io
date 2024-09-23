@@ -35,6 +35,8 @@ School of Future Technology, South China University of Technology.
         <img src="images/mstile-144x144.png" alt="Image 1">
         <img src="images/mstile-150x150.png" alt="Image 2">
         <img src="images/mstile-70x70.png" alt="Image 3">
+        <img src="images/001.png" alt="Image 3">
+        <img src="images/002.png" alt="Image 3">
     </div>
 </div>
 
