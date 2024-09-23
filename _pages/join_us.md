@@ -29,7 +29,7 @@ Prof. Qi Liu (drliuqi@scut.edu.cn)
 School of Future Technology, South China University of Technology.
 
 
-# 🔥 Pictures
+# 🔥 Flash
 <div id="slider" style="width: 900px; overflow: hidden; margin-left: 56px;">
     <div id="slider-inner">
         <img src="images/mstile-144x144.png" alt="Image 1">
