@@ -41,7 +41,10 @@ Graduate Students
 * GUO Jingfeng 郭靖丰 (2023.9-): 3D scene reconstruction
 * WANG Shiqi 王诗琦 (2024.9-): 3D scene reconstruction (阿里联合培养)
 * YANG Yi 杨燚 (2024.9-): Text-to-music generation
-* Shuyi Hu 胡舒熠 (2024.9-): 3D scene reconstruction 
+* Shuyi Hu 胡舒熠 (2024.9-): 3D scene reconstruction
+* Xiaoye Zhu 朱小烨 (2025.9-):
+* Bowen Zhang 张博文 (2025.9-):
+* Qizheng Xu 徐启正 (2025.9-):
 
 Alumni (whereabout)
 --------
