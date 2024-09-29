@@ -45,6 +45,7 @@ Graduate Students
 * Xiaoye Zhu 朱小烨 (2025.9-):
 * Hao Wang 王浩 (2025.9-):
 * Jiahao Ni 倪家豪 (2025.9-):
+* Kerui Li 李柯锐 (2025.9-):
 
 Alumni (whereabout)
 --------
