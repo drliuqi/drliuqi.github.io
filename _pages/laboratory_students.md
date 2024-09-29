@@ -44,6 +44,8 @@ Graduate Students
 * Shuyi Hu 胡舒熠 (2024.9-): 3D scene reconstruction
 * Xiaoye Zhu 朱小烨 (2025.9-):
 * Qizheng Xu 徐启正 (2025.9-):
+* Hao Wang 王浩 (2025.9-):
+* Jialiang Li 李佳梁 (2025.9-):
 
 Alumni (whereabout)
 --------
