@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/InstructRL4Pix
 date: 2024-5-11
 year: "2024"
-venue: "CVPR Workshop,"
+venue: "CVPR Workshops,"
 city: 
 state: ""
 thumbnail: "InstructRL4Pix.png"
