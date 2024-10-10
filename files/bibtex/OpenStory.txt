@@ -1,0 +1,8 @@
+@InProceedings{Ye_2024_CVPR,
+    author    = {Ye, Zilyu and Liu, Jinxiu and Cao, JinJin and Chen, Zhiyang and Xuan, Ziwei and Zhou, Mingyuan and Liu, Qi and Qi, Guo-Jun},
+    title     = {OpenStory: A Large-Scale Open-Domain Dataset for Subject-Driven Visual Storytelling},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2024},
+    pages     = {7953-7962}
+}
