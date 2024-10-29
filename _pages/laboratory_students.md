@@ -12,7 +12,7 @@ redirect_from:
 
 Postdocs & RAs
 --------
-* WEI Zhenao 魏振傲 (Postdoc，2023.1-)：Human-object contact detection
+* WEI Zhenao 魏振傲 (Postdoc，2023.1-)： Human-object contact detection
 
 Doctoral Students
 --------
@@ -42,10 +42,10 @@ Graduate Students
 * WANG Shiqi 王诗琦 (2024.9-): 3D scene reconstruction (阿里联合培养)
 * YANG Yi 杨燚 (2024.9-): Text-to-music generation
 * Shuyi Hu 胡舒熠 (2024.9-): 3D scene reconstruction
-* Xiaoye Zhu 朱小烨 (2025.9-):
-* Hao Wang 王浩 (2025.9-):
-* Jiahao Ni 倪家豪 (2025.9-):
-* Kerui Li 李柯锐 (2025.9-):
+* Xiaoye Zhu 朱小烨 (2025.9-): Text-to-video generation
+* Hao Wang 王浩 (2025.9-): Human-object interaction detection
+* Jiahao Ni 倪家豪 (2025.9-): 3D scene reconstruction
+* Kerui Li 李柯锐 (2025.9-): 3D scene reconstruction
 
 Alumni (whereabout)
 --------
