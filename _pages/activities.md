@@ -100,6 +100,7 @@ Academia Services
 * Xianpeng Wang, Qi Liu, Bin Zhang and Wei Liu, Special Issue on "Scalable and Robust Optimization Techniques for Multidimensional Signal Processing", Wireless Communications and Mobile Computing, 2022. https://www.hindawi.com/journals/wcmc/si/395818/
 
 3) Invited Talks:
+* Invited Speaker："Novel view synthesis and 3D reconstruction", in the 5th International Conference on Computer, Big Data and Artificial Intelligence, Jingdezhen, China, 2024/11/02
 * 受邀报告："大模型垂直落地挑战及在主动健康方向探索", 华南理工大学新闻与传播学院，广州，2024/06/13
 * 受邀报告："基于多源异构信息的多模态数据处理", 西安科技大学，西安，第三届西部融合通信与智能信息处理学术论坛会议，2024/05/11
 * 受邀报告："大模型垂直落地挑战及在主动健康方向探索", 电子科技大学计算机学院，成都，2024/04/12. https://www.scse.uestc.edu.cn/info/1056/15623.htm
