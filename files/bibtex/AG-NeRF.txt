@@ -1,0 +1,22 @@
+@InProceedings{10.1007/978-981-97-8508-7_8,
+author="Guo, Jingfeng
+and Zhang, Xiaohan
+and Zhao, Baozhu
+and Liu, Qi",
+editor="Lin, Zhouchen
+and Cheng, Ming-Ming
+and He, Ran
+and Ubul, Kurban
+and Silamu, Wushouer
+and Zha, Hongbin
+and Zhou, Jie
+and Liu, Cheng-Lin",
+title="AG-NeRF: Attention-Guided Neural Radiance Fields for Multi-height Large-Scale Outdoor Scene Rendering",
+booktitle="Pattern Recognition and Computer Vision",
+year="2025",
+publisher="Springer Nature Singapore",
+address="Singapore",
+pages="110--122",
+abstract="Existing neural radiance fields (NeRF)-based novel view synthesis methods for large-scale outdoor scenes are mainly built on a single altitude. Moreover, they often require a priori camera shooting height and scene scope, leading to inefficient and impractical applications when camera altitude changes. In this work, we propose an end-to-end framework, termed AG-NeRF, and seek to reduce the training cost of building good reconstructions by synthesizing free-viewpoint images based on varying altitudes of scenes. Specifically, to tackle the detail variation problem from low altitude (drone-level) to high altitude (satellite-level), a source image selection method and an attention-based feature fusion approach are developed to extract and fuse the most relevant features of target view from multi-height images for high-fidelity rendering. Extensive experiments demonstrate that AG-NeRF achieves SOTA performance on 56 Leonard and Transamerica benchmarks and only requires a half hour of training time to reach the competitive PSNR as compared to the latest BungeeNeRF.",
+isbn="978-981-97-8508-7"
+}
