@@ -1,0 +1,10 @@
+@ARTICLE{10559392,
+  author={Zhang, Zhixuan and Liu, Qi and Wei, Zhenao},
+  journal={IEEE Transactions on Vehicular Technology}, 
+  title={Joint-Scnn: Joint Spiking Convolution Network for Direction of Arrival Estimation}, 
+  year={2024},
+  volume={73},
+  number={11},
+  pages={16654-16662},
+  keywords={Direction-of-arrival estimation;Estimation;Neurons;Sensor arrays;Covariance matrices;Multiple signal classification;Vectors;Direction of arrival;spiking neural network;tandem learning;transfer learning},
+  doi={10.1109/TVT.2024.3415438}}
