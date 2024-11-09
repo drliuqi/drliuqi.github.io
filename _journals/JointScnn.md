@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/JointScnn
 date: 2024-6-13
 year: "2024"
-venue: "IEEE Transactions on Vehicular Technology,"
+venue: "IEEE Transactions on Vehicular Technology, 73(11),"
 city: 
 state: ""
 thumbnail: "JointScnn.png"
