@@ -91,7 +91,7 @@ Teaching
 Academia Services
 ----------
 1) Technical Program Committee:
-* The 5th International Conference on Image, Vision and Intelligent Systems, Hangzhou, China. https://www.icivis.net/committee-2025/
+* The 5th International Conference on Image, Vision and Intelligent Systems (ICIVIS), Hangzhou, China. https://www.icivis.net/committee-2025/
 
   
 2) Associate Editor:
