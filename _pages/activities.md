@@ -117,10 +117,10 @@ Academia Services
 * Hongyang Chen, Qi Liu, Quan Yu, Ian F. Akyildiz, and Sergy Vorobyov, Special Issue on "Efficient, Effective, and Explicable AI Inspired IoT over Non-terrestrial Networks", IEEE Interest of Things Journal, 2023. https://ieee-iotj.org/wp-content/uploads/2023/06/3EAI_Non_Terrestrial.pdf.
 * Qi Liu, Junli Liang, Hing Cheung So, and Yimin Daniel Zhang, Special Issue on "Neural Networks and Machine Learning for Multidimensional Signal Processing", IET Signal Processing, 2022. https://digital-library.theiet.org/content/journals/iet-spr
 * Xianpeng Wang, Qi Liu, and Bin Zhang, Special Issue on "Efficient Processing and Learning with DNNs for Multidimensional Signal Processing", International Journal of Antennas and Propagation, 2022. https://www.hindawi.com/journals/ijap/si/837632/
-* Xianpeng Wang, Qi Liu, Bin Zhang and Wei Liu, Special Issue on "Scalable and Robust Optimization Techniques for Multidimensional Signal Processing", Wireless Communications and Mobile Computing, 2022. https://www.hindawi.com/journals/wcmc/si/395818/
+* Xianpeng Wang, Qi Liu, Bin Zhang, and Wei Liu, Special Issue on "Scalable and Robust Optimization Techniques for Multidimensional Signal Processing", Wireless Communications and Mobile Computing, 2022. https://www.hindawi.com/journals/wcmc/si/395818/
 
 
-5) Conference Chair:  
+5) Conference (Workshop) Chair:  
 * Q. Liu and Z. Wei, Workshop Chair of "Visual Perception and Understanding Based on Deep Neural Networks" in the 5th International Conference on Computer, Big Data and Artificial Intelligence, Jingdezhen, China, 2024. http://www.iccbdai.org/workshop2024/index.html
 * Q. Liu and Z. Wei, Workshop Chair of "Multimodal/Crossmodal Perception and Content Understanding" in the 4th International Conference on Image, Vision and Intelligent Systems (ICIVIS), Xining, China, 2024. http://www.icivis.net//
 * Q. Liu and H. Cao, Special Session Chair of "Artificial Intelligence based Array Signal Processing and Its Applications" in the 2nd International Conference on Frontiers of Electronics, Information and Computation Technologies (ICFEICT), Wuhan, China, 2022. http://www.feict.net/workshop/
