@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qi Liu's Lab"
+title                    : "Prof. Liu's Lab"
 title_separator          : "-"
 name                     : &name "Qi Liu"
 description              : &description "personal description"
