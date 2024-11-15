@@ -21,7 +21,8 @@ Requirements:
 * 具体领域：
   1）三维场景重建/渲染（注：熟悉NeRF、Gaussian Splatting、SLAM模型优先）；
   2）AIGC（注：专攻视频生成、音乐生成）；
-  3）睡眠障碍/分期检测（注：医学背景优先）. 
+  3）人-物交互；
+  4）睡眠障碍/分期检测（注：医学背景优先）. 
 * 课题组非常自由，但是我对学生在科研态度上要求严格，如果只是为了混学位，请勿联系！！！
 
 Potential candidates are welcome to submit CV to:  
