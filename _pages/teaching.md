@@ -35,6 +35,6 @@ author_profile: true
 * 2022.05.31: &nbsp;🎉🎉课题组获批2022年广州市基础与应用基础研究项目“面向人机交互系统的智能测向技术研究”.   
 * 2022.04.27: &nbsp;🎉🎉Prof. Liu serves as the Associate Editor of IEEE Systems Journal.         
 * 2022.03.30: &nbsp;🎉🎉Dr. Liu joins the SCUT as a Professor.                                  
-* 2022.02.12: &nbsp;🎉🎉Dr. Liu serves as the Associate Editor of Digital Signal Processing.    
+* 2022.02.12: &nbsp;🎉🎉Dr. Liu serves as the Associate Editor of Digital Signal Processing. [https://www.journals.elsevier.com/digital-signal-processing/editorial-board/qi-liu](https://www.sciencedirect.com/journal/digital-signal-processing/about/editorial-board)    
 
 
