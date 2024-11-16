@@ -5,10 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
-* 2024.10.11: &nbsp;🎉🎉恭喜! 课题组几位同学获得了Chinagraph 2024（第十五届中国计算机图形学大会） “先临精鹰杯”高精度三维重建大赛的二等奖（2万元）和三等奖（1万元）.
-* 2024.10.08: &nbsp;🎉🎉恭喜! 课题组博士生-王煜骁同学获得国家奖学金（校长奖学金）（3万元）.
+* 2024.10.11: &nbsp;🎉🎉恭喜! 课题组几位同学获得了Chinagraph 2024（第十五届中国计算机图形学大会） “先临精鹰杯”高精度三维重建大赛的二等奖（2万元）和三等奖（1万元）. [https://tianchi.aliyun.com/competition/entrance/532195/rankingList](https://tianchi.aliyun.com/competition/entrance/532195/rankingList)
+* 2024.10.08: &nbsp;🎉🎉恭喜! 课题组博士生-王煜骁同学获得国家奖学金（校长奖学金）（3万元）. [https://www2.scut.edu.cn/ft/2024/1113/c29758a567399/page.htm](https://www2.scut.edu.cn/ft/2024/1113/c29758a567399/page.htm)
 * 2024.09.03: &nbsp;🎉🎉刘琦教授被推荐为华南理工大学2023-2024学年度本科生优秀班主任.
-* 2024.09.02: &nbsp;🎉🎉刘琦教授参与起草了国家标准《上下肢运动功能评估与训练设备通用要求》（标准号：20221530-T-314）. https://std.samr.gov.cn/gb/search/gbDetailed?id=F1537674AFEB3C5FE05397BE0A0A4FB4
+* 2024.09.02: &nbsp;🎉🎉刘琦教授参与起草了国家标准《上下肢运动功能评估与训练设备通用要求》（标准号：20221530-T-314）. [https://std.samr.gov.cn/gb/search/gbDetailed?id=F1537674AFEB3C5FE05397BE0A0A4FB4](https://std.samr.gov.cn/gb/search/gbDetailed?id=F1537674AFEB3C5FE05397BE0A0A4FB4)
 * 2024.08.14: &nbsp;🎉🎉课题组获批首届未来技术太湖创新基金.
 * 2024.08.01: &nbsp;🎉🎉We organize a special issue on "Human Machine Interface for Next Generation Consumer Electronics", IEEE Transactions on Consumer Electronics. Welcome to submit! Please refer to: https://ctsoc.ieee.org/images/TCE_FILES/Approved_CFP/August_2024/TCE_SS_CFP_Human_Machine_Interface_for_Next_generation_Consumer_Electronics.pdf
 * 2024.06.01：&nbsp;🎉🎉恭喜！课题组本科生刘锦绣同学加入斯坦福大学李飞飞（Fei-Fei Li）教授团队.
