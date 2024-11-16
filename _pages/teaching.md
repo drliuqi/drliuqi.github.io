@@ -33,8 +33,7 @@ author_profile: true
 * 2022.09.07：&nbsp;🎉🎉课题组获批2022年国家自然科学基金青年项目“可扩展的自适应深度矩阵补全：快速算法和理论分析”.
 * 2022.08.21：&nbsp;🎉🎉恭喜! 恭喜课题组博士生-王煜骁同学组队参加2022 CSIG图像图形技术挑战赛，在行为识别大赛中获得“华为优胜奖”.
 * 2022.05.31: &nbsp;🎉🎉课题组获批2022年广州市基础与应用基础研究项目“面向人机交互系统的智能测向技术研究”.   
-* 2022.04.27: &nbsp;🎉🎉Prof. Liu serves as the Associate Editor of IEEE Systems Journal. [https://ieeesystemsjournal.org/journal-of-boards/](https://ieeesystemscouncil.org/publication/ieee-systems-journal#committee)         
+* 2022.04.27: &nbsp;🎉🎉Prof. Liu serves as the Associate Editor of IEEE Systems Journal. [https://ieeesystemscouncil.org/publication/ieee-systems-journal/ieee-systems-journal-editorial-board](https://ieeesystemscouncil.org/publication/ieee-systems-journal/ieee-systems-journal-editorial-board)
 * 2022.03.30: &nbsp;🎉🎉Dr. Liu joins the SCUT as a Professor.                                  
-* 2022.02.12: &nbsp;🎉🎉Dr. Liu serves as the Associate Editor of Digital Signal Processing. [https://www.journals.elsevier.com/digital-signal-processing/editorial-board/qi-liu](https://www.sciencedirect.com/journal/digital-signal-processing/about/editorial-board)    
-
+* 2022.02.12: &nbsp;🎉🎉Dr. Liu serves as the Associate Editor of Digital Signal Processing. [https://www.sciencedirect.com/journal/digital-signal-processing/about/editorial-board](https://www.sciencedirect.com/journal/digital-signal-processing/about/editorial-board)
 
