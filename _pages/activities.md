@@ -114,12 +114,12 @@ Academia Services
 
 
 3) 受邀报告（Invited Talks）:
-* Invited Speaker："Novel view synthesis and 3D reconstruction", in the 5th International Conference on Computer, Big Data and Artificial Intelligence, Jingdezhen, China, 2024/11/02. [http://www.iccbdai.org/invitedspeaker2024/index.html](http://www.iccbdai.org/invitedspeaker2024/index.html)
-* 受邀报告："大模型垂直落地挑战及在主动健康方向探索", 华南理工大学新闻与传播学院，广州，2024/06/13
-* 受邀报告："基于多源异构信息的多模态数据处理", 西安科技大学，西安，第三届西部融合通信与智能信息处理学术论坛会议，2024/05/11
-* 受邀报告："大模型垂直落地挑战及在主动健康方向探索", 电子科技大学计算机学院，成都，2024/04/12. [https://www.scse.uestc.edu.cn/info/1056/15623.htm](https://www.scse.uestc.edu.cn/info/1056/15623.htm)
-* 受邀报告："HealthGPT：主动健康大模型", 广州人工智能公共算力中心，广州，2023/07/06. [https://zhuanlan.zhihu.com/p/642571833](https://zhuanlan.zhihu.com/p/642571833)
-* 受邀报告："类脑计算与高效能算法设计"， 广东省智能科学与技术研究院，珠海，2023/06/29. [https://gdiist.cn/news/detail/6/124](https://gdiist.cn/news/detail/6/124)
+* Invited Speaker：“Novel view synthesis and 3D reconstruction", in the 5th International Conference on Computer, Big Data and Artificial Intelligence, Jingdezhen, China, 2024/11/02. [http://www.iccbdai.org/invitedspeaker2024/index.html](http://www.iccbdai.org/invitedspeaker2024/index.html)
+* 受邀报告：“大模型垂直落地挑战及在主动健康方向探索", 华南理工大学新闻与传播学院，广州，2024/06/13
+* 受邀报告：“基于多源异构信息的多模态数据处理", 西安科技大学，西安，第三届西部融合通信与智能信息处理学术论坛会议，2024/05/11
+* 受邀报告：“大模型垂直落地挑战及在主动健康方向探索", 电子科技大学计算机学院，成都，2024/04/12. [https://www.scse.uestc.edu.cn/info/1056/15623.htm](https://www.scse.uestc.edu.cn/info/1056/15623.htm)
+* 受邀报告：“HealthGPT：主动健康大模型", 广州人工智能公共算力中心，广州，2023/07/06. [https://zhuanlan.zhihu.com/p/642571833](https://zhuanlan.zhihu.com/p/642571833)
+* 受邀报告：“类脑计算与高效能算法设计"， 广东省智能科学与技术研究院，珠海，2023/06/29. [https://gdiist.cn/news/detail/6/124](https://gdiist.cn/news/detail/6/124)
 * Keynote Speaker: "Human-Object Interaction Detection", the 3rd ICFEICT, Yangzhou, China, 26 May 2023-29 May 2023. [https://www.computer.org/csdl/proceedings-article/icfeict/2023/023500z022/1Q5p9H6WnQs](https://www.computer.org/csdl/proceedings-article/icfeict/2023/023500z022/1Q5p9H6WnQs)
 * Invited Speaker: "Image denoising via 2D random interpolation average scheme", hosted by Prof. Truong Nguyen (IEEE Fellow), Department of Electrical and Computer Engineering, University of California, San Diego (UCSD), 03 Dec. 2018.
 * Invited Speaker: "Weakly convex optimization for signal processing problems", hosted by Prof. P.P. Vaidyanathan (IEEE Fellow，美国工程院院士), Department of Electrical Engineering, California Institute of Technology (Caltech), 30 Nov. 2018. 
