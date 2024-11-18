@@ -21,7 +21,8 @@ author_profile: true
 * 2023.08.01：&nbsp;🎉🎉刘琦教授被广东省人工智能产业协会聘请为粤港澳大湾区人工智能产业智库专家.
 * 2023.07.24：&nbsp;🎉🎉刘琦教授被增选为中国图象图形学学会多媒体专委会委员.
 * 2023.06.28：&nbsp;🎉🎉Prof. Liu is awarded as the 2020 Exemplary Reviewer of the IEEE Communications Letters. 
-* 2023.06.26: &nbsp;🎉🎉Prof. Liu organizes an IEEE Interest of Things Journal (JCR Q1, IF = 10.238) special issue on "Efficient, Effective, and Explicable AI Inspired IoT over Non-terrestrial Networks", jointly with Dr. H. Chen from Zhijiang Lab, Prof. Q. Yu (中科院院士、IEEE Fellow) from Pengcheng Lab, Prof. I.F. Akyildiz (IEEE Fellow) from Georgia Institute of Technology, and Prof. S. Vorobyov (IEEE Fellow) from Aalto University. Welcome to submit! Please refer to: [https://ieee-iotj.org/special-issues/](https://ieee-iotj.org/special-issues/)  
+* 2023.06.26: &nbsp;🎉🎉Prof. Liu organizes an IEEE Interest of Things Journal (JCR Q1, IF = 10.238) special issue on "Efficient, Effective, and Explicable AI Inspired IoT over Non-terrestrial Networks", jointly with Dr. H. Chen from Zhijiang Lab, Prof. Q. Yu (中科院院士、IEEE Fellow) from Pengcheng Lab, Prof. I.F. Akyildiz (IEEE Fellow) from Georgia Institute of Technology, and Prof. S. Vorobyov (IEEE Fellow) from Aalto University. Welcome to submit! Please refer to: [https://ieee-iotj.org/special-issues/](https://ieee-iotj.org/special-issues/)
+* 2023.06.07：&nbsp;🎉🎉香港城市大学So Hing Cheung教授受邀讲座：《Sharing on Research Paper Writing》.
 * 2023.06.07：&nbsp;🎉🎉课题组获批广州钛动科技股份有限公司的企业委托项目“在线广告需求平台算法与策略优化项目”.
 * 2023.04.28: &nbsp;🎉🎉Prof. Liu is elevated to the grade of IEEE Senior member.
 * 2023.04.17：&nbsp;🎉🎉刘琦教授被聘请为全国研究生教育评估监测专家库专家.
