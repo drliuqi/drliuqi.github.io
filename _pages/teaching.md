@@ -25,6 +25,7 @@ author_profile: true
 * 2023.06.07：&nbsp;🎉🎉课题组获批广州钛动科技股份有限公司的企业委托项目“在线广告需求平台算法与策略优化项目”.
 * 2023.04.28: &nbsp;🎉🎉Prof. Liu is elevated to the grade of IEEE Senior member.
 * 2023.04.17：&nbsp;🎉🎉刘琦教授被聘请为全国研究生教育评估监测专家库专家.
+* 2023.03.19：&nbsp;🎉🎉香港大学徐东教授受邀讲座：《迈向有影响力的研究——漫谈视觉域适应和深度视频压缩》.[https://www2.scut.edu.cn/ft/2023/0317/c29984a494388/page.htm](https://www2.scut.edu.cn/ft/2023/0317/c29984a494388/page.htm)
 * 2023.02.09: &nbsp;🎉🎉恭喜！课题组本科生-陈子轩同学和刘彦志同学分别获得2023年学校百步梯攀登计划立项“民之康健吾辈责--基于混合现实的健康app及其配套硬件开发”、“虚拟教练--基于AI姿态分析及混合现实人机交互的智慧健身指导系统”.
 * 2023.01.06: &nbsp;🎉🎉Welcome Dr. Wei Zhenao from Ritsumeikan University, Japan! Zhenao joins us as a Postdoc.
 * 2022.10.29: &nbsp;🎉🎉课题组获批北京航空航天大学-中国航天九院鸿鹊创新中心2022年度开放基金“面向电磁信号参数测量的深度神经网络轻量化结构研究”.
