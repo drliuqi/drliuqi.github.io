@@ -86,8 +86,10 @@ Teaching
 * 2023年 华南理工大学"百步梯攀登计划"《科技点亮生活——基于混合现实的健康app及其配套硬件开发》，**校级项目**。（负责人：陈子轩；指导老师：刘琦）
 * 2023年 华南理工大学"学生研究计划（SRP）"《基于神经辐射场的3D人脸重建技术研究》，**校级项目**。（负责人：樊炎志；指导老师：刘琦）
 
+2）本科毕业设计
+* 
 
-2）教学课程
+3）教学课程
 * Machine Learning Course Training, 2024 Fall
 * Machine Learning, 2024 Fall
 * Data Analysis and Machine Learning, 2024 Spring
