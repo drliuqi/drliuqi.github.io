@@ -129,6 +129,7 @@ Academia Services
 
 
 3) 受邀报告（Invited Talks）:
+* 受邀报告：“大模型垂直落地挑战及在主动健康方向探索”，CCF YOCSEF，大模型应用对IT行业的赋能与‘负能’观点论坛，广东工业大学，广州，2024/11/23.
 * Invited Speaker：“Novel view synthesis and 3D reconstruction", in the 5th International Conference on Computer, Big Data and Artificial Intelligence, Jingdezhen, China, 2024/11/02. [http://www.iccbdai.org/invitedspeaker2024/index.html](http://www.iccbdai.org/invitedspeaker2024/index.html)
 * 受邀报告：“大模型垂直落地挑战及在主动健康方向探索", 华南理工大学新闻与传播学院，广州，2024/06/13
 * 受邀报告：“基于多源异构信息的多模态数据处理", 西安科技大学，西安，第三届西部融合通信与智能信息处理学术论坛会议，2024/05/11
