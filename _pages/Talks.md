@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "News"
-permalink: /teaching/
+title: "Academia Services"
+permalink: /Talks/
 author_profile: true
 ---
 
