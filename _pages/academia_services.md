@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "academia_services"
+title: "academia services"
 permalink: /academia_services/
 author_profile: true
 ---
