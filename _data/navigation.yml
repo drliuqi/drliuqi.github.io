@@ -3,14 +3,15 @@ main:
  # - title: "Conferences"
  #   url: /conferences/
 
-  - title: "Activities"
-    url: /activities/
-
   - title: "Papers"
     url: /journals/
+
+  - title: "Activities"
+    url: /activities/
     
-  # - title: "Talks"
-  #   url: /talks/
+    
+   - title: "Academia Services"
+     url: /talks/
 
   - title: "My Students"
     url: /laboratory_students/
