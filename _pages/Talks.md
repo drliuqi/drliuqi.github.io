@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Academia Services"
-permalink: /Talks/
+title: "Academia_Services"
+permalink: /Academia_Services/
 author_profile: true
 ---
 
