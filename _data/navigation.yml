@@ -12,6 +12,11 @@ main:
 
   - title: "My Students"
     url: /laboratory_students/
+
+
+  - title: "Teaching"
+    url: /teaching/
+
     
   - title: "News"
     url: /news/
