@@ -10,9 +10,6 @@ main:
     url: /activities/
 
 
-   - title: "Academia Services"
-    url: /academia_services/ 
-
   - title: "My Students"
     url: /laboratory_students/
 
