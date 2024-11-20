@@ -14,7 +14,7 @@ main:
     url: /laboratory_students/
     
   - title: "News"
-    url: /teaching/
+    url: /news/
 
   - title: "Join us"
     url: /join_us/
