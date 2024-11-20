@@ -14,7 +14,26 @@ redirect_from:
    刘琦，华南理工大学未来技术学院教授，博士生导师，IEEE高级会员，入选广东省、广州市青年拔尖人才，中国图象图形学学会多媒体专委会委员，广东省人工智能协会智库专家，粤港澳大湾区人工智能产业协会智库专家，全国研究生教育评估监测专家库专家，曾挂职华南理工大学科学技术研究院重大项目与高新技术处(副处长)。主要从事多模态计算与情感交互、场景三维重建/渲染、AIGC、人工智能多模态大模型平台及其智慧医疗应用。主持了包括国家自然科学基金、广州市基础研究、华为等多项国家级、省部级及企业委托科研项目。参与起草了国家标准《上下肢运动功能评估与训练设备通用要求》（标准号：20221530-T-314）。公开发表学术论文50余篇，包括IEEE TFS、TCYB、TCSVT、IoT-J、ACL、CVPR、AAAI等；担任IEEE TCE、IoT-J、S-J、ELSEVIER DSP和IET SP等SCI期刊副主编/客座编辑，以及多个国际会议的特别会议主席；开源“扁鹊”和“灵心”主动健康大模型，推动多模态大模型平台建设。指导学生获得Chinagraph 2024 “先临精鹰杯”高精度三维重建大赛的二等奖和三等奖。
 
 
-
+Experiences
+----------
+* 副处长（挂职）：2022年5月-2023年5月    
+  华南理工大学，科学技术研究院，重大项目与高新技术处
+* Professor: Mar. 2022 - now   
+  School of Future Technology, South China University of Technology (SCUT), Guangzhou, China
+* Research Fellow: Oct. 2019 - Mar. 2022  
+  Department of Electrical and Computer Engineering, National University of Singapore (NUS), Singapore   
+  Supervisor: Prof. Haizhou Li (IEEE Fellow，新加坡工程院院士)
+* Visiting Scholar: Oct. 2018 - Apr. 2019  
+  Department of Electrical and Computer Engineering, University of California Davis (UCD), CA, USA   
+  Supervisor: Prof. Zhi Ding (IEEE Fellow)
+* Ph.D degree: Aug. 2016 - Oct. 2019  
+  Department of Electrical Engineering, City University of Hong Kong (CityU), Hong Kong, China   
+  Supervisor: Prof. Hing Cheung So (IEEE Fellow)
+* M.S degree: Sept. 2013 - Mar. 2016  
+  College of Automation, Harbin Engineering University (HEU), Harbin, China   
+  Supervisor: Prof. Wei Wang
+* B.E degree: Sept. 2009 - Jul. 2013  
+  College of Automation, Harbin Engineering University (HEU), Harbin, China
 
 
 
