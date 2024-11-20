@@ -6,13 +6,15 @@ author_profile: true
 ---
 
 * 2024.11.23: 课题组刘琦教授受邀报告“大模型垂直落地挑战及在主动健康方向探索”，CCF YOCSEF 广州，大模型应用对IT行业的赋能与‘负能’观点论坛，广东工业大学.
-* 2024.11.02：课题组刘琦教授受邀报告“Novel view synthesis and 3D reconstruction”， in the 5th International Conference on Computer, Big Data and Artificial Intelligence, Jingdezhen, China.
+* 2024.11.02：课题组刘琦教授受邀报告“Novel view synthesis and 3D reconstruction”， in the 5th International Conference on Computer, Big Data and Artificial Intelligence, Jingdezhen, China.  
+              课题组刘琦教授和魏振傲博士受邀组织论坛“Visual Perception and Understanding Based on Deep Neural Networks”，in the 5th International Conference on Computer, Big Data and Artificial Intelligence, Jingdezhen, China.
 * 2024.10.11: 恭喜! 课题组几位同学获得了Chinagraph 2024（第十五届中国计算机图形学大会） “先临精鹰杯”高精度三维重建大赛的二等奖（2万元）和三等奖（1万元）.&nbsp;🎉🎉🎉 [https://tianchi.aliyun.com/competition/entrance/532195/rankingList](https://tianchi.aliyun.com/competition/entrance/532195/rankingList) 
 * 2024.10.08: 恭喜! 课题组博士生-王煜骁同学获得国家奖学金（校长奖学金）（3万元）.&nbsp;🎉🎉🎉 [https://www2.scut.edu.cn/ft/2024/1113/c29758a567399/page.htm](https://www2.scut.edu.cn/ft/2024/1113/c29758a567399/page.htm) 
 * 2024.09.03: 课题组刘琦教授被推荐为华南理工大学2023-2024学年度本科生优秀班主任.
 * 2024.09.02: 课题组刘琦教授参与起草了国家标准《上下肢运动功能评估与训练设备通用要求》（标准号：20221530-T-314）. [https://std.samr.gov.cn/gb/search/gbDetailed?id=F1537674AFEB3C5FE05397BE0A0A4FB4](https://std.samr.gov.cn/gb/search/gbDetailed?id=F1537674AFEB3C5FE05397BE0A0A4FB4) 
 * 2024.08.14: 课题组刘琦教授获批首届未来技术太湖创新基金.
 * 2024.08.01: We organize a special issue on "Human Machine Interface for Next Generation Consumer Electronics", IEEE Transactions on Consumer Electronics. Welcome to submit! Please refer to: [https://ctsoc.ieee.org/publications/ieee-transactions-on-consumer-electronics.html](https://ctsoc.ieee.org/publications/ieee-transactions-on-consumer-electronics.html)
+* 2024.06.15：课题组刘琦教授和魏振傲博士受邀组织论坛“Multimodal/Crossmodal Perception and Content Understanding”，in the 4th International Conference on Image, Vision and Intelligent Systems (ICIVIS), Xining, China.
 * 2024.06.13: 课题组刘琦教授受邀报告“大模型垂直落地挑战及在主动健康方向探索”，第八届华南理工大学跨学科青年学术沙龙，华南理工大学新闻与传播学院，广州.
 * 2024.06.01：恭喜！课题组本科生刘锦绣同学加入斯坦福大学李飞飞（Fei-Fei Li）教授团队.&nbsp;🎉🎉🎉
 * 2024.05.22：课题组刘琦教授获批2024年校级教研教改项目——青年教改一般项目“聚焦产学研的机器学习前沿课堂”.
@@ -36,11 +38,13 @@ author_profile: true
 * 2023.03.19：**香港大学徐东教授受邀讲座：《迈向有影响力的研究——漫谈视觉域适应和深度视频压缩》.**[https://www2.scut.edu.cn/ft/2023/0317/c29984a494388/page.htm](https://www2.scut.edu.cn/ft/2023/0317/c29984a494388/page.htm)
 * 2023.02.09: 恭喜！课题组本科生-陈子轩同学和刘彦志同学分别获得2023年学校百步梯攀登计划立项“民之康健吾辈责--基于混合现实的健康app及其配套硬件开发”、“虚拟教练--基于AI姿态分析及混合现实人机交互的智慧健身指导系统”.&nbsp;🎉🎉🎉
 * 2023.01.06: Welcome Dr. Wei Zhenao from Ritsumeikan University, Japan! Zhenao joins us as a Postdoc.
+* 2022.11.18：课题组刘琦教授受邀组织论坛“Array Signal Processing”，in the 14th International Conference on Signal Processing Systems (ICSPS), Zhenjiang, China.
 * 2022.10.29: 课题组刘琦教授获批北京航空航天大学-中国航天九院鸿鹊创新中心2022年度开放基金“面向电磁信号参数测量的深度神经网络轻量化结构研究”.
 * 2022.09.29: 恭喜! 课题组博士生-王煜骁同学获得校长奖学金(3万元).&nbsp;🎉🎉🎉
 * 2022.09.19: Welcome Mr. Wang Yifei from the University of Southern California, USA! Yifei joins us as a Research Assistant.
 * 2022.09.07：课题组刘琦教授获批2022年国家自然科学基金青年项目“可扩展的自适应深度矩阵补全：快速算法和理论分析”.
 * 2022.08.21：恭喜! 恭喜课题组博士生-王煜骁同学组队参加2022 CSIG图像图形技术挑战赛，在行为识别大赛中获得“华为优胜奖”.&nbsp;🎉🎉🎉
+* 2022.08.19：课题组刘琦教授受邀组织论坛“Artificial Intelligence based Array Signal Processing and Its Applications”，in the 2nd International Conference on Frontiers of Electronics, Information and Computation Technologies (ICFEICT), Wuhan, China.
 * 2022.05.31: 课题组刘琦教授获批2022年广州市基础与应用基础研究项目“面向人机交互系统的智能测向技术研究”.   
 * 2022.04.27: Prof. Liu serves as the Associate Editor of IEEE Systems Journal. [https://ieeesystemscouncil.org/publication/ieee-systems-journal/ieee-systems-journal-editorial-board](https://ieeesystemscouncil.org/publication/ieee-systems-journal/ieee-systems-journal-editorial-board)  
 * 2022.03.30: Dr. Liu joins the SCUT as a Professor.                                  
