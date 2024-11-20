@@ -1,1 +1,1 @@
-Prof. Qi Liu's homepage: https://drliuqi.github.io/
+Prof. Qi Liu's Lab: https://drliuqi.github.io/
