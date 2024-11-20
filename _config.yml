@@ -176,9 +176,6 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  academia_services:
-    output: true
-    permalink: /:collection/:path/
   conferences:
     output: true
     permalink: /:collection/:path/
