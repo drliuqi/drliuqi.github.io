@@ -9,26 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-Experiences
+
+Awards and Honors
 ----------
-* 副处长（挂职）：2022年5月-2023年5月    
-  华南理工大学，科学技术研究院，重大项目与高新技术处
-* Professor: Mar. 2022 - now   
-  School of Future Technology, South China University of Technology (SCUT), Guangzhou, China
-* Research Fellow: Oct. 2019 - Mar. 2022  
-  Department of Electrical and Computer Engineering, National University of Singapore (NUS), Singapore   
-  Supervisor: Prof. Haizhou Li (IEEE Fellow，新加坡工程院院士)
-* Visiting Scholar: Oct. 2018 - Apr. 2019  
-  Department of Electrical and Computer Engineering, University of California Davis (UCD), CA, USA   
-  Supervisor: Prof. Zhi Ding (IEEE Fellow)
-* Ph.D degree: Aug. 2016 - Oct. 2019  
-  Department of Electrical Engineering, City University of Hong Kong (CityU), Hong Kong, China   
-  Supervisor: Prof. Hing Cheung So (IEEE Fellow)
-* M.S degree: Sept. 2013 - Mar. 2016  
-  College of Automation, Harbin Engineering University (HEU), Harbin, China   
-  Supervisor: Prof. Wei Wang
-* B.E degree: Sept. 2009 - Jul. 2013  
-  College of Automation, Harbin Engineering University (HEU), Harbin, China
+* 入选广东省“XXXX计划”青年拔尖人才, 2024
+* 入选广州市“XXXX计划”创新创业人才引进项目青年拔尖人才, 2024 
+* Chinagraph 2024 “先临精鹰杯”高精度三维重建大赛, 二等奖和三等奖, 2024
+* 华南理工大学2023-2024学年度本科生优秀班主任, 2024
+* 华南理工大学2022-2023学年度本科生优秀班主任, 2023
+* 多模态计算与情感交互实验室入选2023年广东省人工智能风云榜-科研机构风云榜, 2023
+* Exemplary Reviewer of the IEEE Communications Letters, 2020
+* IEEE ICSIDP 2019 (Chongqing), Best Paper Award, 2019
+* Institutional Research Tuition Scholarship, CityU, 2018-2019
+* Outstanding Academic Performance Award, CityU, 2018
+* Institutional Research Tuition Scholarship, CityU, 2017-2018
+* Outstanding Academic Performance Award, CityU, 2017
+* PhD Research Scholarship, CityU, 2016-2019
+* 硕士研究生国家奖学金, 2015
+
+
+
 
 Projects
 ----------
@@ -58,22 +58,7 @@ Patents
 
 
 
-Awards and Honors
-----------
-* 入选广东省“XXXX计划”青年拔尖人才, 2024
-* 入选广州市“XXXX计划”创新创业人才引进项目青年拔尖人才, 2024 
-* Chinagraph 2024 “先临精鹰杯”高精度三维重建大赛, 二等奖和三等奖, 2024
-* 华南理工大学2023-2024学年度本科生优秀班主任, 2024
-* 华南理工大学2022-2023学年度本科生优秀班主任, 2023
-* 多模态计算与情感交互实验室入选2023年广东省人工智能风云榜-科研机构风云榜, 2023
-* Exemplary Reviewer of the IEEE Communications Letters, 2020
-* IEEE ICSIDP 2019 (Chongqing), Best Paper Award, 2019
-* Institutional Research Tuition Scholarship, CityU, 2018-2019
-* Outstanding Academic Performance Award, CityU, 2018
-* Institutional Research Tuition Scholarship, CityU, 2017-2018
-* Outstanding Academic Performance Award, CityU, 2017
-* PhD Research Scholarship, CityU, 2016-2019
-* 硕士研究生国家奖学金, 2015
+
 
 
 
