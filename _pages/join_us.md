@@ -15,8 +15,8 @@ redirect_from:
 　　I am looking for postdocs (300~600K annual salaries, or more), research assistants (6K~8K per month), Ph.D students, master students, and visiting students in AIGC, 3D scene reconstruction, affective computing, human-computer interaction as well as their applications. If you are interested in these positions, please drop me an email.
 
 Requirements:
-* Postdoc: Ph.D degree in EE or CS; will perform research on natural language processing, dialogue generation, human-object interaction, affective computing, 3D vision, or related video/image/speech/radar signal processing.
-* Research Assistant: should possess at least bachelor's degree (no requirement in discipline). Programming experience is preferred.
+* Postdoc（博士后）: Ph.D degree in EE or CS; will perform research on natural language processing, dialogue generation, human-object interaction, affective computing, 3D vision, or related video/image/speech/radar signal processing.
+* Research Assistant（科研助理）: should possess at least bachelor's degree (no requirement in discipline). Programming experience is preferred.
 * 博士/硕士招生：有论文发表经历者优先。    
 * 具体领域：  
   1）三维场景重建/渲染（注：熟悉NeRF、Gaussian Splatting、SLAM模型优先）；  
