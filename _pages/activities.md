@@ -59,14 +59,12 @@ Patents
 
 
 
-
-
-
-
 Academia Services
 ----------
-1) 程序委员会（Technical Program Committee）:
-* The 5th International Conference on Image, Vision and Intelligent Systems (ICIVIS), Hangzhou, China. [https://www.icivis.net/committee-2025/](https://www.icivis.net/committee-2025/)
+1) 学术兼职：
+* 粤港澳大湾区人工智能产业智库专家（2023.08 — 2028.08）
+* 程序委员会（Technical Program Committee）  
+  — The 5th International Conference on Image, Vision and Intelligent Systems (ICIVIS), Hangzhou, China. [https://www.icivis.net/committee-2025/](https://www.icivis.net/committee-2025/)
 
   
 2) 期刊副主编（Associate Editor）:
