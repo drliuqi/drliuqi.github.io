@@ -75,7 +75,7 @@ Academia Services
 
 
 3) 受邀报告（Invited Talks）:
-* 受邀报告：课题组刘琦教授受邀报告“新视角合成与3D重建”，第九届计算广告与智慧品牌创新论坛暨国家级一流广告学专业建设研讨会，广东省广告集团股份有限公司（华南理工大学新闻与传播学院），广州，2024/11/30.
+* 受邀报告：“新视角合成与3D重建”，第九届计算广告与智慧品牌创新论坛暨国家级一流广告学专业建设研讨会，广东省广告集团股份有限公司（华南理工大学新闻与传播学院），广州，2024/11/30.
 * 受邀报告：“大模型垂直落地挑战及在主动健康方向探索”，CCF YOCSEF，大模型应用对IT行业的赋能与‘负能’观点论坛，广东工业大学，广州，2024/11/23.
 * Invited Speaker：“Novel view synthesis and 3D reconstruction", in the 5th International Conference on Computer, Big Data and Artificial Intelligence, Jingdezhen, China, 2024/11/02. [http://www.iccbdai.org/invitedspeaker2024/index.html](http://www.iccbdai.org/invitedspeaker2024/index.html)
 * 受邀报告：“大模型垂直落地挑战及在主动健康方向探索", 华南理工大学新闻与传播学院，广州，2024/06/13
