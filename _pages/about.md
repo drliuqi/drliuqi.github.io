@@ -31,7 +31,7 @@ Experiences
   Supervisor: Prof. Hing Cheung So (IEEE Fellow，海外高层次人才)
 * M.S degree: Sept. 2013 - Mar. 2016  
   College of Automation, Harbin Engineering University (HEU), Harbin, China   
-  Supervisor: Prof. Wei Wang
+  Supervisor: Prof. Wei Wang (国家级人才计划入选者)
 * B.E degree: Sept. 2009 - Jul. 2013  
   College of Automation, Harbin Engineering University (HEU), Harbin, China
 
