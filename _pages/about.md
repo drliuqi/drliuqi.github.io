@@ -22,13 +22,13 @@ Experiences
   School of Future Technology, South China University of Technology (SCUT), Guangzhou, China
 * Research Fellow: Oct. 2019 - Mar. 2022  
   Department of Electrical and Computer Engineering, National University of Singapore (NUS), Singapore   
-  Supervisor: Prof. Haizhou Li (IEEE Fellow，新加坡工程院院士)
+  Supervisor: Prof. Haizhou Li (IEEE Fellow，新加坡工程院院士，海外高层次人才)
 * Visiting Scholar: Oct. 2018 - Apr. 2019  
   Department of Electrical and Computer Engineering, University of California Davis (UCD), CA, USA   
-  Supervisor: Prof. Zhi Ding (IEEE Fellow)
+  Supervisor: Prof. Zhi Ding (IEEE Fellow，“千人计划”)
 * Ph.D degree: Aug. 2016 - Oct. 2019  
   Department of Electrical Engineering, City University of Hong Kong (CityU), Hong Kong, China   
-  Supervisor: Prof. Hing Cheung So (IEEE Fellow)
+  Supervisor: Prof. Hing Cheung So (IEEE Fellow，海外高层次人才)
 * M.S degree: Sept. 2013 - Mar. 2016  
   College of Automation, Harbin Engineering University (HEU), Harbin, China   
   Supervisor: Prof. Wei Wang
