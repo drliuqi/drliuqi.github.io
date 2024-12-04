@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 * 2024.12.13：课题组刘琦教授作为青年学者身份受邀参加第二十届中国图象图形学学会青年科学家会议的青年学者服务论坛，第二十届中国图象图形学学会青年科学家会议，杭州.
-* 2024.12.04: 课题组王煜骁和林锦濠同学的两篇论文获得第五届International Conference on Computer, Big Data and Artificial Intelligence会议的Best Paper Award.
+* 2024.12.04: 课题组王煜骁和林锦濠同学的两篇论文获得第五届International Conference on Computer, Big Data and Artificial Intelligence (ICCBD+AI) 会议的Best Paper Award.
 * 2024.11.30：课题组刘琦教授受邀报告“新视角合成与3D重建”，第九届计算广告与智慧品牌创新论坛暨国家级一流广告学专业建设研讨会，广东省广告集团股份有限公司，广州.
 * 2024.11.23: 课题组刘琦教授受邀报告“大模型垂直落地挑战及在主动健康方向探索”，CCF YOCSEF 广州，大模型应用对IT行业的赋能与‘负能’观点论坛，广东工业大学.
 * 2024.11.02：课题组刘琦教授受邀报告“Novel view synthesis and 3D reconstruction”， in the 5th International Conference on Computer, Big Data and Artificial Intelligence, Jingdezhen, China.  
