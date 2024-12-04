@@ -12,6 +12,7 @@ redirect_from:
 
 Awards and Honors
 ----------
+* ICCBD+AI 2024 (Jingdezhen), Best Paper Award, 2024
 * 入选广东省“XXXX计划”青年拔尖人才, 2024
 * 入选广州市“XXXX计划”创新创业人才引进项目青年拔尖人才, 2024 
 * Chinagraph 2024 “先临精鹰杯”高精度三维重建大赛, 二等奖和三等奖, 2024
