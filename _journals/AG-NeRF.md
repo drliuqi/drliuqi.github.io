@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/AG-NeRF
 date: 2024-6-25
 year: "2024"
-venue: "PRCV, vol. 15036, pp.110-122,"
+venue: "PRCV,"
 city: 
 state: ""
 thumbnail: "AG-NeRF.png"
