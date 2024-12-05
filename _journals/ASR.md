@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/ASR
 date: 2021-1-01
 year: "2021"
-venue: "IEEE Journal of Selected Topics in Signal Processing, 15(1),"
+venue: "IEEE Journal of Selected Topics in Signal Processing, 15(1), pp.78-89,"
 city: 
 state: ""
 thumbnail: "ASR.png"
