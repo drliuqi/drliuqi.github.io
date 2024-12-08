@@ -49,4 +49,4 @@ Graduate Students
 
 Alumni (whereabout)
 --------
-* WANG Yifei 王毅飞(RA，2022.9-2023.7)，PhD study at our group in SCUT.
+* WANG Yifei 王毅飞(RA，2022.9-2023.7)，华南理工大学未来技术学院读博.
