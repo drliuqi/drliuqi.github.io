@@ -2,7 +2,7 @@
 title: "Toy-GS: Assembling Local Gaussians for Precisely Rendering Large-Scale Free Camera Trajectories"
 collection: journals
 permalink: /publication/Toy-GS
-date: 2024-12-10
+date: 2025-2-10
 year: "2025"
 venue: "AAAI,"
 city: 
