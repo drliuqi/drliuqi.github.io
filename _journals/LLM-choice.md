@@ -2,7 +2,7 @@
 title: "LLM Agents Can be Choice-supportive Biased Evaluators: An Empirical Study"
 collection: journals
 permalink: /publication/LLM-choice
-date: 2024-12-10
+date: 2025-2-10
 year: "2025"
 venue: "AAAI,"
 city: 
