@@ -2,7 +2,7 @@
 title: "Semi-IIN: Semi-supervised Intra-inter modal Interaction learning Network for Multimodal Sentiment Analysis"
 collection: journals
 permalink: /publication/Semi-IIN
-date: 2024-12-10
+date: 2025-2-10
 year: "2025"
 venue: "AAAI,"
 city: 
