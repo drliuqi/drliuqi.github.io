@@ -19,7 +19,6 @@ author_profile: true
 * 2024.08.01: We organize a special issue on "Human Machine Interface for Next Generation Consumer Electronics", IEEE Transactions on Consumer Electronics. Welcome to submit! Please refer to: [https://ctsoc.ieee.org/publications/ieee-transactions-on-consumer-electronics.html](https://ctsoc.ieee.org/publications/ieee-transactions-on-consumer-electronics.html)
 * 2024.06.15：课题组刘琦教授和魏振傲博士受邀组织论坛“Multimodal/Crossmodal Perception and Content Understanding”，in the 4th International Conference on Image, Vision and Intelligent Systems (ICIVIS), Xining, China.
 * 2024.06.13: 课题组刘琦教授受邀报告“大模型垂直落地挑战及在主动健康方向探索”，第八届华南理工大学跨学科青年学术沙龙，华南理工大学新闻与传播学院，广州.
-* 2024.06.01：恭喜！课题组本科生刘锦绣同学加入斯坦福大学李飞飞（Fei-Fei Li）教授团队.&nbsp;🎉🎉🎉
 * 2024.05.22：课题组刘琦教授获批2024年校级教研教改项目——青年教改一般项目“聚焦产学研的机器学习前沿课堂”.
 * 2024.05.11: 课题组刘琦教授受邀报告“基于多源异构信息的多模态数据处理”，第三届西部融合通信与智能信息处理学术论坛会议，西安科技大学，西安.
 * 2024.04.18：课题组和厦门威恩科技有限公司联合共建“AI赋能主动健康联合实验室”.
