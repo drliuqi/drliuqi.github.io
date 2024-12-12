@@ -27,7 +27,7 @@ Experiences
   Supervisor: Prof. Haizhou Li (IEEE Fellow，新加坡工程院院士，海外高层次人才)
 * Visiting Scholar: Oct. 2018 - Apr. 2019  
   Department of Electrical and Computer Engineering, University of California Davis (UCD), CA, USA   
-  Supervisor: Prof. Zhi Ding (IEEE Fellow，“千人计划”)
+  Supervisor: Prof. Zhi Ding (IEEE Fellow，“海外高层次人才”)
 * Ph.D degree: Aug. 2016 - Oct. 2019  
   Department of Electrical Engineering, City University of Hong Kong (CityU), Hong Kong, China   
   Supervisor: Prof. Hing Cheung So (IEEE Fellow，海外高层次人才)
