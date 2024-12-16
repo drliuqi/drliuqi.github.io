@@ -12,7 +12,7 @@ teaser :
 authors: "Jinhao Lin, Yifei Wang, Yanwu Xu, Qi Liu*"
 bibtex: Semi-IIN.txt
 uri: Semi-IIN.pdf
-arxiv: 
+arxiv: https://arxiv.org/pdf/2412.09784v1
 project: 
 source: 
 poster: 
