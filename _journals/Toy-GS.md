@@ -16,5 +16,5 @@ arxiv: https://arxiv.org/pdf/2412.10078
 project: 
 source: https://github.com/drliuqi/Toygs
 poster: 
-data:
+data: https://pan.baidu.com/s/1LdZ0RvhxRgKY-_MV_yqluw?pwd=twy9
 ---
