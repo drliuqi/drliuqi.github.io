@@ -12,7 +12,7 @@ teaser :
 authors: "Yuxiao Wang, Wenpeng Neng, Zhenao Wei, Yu Lei, WeiYing Xue, Nan Zhuang, Yanwu Xu, Xinyu Jiang, Qi Liu*"
 bibtex: PIHOT.txt
 uri: PIHOT.pdf
-arxiv: 
+arxiv: https://arxiv.org/pdf/2412.09920
 project: 
 source: 
 poster: 
