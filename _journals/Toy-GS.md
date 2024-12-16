@@ -12,7 +12,7 @@ teaser :
 authors: "Xiaohan Zhang, Zhenyu Sun, Yukui Qiu, Junyan Su, Qi Liu*"
 bibtex: Toy-GS.txt
 uri: Toy-GS.pdf
-arxiv: 
+arxiv: https://arxiv.org/pdf/2412.10078
 project: 
 source: 
 poster: 
