@@ -14,7 +14,7 @@ bibtex: Toy-GS.txt
 uri: Toy-GS.pdf
 arxiv: https://arxiv.org/pdf/2412.10078
 project: 
-source: 
+source: https://github.com/drliuqi/Toygs
 poster: 
 data:
 ---
