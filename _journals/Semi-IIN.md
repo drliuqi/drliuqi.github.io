@@ -14,7 +14,7 @@ bibtex: Semi-IIN.txt
 uri: Semi-IIN.pdf
 arxiv: https://arxiv.org/pdf/2412.09784v1
 project: 
-source: 
+source: https://github.com/drliuqi/Semi-IIN
 poster: 
 data:
 ---
