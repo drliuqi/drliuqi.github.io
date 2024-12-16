@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
+* 2024.12.14：课题组刘琦教授被增选为中国图象图形学学会（CSIG）青年工作委员会委员.
 * 2024.12.13：课题组刘琦教授作为青年学者身份受邀参加第二十届中国图象图形学学会青年科学家会议的青年学者服务论坛，报告题目 “大规模三维场景重建”，第二十届中国图象图形学学会青年科学家会议，杭州.
 * 2024.12.04: 恭喜！课题组王煜骁和林锦濠同学的两篇论文获得第五届International Conference on Computer, Big Data and Artificial Intelligence (ICCBD+AI) 会议的Best Paper Award.&nbsp;🎉🎉🎉
 * 2024.11.30：课题组刘琦教授受邀报告“新视角合成与3D重建”，第九届计算广告与智慧品牌创新论坛暨国家级一流广告学专业建设研讨会，广东省广告集团股份有限公司，广州.
@@ -28,7 +29,7 @@ author_profile: true
 * 2023.12.06：恭喜！多模态计算与情感交互实验室入选了2023年广东省人工智能风云榜-科研机构风云榜.&nbsp;🎉🎉🎉
 * 2023.08.28：课题组刘琦教授获批2023年中央高校基本科研业务费（自然科学类）成果转化类项目“华南理工大学-无锡“未来技术”联合研究中心”.
 * 2023.08.01：课题组刘琦教授被广东省人工智能产业协会聘请为粤港澳大湾区人工智能产业智库专家.
-* 2023.07.24：课题组刘琦教授被增选为中国图象图形学学会多媒体专委会委员.
+* 2023.07.24：课题组刘琦教授被增选为中国图象图形学学会（CSIG）多媒体专委会委员.
 * 2023.06.29: 课题组刘琦教授受邀报告“类脑计算与高效能算法设计”，广东省智能科学与技术研究院，珠海.
 * 2023.06.28：Prof. Liu is awarded as the 2020 Exemplary Reviewer of the IEEE Communications Letters. 
 * 2023.06.26: Prof. Liu organizes an IEEE Interest of Things Journal (JCR Q1, IF = 10.238) special issue on "Efficient, Effective, and Explicable AI Inspired IoT over Non-terrestrial Networks", jointly with Dr. H. Chen from Zhijiang Lab, Prof. Q. Yu (中科院院士、IEEE Fellow) from Pengcheng Lab, Prof. I.F. Akyildiz (IEEE Fellow) from Georgia Institute of Technology, and Prof. S. Vorobyov (IEEE Fellow) from Aalto University. Welcome to submit! Please refer to: [https://ieee-iotj.org/special-issues/](https://ieee-iotj.org/special-issues/)
