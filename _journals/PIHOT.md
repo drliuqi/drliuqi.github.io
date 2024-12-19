@@ -14,7 +14,7 @@ bibtex: PIHOT.txt
 uri: PIHOT.pdf
 arxiv: https://arxiv.org/pdf/2412.09920
 project: 
-source: 
+source: https://github.com/drliuqi/PIHOT
 poster: 
 data:
 ---
