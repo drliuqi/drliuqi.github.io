@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
+* 2024.12.21：课题组刘琦教授被增选为广东省图象图形学会（GDSIG）计算机视觉专委会委员.
 * 2024.12.14：课题组刘琦教授被增选为中国图象图形学学会（CSIG）青年工作委员会委员.
 * 2024.12.13：课题组刘琦教授作为青年学者身份受邀参加第二十届中国图象图形学学会青年科学家会议的青年学者服务论坛，报告题目 “稀疏视角三维场景重建”，第二十届中国图象图形学学会青年科学家会议，杭州.
 * 2024.12.04: 恭喜！课题组王煜骁和林锦濠同学的两篇论文获得第五届International Conference on Computer, Big Data and Artificial Intelligence (ICCBD+AI) 会议的Best Paper Award.&nbsp;🎉🎉🎉
