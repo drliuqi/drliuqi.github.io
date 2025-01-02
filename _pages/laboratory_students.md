@@ -12,7 +12,7 @@ redirect_from:
 
 Postdocs & RAs
 --------
-* WEI Zhenao 魏振傲 (Postdoc，2023.1-)： Human-object contact detection
+* WEI Zhenao 魏振傲 (Postdoc，2023.1-)： 
 * WANG Bowen 王柏文 (Postdoc，2025.1-)：
 * SHENG Xiaoqi 盛校棋 (Postdoc，2025.1-)： 
 
