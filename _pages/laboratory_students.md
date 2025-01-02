@@ -50,5 +50,6 @@ Graduate Students
 * Kerui Li 李柯锐 (2025.9-): 3D scene reconstruction
 
 Alumni (whereabout)
---------
+--------  
+* WEI Zhenao 魏振傲 (Postdoc，2023.1-2025.1)，苏州城市学院，讲师.
 * WANG Yifei 王毅飞(RA，2022.9-2023.7)，华南理工大学未来技术学院读博.
