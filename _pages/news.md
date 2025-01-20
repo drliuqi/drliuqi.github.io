@@ -5,7 +5,6 @@ permalink: /news/
 author_profile: true
 ---
 
-* 2025.01.18：Two papers are selected for oral presentation at the AAAI 2025 conference.
 * 2025.01.12：课题组刘琦教授受邀报告“长时助眠音乐生成”，广东省图象图形学会，智能生成与可视化前沿技术论坛，广东工业大学.
 * 2024.12.28: Prof. Liu serves as the Aera Chair（AC） for the 2025 International Joint Conference on Neural Networks (IJCNN 2025).
 * 2024.12.21：课题组刘琦教授被增选为广东省图象图形学会（GDSIG）计算机视觉专委会委员.
