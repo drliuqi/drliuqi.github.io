@@ -1,9 +1,9 @@
 ---
-title: "<span style='color:red'>Precision-Enhanced</span> Human-Object Contact Detection via Depth-Aware Perspective Interaction and Object Texture Restoration"
+title: "Precision-Enhanced</span> Human-Object Contact Detection via Depth-Aware Perspective Interaction and Object Texture Restoration"
 collection: journals
 permalink: /publication/PIHOT
 date: 2025-2-10
-year: "2025"
+year: "2025 <span style='color:red'>(Oral)</span>"
 venue: "AAAI,"
 city: 
 state: ""
