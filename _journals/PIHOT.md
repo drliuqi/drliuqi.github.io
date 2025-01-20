@@ -3,8 +3,8 @@ title: "Precision-Enhanced Human-Object Contact Detection via Depth-Aware Perspe
 collection: journals
 permalink: /publication/PIHOT
 date: 2025-2-10
-year: "2025 <span style='color:red'>(Oral)</span>"
-venue: "AAAI,"
+year: ""
+venue: "AAAI, 2025 <span style='color:red'>(Oral)</span>"
 city: 
 state: ""
 thumbnail: "PIHOT.png"
