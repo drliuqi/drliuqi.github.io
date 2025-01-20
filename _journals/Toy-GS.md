@@ -5,7 +5,7 @@ permalink: /publication/Toy-GS
 date: 2025-2-10
 year: "2025"
 venue: "AAAI,"
-city: "<span style='color:red'>(Oral)</span>"
+city: ""
 state: ""
 thumbnail: "Toy-GS.png"
 teaser : 
