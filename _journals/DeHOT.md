@@ -1,5 +1,5 @@
 ---
-title: "DeHOT: Reconstructing Pseudo-3D Scenes for Human-Object Contact Detection"
+title: "DeHOT: Reconstructing Pseudo-3D Scenes for Human-Object Contact Detection <span style='color: red;'>(Best Paper Award)</span>"
 collection: journals
 permalink: /publication/DeHOT
 date: 2024-11-20
