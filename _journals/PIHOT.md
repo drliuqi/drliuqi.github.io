@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/PIHOT
 date: 2025-2-10
 year: "2025"
-venue: "AAAI, <span style='color: red;'>(Best Paper Award)</span>"
+venue: "AAAI, <span style='color:red'>(Oral)</span>"
 city: 
 state: ""
 thumbnail: "PIHOT.png"
