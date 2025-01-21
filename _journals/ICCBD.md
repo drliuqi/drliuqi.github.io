@@ -1,5 +1,5 @@
 ---
-title: "Towards Image Denoising via Random Interpolation and Hard Thresholding"
+title: "Towards Image Denoising via Random Interpolation and Hard Thresholding <span style='color: red;'>(Best Paper Award)</span>"
 collection: journals
 permalink: /publication/ICCBD
 date: 2024-11-20
