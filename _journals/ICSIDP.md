@@ -1,10 +1,10 @@
 ---
-title: "Accurate DOA Estimation Based on Real-Valued Singular Value Decomposition <span style='color: red;'>(Best Paper Award)</span>"
+title: "Accurate DOA Estimation Based on Real-Valued Singular Value Decomposition"
 collection: journals
 permalink: /publication/ICSIDP
 date: 2019-12-09
 year: "2019"
-venue: "IEEE ICSIDP,"
+venue: "IEEE ICSIDP, <span style='color: red;'>(Best Paper Award)</span>"
 city: 
 state: ""
 thumbnail: "ICSIDP.png"
