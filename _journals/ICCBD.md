@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/ICCBD
 date: 2024-11-20
 year: "2024"
-venue: "ICCBD+AI,"
+venue: "ICCBD+AI, <span style='color: red;'>(Best Paper Award)</span>"
 city: 
 state: ""
 thumbnail: "ICCBD.png"
