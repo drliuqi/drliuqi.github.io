@@ -1,10 +1,10 @@
 ---
-title: "LLM Agents Can be Choice-supportive Biased Evaluators: An Empirical Study  <span style='color:red'>(Oral)</span>"
+title: "LLM Agents Can be Choice-supportive Biased Evaluators: An Empirical Study"
 collection: journals
 permalink: /publication/LLM-choice
 date: 2025-2-10
 year: "2025"
-venue: "AAAI, "
+venue: "AAAI, <span style='color:red'>(Oral)</span>"
 city: 
 state: ""
 thumbnail: "LLM-choice.png"
