@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/PIHOT
 date: 2025-2-10
 year: "2025"
-venue: "AAAI,"
+venue: "AAAI, "
 city: 
 state: ""
 thumbnail: "PIHOT.png"
