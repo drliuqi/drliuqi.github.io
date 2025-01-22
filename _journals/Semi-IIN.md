@@ -1,5 +1,5 @@
 ---
-title: "Semi-IIN: Semi-supervised Intra-inter modal Interaction learning Network for Multimodal Sentiment Analysis"
+title: "Semi-IIN: Semi-supervised Intra-inter Modal Interaction Learning Network for Multimodal Sentiment Analysis"
 collection: journals
 permalink: /publication/Semi-IIN
 date: 2025-2-10
