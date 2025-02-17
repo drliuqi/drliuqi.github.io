@@ -24,7 +24,7 @@ Doctoral Students
 * ZHANG Xiaohan 张笑晗 (2023.9-): (阿里联合培养)
 * DENG Yu 邓宇 (2023.9-): (阿里联合培养)
 * WANG Yifei 王毅飞 (2023.9-): 
-* ZHANG Xiaoyang 张晓阳 (2023.9-): (学科交叉培养)
+* ZHANG Xiaoyang 张晓旸 (2023.9-): (学科交叉培养)
 * LI Haowen 黎皓文 (2024.9-): 
 * CAO Boyu 曹博禹 (2024.9-): (阿里联合培养)
 * XU Mingda 许明达 (2024.9-): (阿里联合培养)
