@@ -8,11 +8,10 @@ redirect_from:
 ---
 
 <br />
-　　Students in our group major in AIGC, 3D scene reconstruction, affective computing, human-computer interaction, and their applications.
+　　Our group's students major in AIGC, 3D scene reconstruction, affective computing, human-computer interaction, and their applications.
 
 Postdocs & RAs
 --------
-* WEI Zhenao 魏振傲 (博士后，2023.1-) 
 * WANG Bowen 王柏文 (博士后，2025.1-)
 * SHENG Xiaoqi 盛校棋 (博士后，2025.1-) 
 
