@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/Semi-IIN
 date: 2025-2-10
 year: "2025"
-venue: "AAAI,"
+venue: "AAAI, <span style='color:red'>(Oral)</span>"
 city: 
 state: ""
 thumbnail: "Semi-IIN.png"
