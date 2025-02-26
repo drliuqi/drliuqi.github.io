@@ -50,7 +50,7 @@ Experiences
   
   <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=d1b635&w=350&t=m&d=FZ6YoJewte9eFE0RyiexYKXXqTkY8kbxGGgO59XhucY&co=f1f1f1&ct=262121'></script>
   
-  Copyright ©2023 By <a href="https://github.com/liliu-avril" title="W3.CSS" target="_blank" class="w3-hover-opacity">Qi LIU</a>
+  Copyright ©2023 By <a href="https://github.com/drliuqi" title="W3.CSS" target="_blank" class="w3-hover-opacity">Qi LIU</a>
   <!-- End of Statcounter Code -->
 
   </div>
