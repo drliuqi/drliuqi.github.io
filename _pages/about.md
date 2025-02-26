@@ -40,22 +40,7 @@ Experiences
 
 
     
----
-<!--下面是访客统计和访客地图功能-->
-  <div class="w3-light-grey w3-center w3-padding-24">
 
-    Welcome to my website. Total Visitor:
-
-  <!-- Default Statcounter code for Yunhe Wang's Homepage
-  https://www.wangyunhe.site -->
-  <div align='center'><a href='https://www.free-website-hit-counter.com'><img src='https://www.free-website-hit-counter.com/c.php?d=9&id=148388&s=2' border='0' alt='Free Website Hit Counter'></a><br / ><small></small></div> 
-  
-  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=d1b635&w=350&t=m&d=FZ6YoJewte9eFE0RyiexYKXXqTkY8kbxGGgO59XhucY&co=f1f1f1&ct=262121'></script>
-  
-  Copyright ©2025 By <a href="https://github.com/drliuqi" title="W3.CSS" target="_blank" class="w3-hover-opacity">Qi LIU</a>
-  <!-- End of Statcounter Code -->
-
-  </div>
 
 
 
