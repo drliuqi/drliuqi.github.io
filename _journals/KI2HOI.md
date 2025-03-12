@@ -14,7 +14,7 @@ bibtex: KI2HOI.txt
 uri: KI2HOI.pdf
 arxiv: https://arxiv.org/abs/2403.07246
 project: 
-source: 
+source: https://github.com/xwyscut/K2HOI/tree/main
 poster: 
 data:
 ---
