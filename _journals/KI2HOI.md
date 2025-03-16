@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/KI2HOI
 date: 2025-3-4
 year: "2025"
-venue: "Neural Networks,"
+venue: "Neural Networks, 187,"
 city: 
 state: ""
 thumbnail: "KI2HOI.png"
