@@ -1,0 +1,13 @@
+@article{XUE2025107348,
+title = {Towards zero-shot human–object interaction detection via vision–language integration},
+journal = {Neural Networks},
+volume = {187},
+pages = {107348},
+year = {2025},
+issn = {0893-6080},
+doi = {https://doi.org/10.1016/j.neunet.2025.107348},
+url = {https://www.sciencedirect.com/science/article/pii/S0893608025002278},
+author = {Weiying Xue and Qi Liu and Yuxiao Wang and Zhenao Wei and Xiaofen Xing and Xiangmin Xu},
+keywords = {Human–object interaction, Multimodal integration, Zero-shot, Weakly supervision},
+abstract = {Human–object interaction (HOI) detection aims to locate human–object pairs and identify their interaction categories in images. Most existing methods primarily focus on supervised learning, which relies on extensive manual HOI annotations. Such heavy reliance on closed-set supervised learning limits their generalization capabilities to unseen object categories. Inspired by the remarkable zero-shot capabilities of VLM, we propose a novel framework, termed Knowledge Integration to HOI (KI2HOI), that effectively integrates the knowledge of the visual–language model to improve zero-shot HOI detection. Specifically, we propose a ho-pair encoder to supplement contextual and interaction-specific semantic representation decoder into our model. Additionally, we propose two fusion strategies to facilitate prior knowledge transfer of VLM. One is visual-level fusion, producing more global context interaction features; another is language-level fusion, further enhancing the capability of VLM for HOI detection. Extensive experiments conducted on the mainstream HICO-DET and V-COCO datasets demonstrate that our model outperforms the previous methods in various zero-shot and full-supervised settings. The source code is available in https://github.com/xwyscut/K2HOI.}
+}
