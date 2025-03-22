@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Black-box.png"
 teaser : 
-authors: "Zhixuan Zhang, XingJian Zheng, Linbo Qing, Qi Liu, Pingyu Wang"
+authors: "Zhixuan Zhang, Xingjian Zheng, Linbo Qing, Qi Liu, Pingyu Wang"
 bibtex: Black-box.txt
 uri: Black-box.pdf
 arxiv: 
