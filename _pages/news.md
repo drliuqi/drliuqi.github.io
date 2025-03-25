@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 * 2025.04.27：课题组刘琦教授受邀讲座“拥抱新趋势 拓展新思路”区财政（国资）系统人工智能知识讲座，广州市番禺区财政局.
-* 2025.03.06：课题组刘琦教授受邀广东公信青年讲堂（人工智能专题），讲座题目“深入剖析DeepSeek原理与效应”，广东省工业和信息化厅直属机关团委.
+* 2025.03.06：课题组刘琦教授受邀广东工信青年讲堂（人工智能专题），讲座题目“深入剖析DeepSeek原理与效应”，广东省工业和信息化厅直属机关团委.
 * 2025.02.12：Prof. Liu serves as the Program Committee（PC）member for the 28th European Conference on Artificial Intelligence (ECAI-2025).
 * 2025.01.12：课题组刘琦教授受邀报告“长时助眠音乐生成”，广东省图象图形学会，智能生成与可视化前沿技术论坛，广东工业大学.
 * 2024.12.28: Prof. Liu serves as the Aera Chair（AC） for the 2025 International Joint Conference on Neural Networks (IJCNN 2025).
