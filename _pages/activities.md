@@ -12,12 +12,12 @@ redirect_from:
 
 Awards and Honors
 ----------
-* ICCBD+AI 2024 (Jingdezhen), Best Paper Award, 2024（2篇）
-* 入选广东省“XXXX计划”青年拔尖人才, 2024
-* 入选广州市“XXXX计划”创新创业人才引进项目青年拔尖人才, 2024 
+* ICCBD+AI 2024 (Jingdezhen), Best Paper Award, 2024（2篇）  
 * Chinagraph 2024 “先临精鹰杯”高精度三维重建大赛, 二等奖和三等奖, 2024
-* 华南理工大学2023-2024学年度本科生优秀班主任, 2024
-* 华南理工大学2022-2023学年度本科生优秀班主任, 2023
+* 华南理工大学2023-2024学年度本科生优秀班主任, 2024  
+* 入选广东省“XXXX计划”青年拔尖人才, 2023  
+* 入选广州市“XXXX计划”创新创业人才引进项目青年拔尖人才, 2023  
+* 华南理工大学2022-2023学年度本科生优秀班主任, 2023  
 * 多模态计算与情感交互实验室入选2023年广东省人工智能风云榜-科研机构风云榜, 2023
 * Exemplary Reviewer of the IEEE Communications Letters, 2020
 * IEEE ICSIDP 2019 (Chongqing), Best Paper Award, 2019
