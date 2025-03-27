@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/Black-box
 date: 2025-2-6
 year: "2025"
-venue: "IEEE Transactions on Information Forensics and Security,"
+venue: "IEEE Transactions on Information Forensics and Security, 20,"
 city: 
 state: ""
 thumbnail: "Black-box.png"
