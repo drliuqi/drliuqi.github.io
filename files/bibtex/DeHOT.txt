@@ -1,0 +1,10 @@
+@INPROCEEDINGS{10933713,
+  author={Wang, Yuxiao and Lei, Yu and Xiong, Qiwei and Xue, Weiying and Liu, Qi and Wei, Zhenao},
+  booktitle={2024 5th International Conference on Computer, Big Data and Artificial Intelligence (ICCBD+AI)}, 
+  title={DeHOT: Reconstructing Pseudo-3D Scenes for Human-Object Contact Detection}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={497-500},
+  keywords={Deep learning;Accuracy;Semantic segmentation;Big Data;Data augmentation;Data models;Artificial intelligence;Image reconstruction;Overfitting;human-object contact;semantic segmentation;deep learning},
+  doi={10.1109/ICCBD-AI65562.2024.00088}}
