@@ -1,0 +1,10 @@
+@INPROCEEDINGS{10933777,
+  author={Lin, Jinhao and Xiong, Qiwei and Wang, Yuxiao and Xue, Weiying and Liu, Qi and Wei, Zhenao},
+  booktitle={2024 5th International Conference on Computer, Big Data and Artificial Intelligence (ICCBD+AI)}, 
+  title={Towards Image Denoising via Random Interpolation and Hard Thresholding}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={148-153},
+  keywords={Interpolation;Salt;Minimization methods;AWGN;Simulation;Noise;Noise reduction;Image restoration;Noise measurement;Image denoising;Image denoising;mixed noise removal;low-rank matrix factorization;2-D random interpolation averaging},
+  doi={10.1109/ICCBD-AI65562.2024.00033}}
