@@ -2,8 +2,8 @@
 title: "DeHOT: Reconstructing Pseudo-3D Scenes for Human-Object Contact Detection"
 collection: journals
 permalink: /publication/DeHOT
-date: 2024-11-20
-year: "2024"
+date: 2025-3-20
+year: "2025"
 venue: "ICCBD+AI, <span style='color: red;'>(Best Paper Award)</span>"
 city: 
 state: ""
