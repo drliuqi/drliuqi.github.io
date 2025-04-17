@@ -2,8 +2,8 @@
 title: "A Review of Human-object Interaction Detection"
 collection: journals
 permalink: /publication/ICCVIT
-date: 2024-11-25
-year: "2024"
+date: 2025-3-25
+year: "2025"
 venue: "ICCVIT,"
 city: 
 state: ""
