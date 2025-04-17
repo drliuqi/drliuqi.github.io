@@ -2,8 +2,8 @@
 title: "Towards Image Denoising via Random Interpolation and Hard Thresholding"
 collection: journals
 permalink: /publication/ICCBD
-date: 2024-11-20
-year: "2024"
+date: 2025-3-20
+year: "2025"
 venue: "ICCBD+AI, <span style='color: red;'>(Best Paper Award)</span>"
 city: 
 state: ""
