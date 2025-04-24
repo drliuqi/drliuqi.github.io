@@ -18,7 +18,7 @@ Awards and Honors
 * 入选广东省“XXXX计划”青年拔尖人才, 2023  
 * 入选广州市“XXXX计划”创新创业人才引进项目青年拔尖人才, 2023  
 * 华南理工大学2022-2023学年度本科生优秀班主任, 2023  
-* 多模态计算与情感交互实验室入选2023年广东省人工智能风云榜-科研机构风云榜, 2023
+* 团队入选2023年广东省人工智能风云榜-科研机构风云榜, 2023
 * Exemplary Reviewer of the IEEE Communications Letters, 2020
 * IEEE ICSIDP 2019 (Chongqing), Best Paper Award, 2019
 * Institutional Research Tuition Scholarship, CityU, 2018-2019
