@@ -17,7 +17,8 @@ redirect_from:
 Requirements:
 * Postdoc（博士后）: Ph.D degree in EE or CS; will perform research on natural language processing, dialogue generation, human-object interaction, affective computing, 3D vision, or related video/image/speech/radar signal processing.
 * Research Assistant（科研助理）: should possess at least bachelor's degree (no requirement in discipline). Programming experience is preferred.
-* 博士/硕士招生：对我们的研究方向感兴趣，有论文发表经历者优先。    
+* 博士/硕士招生：对我们的研究方向感兴趣，有论文发表经历者优先。
+* 本科生进组实习：请直接到国际校区B1c-417（C）找我。   
 * 具体领域（不限于）：  
   1）三维场景重建/渲染（注：熟悉NeRF、Gaussian Splatting、SLAM模型优先）；  
   2）AIGC（注：专攻视频生成、音乐生成）；  
