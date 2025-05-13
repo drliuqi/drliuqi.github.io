@@ -1,0 +1,10 @@
+@INPROCEEDINGS{10872548,
+  author={Wang, Yuxiao and Lei, Yu and Cui, Li and Xue, Weiying and Liu, Qi and Wei, Zhenao},
+  booktitle={2024 2nd International Conference on Computer, Vision and Intelligent Technology (ICCVIT)}, 
+  title={A Review of Human-Object Interaction Detection}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Location awareness;Computer vision;Visualization;Weak supervision;Reviews;Face recognition;Zero shot learning;Pose estimation;Market research;Videos;human-object interaction;object detection;action recognition;deep learning},
+  doi={10.1109/ICCVIT63928.2024.10872548}}
