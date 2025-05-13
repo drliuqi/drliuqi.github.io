@@ -12,7 +12,7 @@ teaser :
 authors: "Zhixuan Zhang, Xiaopeng Li, Qi Liu*"
 bibtex: SAEN-BGS.txt
 uri: SAEN-BGS.pdf
-arxiv: 
+arxiv: http://arxiv.org/abs/2505.07336
 project: 
 source: https://github.com/ZhixuanZhang77/SAEN-BGS
 poster: 
