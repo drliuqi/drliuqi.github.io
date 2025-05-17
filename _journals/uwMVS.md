@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/uwMVS
 date: 2025-4-29
 year: "2025"
-venue: "Neural Networks,"
+venue: "Neural Networks, 189,"
 city: 
 state: ""
 thumbnail: "uwMVS.png"
