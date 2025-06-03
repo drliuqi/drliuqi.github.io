@@ -1,0 +1,12 @@
+@article{ZHANG2025111792,
+title = {SAEN-BGS: Energy-Efficient spiking autoencoder network for background subtraction},
+journal = {Pattern Recognition},
+pages = {111792},
+year = {2025},
+issn = {0031-3203},
+doi = {https://doi.org/10.1016/j.patcog.2025.111792},
+url = {https://www.sciencedirect.com/science/article/pii/S0031320325004522},
+author = {Zhixuan Zhang and Xiao Peng Li and Qi Liu},
+keywords = {Background subtraction, Deep learning, Autoencoder, Spiking neural network, Energy efficiency},
+abstract = {Background subtraction (BGS) is utilized to detect moving objects in a video and is commonly employed at the onset of object tracking and human recognition processes. Nevertheless, existing BGS techniques utilizing deep learning still encounter challenges with various background noises in videos, including variations in lighting, shifts in camera angles, and disturbances like air turbulence or swaying trees. To address this problem, we design a spiking autoencoder network, termed SAEN-BGS, based on noise resilience and time-sequence sensitivity of spiking neural networks (SNNs) to enhance the separation of foreground and background. To eliminate unnecessary background noise and preserve the important foreground elements, we begin by creating the continuous spiking conv-and-dconv block, which serves as the fundamental building block for the decoder in SAEN-BGS. Moreover, in striving for enhanced energy efficiency, we introduce a novel self-distillation spiking supervised learning method grounded in ANN-to-SNN frameworks, resulting in decreased power consumption. In extensive experiments conducted on CDnet-2014 and DAVIS-2016 datasets, our approach demonstrates superior segmentation performance relative to other baseline methods, even when challenged by complex scenarios with dynamic backgrounds.}
+}
