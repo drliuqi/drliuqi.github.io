@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/SAEN-BGS
 date: 2025-5-1
 year: "2025"
-venue: "Pattern Recognition, 111792,"
+venue: "Pattern Recognition, 169,"
 city: 
 state: ""
 thumbnail: "SAEN-BGS.png"
