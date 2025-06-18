@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <br />
-　　Our group mainly focuses on multimodal perception, reconstruction, and generation, including target estimation, sparse perception, 3D scene reconstruction/rendering, music generation, human-object interaction, and their applications.
+　　Our group mainly focuses on multimodal perception, reconstruction, and generation, including target estimation, sparse perception, 3D scene reconstruction/rendering, music/scene generation, human-object interaction, and their applications.
 
 Postdocs & RAs
 --------
