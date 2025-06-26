@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
+* 2025.06.26：恭喜！祝贺课题组刘锦绣同学获得学校优秀毕业本科生，刘锦绣、李天骋、蒋新宇三位同学获得学院优秀毕业本科生.&nbsp;🎉🎉🎉
 * 2025.06.25：课题组刘琦教授受邀辅导报告“人工智能赋能高校管理”，华南理工大学国际校区管理人员培训.
 * 2025.06.24：恭喜！祝贺王煜骁、张笑晗、林锦濠三位同学获得2024年度“未来技术太湖创新奖”.&nbsp;🎉🎉🎉
 * 2025.06.19：**香港城市大学So Hing Cheung教授受邀讲座：《Beamforming Framework for Video Background and Object Extraction》.**
