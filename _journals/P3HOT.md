@@ -12,7 +12,7 @@ teaser :
 authors: "Yuxiao Wang, Yu Lei, Zhenao Wei, Weiying Xue, Xinyu Jiang, Nan Zhuang, Qi Liu*"
 bibtex: P3HOT.txt
 uri: P3HOT.pdf
-arxiv: 
+arxiv: https://arxiv.org/abs/2507.01630
 project: 
 source: 
 poster: 
