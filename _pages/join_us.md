@@ -24,7 +24,7 @@ Requirements:
   2）音乐/场景生成；  
   3）人-物交互；  
   4）睡眠障碍/分期检测.   
-* 满足毕业条件，允许学生在特定时间出去实习；但是我对学生在科研态度上要求严格，如果只是为了混学位，请勿联系！！！
+* <span style='color:red'>(满足毕业条件，允许学生在特定时间出去实习；但是我对学生在科研态度上要求严格，如果只是为了混学位，请勿联系！！！)</span>
 
 Potential candidates are welcome to submit CV to:  
 Prof. Qi Liu (drliuqi@scut.edu.cn)   
