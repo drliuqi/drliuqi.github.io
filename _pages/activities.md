@@ -69,11 +69,8 @@ Academia Services
 * 中国图象图形学学会多媒体专委会委员
 * 粤港澳大湾区人工智能产业智库专家
 * 全国研究生教育评估监测专家库专家
-* 程序委员会成员(PC或TPC)  
-  — The 28th European Conference on Artificial Intelligence (ECAI-2025).  
-  — The 5th International Conference on Image, Vision and Intelligent Systems (ICIVIS), Hangzhou, China. [https://www.icivis.net/committee-2025/](https://www.icivis.net/committee-2025/)  
-* 领域主席（AC）   
-  — The 2025 International Joint Conference on Neural Networks (IJCNN 2025).  
+* Program Chair: ECAI 2025, ICIVIS 2025  
+* Area Chair: IJCNN 2025 
 
   
 2) 期刊副主编（Associate Editor）:
