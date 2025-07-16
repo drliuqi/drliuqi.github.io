@@ -10,6 +10,10 @@ redirect_from:
 <br />
 　　Our group mainly focuses on multimodal perception, reconstruction, and generation, including target estimation, sparse perception, 3D scene reconstruction/rendering, music/scene generation, human-object interaction, and their applications.
 
+Collaborators
+--------
+* Prof. Fengshan Zheng [郑风珊](https://www2.scut.edu.cn/emc/2023/1228/c37567a531831/page.htm) 教授
+
 Postdocs & RAs
 --------
 * WANG Bowen 王柏文 (博士后，2025.1-)
