@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
+* 2025.07.23: Prof. Liu serves as the Program Committee（PC）for the 40th AAAI Conference on Artificial Intelligence (AAAI-2026).
 * 2025.06.26：One paper is accepted to ICCV 2025.
 * 2025.06.26：恭喜！祝贺课题组几位本科同学获得优秀毕业生：刘锦绣同学获得（校级）优秀毕业生，刘锦绣、李天骋、蒋新宇三位同学获得（院级）优秀毕业生.&nbsp;🎉🎉🎉
 * 2025.06.25：课题组刘琦教授受邀辅导报告“人工智能赋能高校管理”，华南理工大学国际校区管理人员培训.
@@ -22,7 +23,7 @@ author_profile: true
 * 2025.03.19：课题组刘琦教授受邀参加法律服务行业如何DeepSeek探讨会，广信君达律师事务所.
 * 2025.03.06：课题组刘琦教授受邀广东工信青年讲堂（人工智能专题），讲座题目“深入剖析DeepSeek原理与效应”，广东省工业和信息化厅直属机关团委.
 * 2025.02.18：课题组刘琦教授受邀讲座：“DeepSeek系列模型技术解读”，广东省工业和信息化厅电子信息处.
-* 2025.02.12：Prof. Liu serves as the Program Committee（PC）member for the 28th European Conference on Artificial Intelligence (ECAI-2025).
+* 2025.02.12：Prof. Liu serves as the Program Committee（PC） for the 28th European Conference on Artificial Intelligence (ECAI-2025).
 * 2025.01.12：课题组刘琦教授受邀报告“长时助眠音乐生成”，广东省图象图形学会，智能生成与可视化前沿技术论坛，广东工业大学.
 * 2025.01.10：恭喜！祝贺课题组魏振傲博士通过博士后出站考核，顺利出站.&nbsp;🎉🎉🎉
 * 2024.12.30：恭喜！祝贺2022级人工智能1班被评为2023-2024学年度先进班集体，刘琦教授担任班主任.&nbsp;🎉🎉🎉
