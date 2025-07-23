@@ -70,7 +70,7 @@ Academia Services
 * 广东省图象图形学会GDSIG：青年工作委员会委员、计算机视觉专委会委员
 * 粤港澳大湾区人工智能产业智库专家
 * 全国研究生教育评估监测专家库专家
-* Program Chair: ECAI 2025, ICIVIS 2025  
+* Program Chair: ECAI 2025, ICIVIS 2025, AAAI 2026 
 * Area Chair: IJCNN 2025 
 
   
