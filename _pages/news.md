@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
+* 2025.07.30: 恭喜！祝贺课题组刘兴琰、王实依、全飞扬、梁沃林四位本科同学获得了2025年（第18届）中国大学生计算机设计大赛的国赛二等奖.&nbsp;🎉🎉🎉
 * 2025.07.23: Prof. Liu serves as the Program Committee（PC）for the 40th AAAI Conference on Artificial Intelligence (AAAI-2026).
 * 2025.06.26：One paper is accepted to ICCV 2025.
 * 2025.06.26：恭喜！祝贺课题组几位本科同学获得优秀毕业生：刘锦绣同学获得（校级）优秀毕业生，刘锦绣、李天骋、蒋新宇三位同学获得（院级）优秀毕业生.&nbsp;🎉🎉🎉
