@@ -71,8 +71,8 @@ Academia Services
 * 广东省图象图形学会GDSIG：青年工作委员会委员、计算机视觉专委会委员
 * 粤港澳大湾区人工智能产业智库专家
 * 全国研究生教育评估监测专家库专家
-* Senior Program Chair (SPC): ECAI 2025, ICIVIS 2025   
 * Area Chair (AC): IJCNN 2025  
+* Senior Program Chair (SPC): ECAI 2025, ICIVIS 2025     
 * Program Chair (PC): AAAI 2026
 
   
