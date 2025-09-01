@@ -52,6 +52,8 @@ redirect_from:
   
   
 3.教学课程
+* Machine Learning Course Training, 2025 Fall
+* Machine Learning, 2025 Fall
 * Reshape Our Future with Generative AI, 2024 Winter
 * Machine Learning Course Training, 2024 Fall
 * Machine Learning, 2024 Fall
