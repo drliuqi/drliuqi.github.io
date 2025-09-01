@@ -52,14 +52,14 @@ redirect_from:
   
   
 3.教学课程
-* Machine Learning Course Training, 2025 Fall
-* Machine Learning, 2025 Fall
-* Reshape Our Future with Generative AI, 2024 Winter
-* Machine Learning Course Training, 2024 Fall
-* Machine Learning, 2024 Fall
-* Data Analysis and Machine Learning, 2024 Summer
-* Machine Learning Course Training, 2023 Fall
-* Machine Learning, 2023 Fall
-* Engineering Applications in Artificial Intelligence, 2023 Spring
-* Machine Learning Course Training, 2022 Fall
-* Machine Learning, 2022 Fall
+* 《Machine Learning Course Training》, 2025 Fall
+* 《Machine Learning》, 2025 Fall
+* 《Reshape Our Future with Generative AI》, 2024 Winter
+* 《Machine Learning Course Training》, 2024 Fall
+* 《Machine Learning》, 2024 Fall
+* 《Data Analysis and Machine Learning》, 2024 Summer
+* 《Machine Learning Course Training》, 2023 Fall
+* 《Machine Learning》, 2023 Fall
+* 《Engineering Applications in Artificial Intelligence》, 2023 Spring
+* 《Machine Learning Course Training》, 2022 Fall
+* 《Machine Learning》, 2022 Fall
