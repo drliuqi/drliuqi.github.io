@@ -14,6 +14,8 @@ redirect_from:
 <br />
 　　I am looking for postdocs (300~600K annual salaries, or more), research assistants (6K~8K per month), Ph.D students, master students, and visiting students in multimodal perception, reconstruction, and generation. If you are interested in these positions, please drop me an email.
 
+* <span style='color:red'>招收：4个学硕（智能体），2个学硕（3D场景重建或人物交互），1个专硕（3D场景重建），1个专硕（机器人或大模型）。</span>
+
 Requirements:
 * Postdoc（博士后）: Ph.D degree in EE or CS; will perform research on natural language processing, music generation/editing, human-object interaction, affective computing, 3D vision, or related video/image/speech signal processing.
 * Research Assistant（科研助理）: should possess at least bachelor's degree (no requirement in discipline). Programming experience is preferred.
@@ -23,7 +25,7 @@ Requirements:
   1）3D场景重建/渲染/生成/编辑；  
   2）音乐生成；  
   3）人物交互；  
-  4）睡眠检测.   
+  4）AI智能体.   
 * <span style='color:red'>满足毕业条件，允许学生在特定时间出去实习；但是我对学生在科研态度上要求严格，如果只是为了混学位，请勿联系！！！</span>
 
 Potential candidates are welcome to submit CV to:  
