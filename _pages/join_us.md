@@ -25,7 +25,8 @@ Requirements:
   1）3D场景重建/渲染/生成/编辑；  
   2）音乐生成/编辑；  
   3）人物交互；  
-  4）AI智能体.   
+  4）AI智能体；  
+  5）情感分析，如心理状态（抑郁、焦虑、压力等）预测、评估和追踪.   
 * <span style='color:red'>满足毕业条件，允许学生在特定时间出去实习；但是我对学生在科研态度上要求严格，如果只是为了混学位，请勿联系！！！</span>
 
 Potential candidates are welcome to submit CV to:  
