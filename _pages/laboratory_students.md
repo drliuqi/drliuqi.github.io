@@ -53,7 +53,7 @@ Graduate Students
 * ZHOU Rugang 周如刚 (2026.9-)
 * ZENG Jia 曾嘉 (2026.9-)
 * HUO Junan 霍君安 (2026.9-)
-* WANG Bozhong 王博中 (2026.9-)
+* WANG Bozhong 王博中 (2026.9-): (超级机器人研究院联合培养)
 * LIANG Jinzong 梁锦棕 (2026.9-)
 
 Alumni (whereabout)
