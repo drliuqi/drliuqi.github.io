@@ -23,12 +23,12 @@ Doctoral Students
 --------
 * CHEN Bin 陈彬 (2022.9-): (科大讯飞联合培养)
 * WANG Yuxiao 王煜骁 (2022.9-):【校长奖学金（2022），国家奖学金（2024），未来技术太湖创新奖（2024）】
-* CHEN Huajun 陈铧浚 (2023.9-): 
+* CHEN Huajun 陈铧浚 (2023.9-) 
 * ZHANG Xiaohan 张笑晗 (2023.9-): (阿里联合培养)【未来技术太湖创新奖（2024）】
 * DENG Yu 邓宇 (2023.9-): (阿里联合培养)
-* WANG Yifei 王毅飞 (2023.9-): 
+* WANG Yifei 王毅飞 (2023.9-) 
 * ZHANG Xiaoyang 张晓旸 (2023.9-): (学科交叉培养)
-* LI Haowen 黎皓文 (2024.9-): 
+* LI Haowen 黎皓文 (2024.9-) 
 * CAO Boyu 曹博禹 (2024.9-): (阿里联合培养)
 * XU Mingda 许明达 (2024.9-): (阿里联合培养)
 * ZHUANG Nan 庄楠 (2024.6-): (浙江大学联合培养)
@@ -40,16 +40,21 @@ Doctoral Students
 Graduate Students
 --------
 * ZHAO Baozhu 赵宝柱 (2023.9-):  (阿里联合培养)
-* SU Junyan 苏俊彦 (2023.9-): 
-* XUE Weiying 薛炜樱 (2023.9-):
-* GUO Jingfeng 郭靖丰 (2023.9-): 
+* SU Junyan 苏俊彦 (2023.9-) 
+* XUE Weiying 薛炜樱 (2023.9-)
+* GUO Jingfeng 郭靖丰 (2023.9-)
 * WANG Shiqi 王诗琦 (2024.9-): (阿里联合培养)
-* YANG Yi 杨燚 (2024.9-): 
-* HU Shuyi 胡舒熠 (2024.9-):
-* ZHU Xiaoye 朱小烨 (2025.9-): 
-* WANG Hao 王浩 (2025.9-): 
-* NI Jiahao 倪家豪 (2025.9-): 
-* LI Kerui 李柯锐 (2025.9-):
+* YANG Yi 杨燚 (2024.9-) 
+* HU Shuyi 胡舒熠 (2024.9-)
+* ZHU Xiaoye 朱小烨 (2025.9-) 
+* WANG Hao 王浩 (2025.9-) 
+* NI Jiahao 倪家豪 (2025.9-) 
+* LI Kerui 李柯锐 (2025.9-)
+* ZHOU Rugang 周如刚 (2026.9-)
+* ZENG Jia 曾嘉 (2026.9-)
+* HUO Junan 霍君安 (2026.9-)
+* WANG Bozhong 王博中 (2026.9-)
+* LIANG Jinzong 梁锦棕 (2026.9-)
 
 Alumni (whereabout)
 --------  
