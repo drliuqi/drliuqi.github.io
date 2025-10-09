@@ -75,7 +75,7 @@ Academia Services
 * 全国研究生教育评估监测专家库专家
 * Area Chair (AC): IJCNN 2025  
 * Senior Program Chair (SPC): ECAI 2025, ICIVIS 2025     
-* Program Chair (PC): AAAI 2026
+* Program Chair (PC): AAAI 2026, ICASSP 2026
 
   
 2) 期刊副主编（Associate Editor）:
