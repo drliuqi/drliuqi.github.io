@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <br />
-　　Our group mainly focuses on multimodal perception, reconstruction, and generation, including target estimation, sparse perception, 3D scene reconstruction/rendering/generation/editing, music generation and editing, human-object interaction, and their applications.
+　　Multimodal Perceive-Reconstruct-Generate Lab (MPRG Lab) mainly focuses on 3D scene reconstruction/rendering/generation/editing, music generation and editing, human-object interaction, LLM agent and their applications.
 
 Collaborators
 --------
