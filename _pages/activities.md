@@ -12,6 +12,7 @@ redirect_from:
 
 Awards and Honors
 ----------
+* 广东省大学生计算机设计大赛，优秀指导教师奖，2025
 * ICCBD+AI 2024 (Jingdezhen), Best Paper Award, 2024（2篇）  
 * Chinagraph 2024 “先临精鹰杯”高精度三维重建大赛, 二等奖和三等奖, 2024
 * 华南理工大学2023-2024学年度本科生优秀班主任, 2024  
