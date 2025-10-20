@@ -45,7 +45,7 @@ Graduate Students
 * GUO Jingfeng 郭靖丰 (2023.9-)
 * WANG Shiqi 王诗琦 (2024.9-): (阿里联合培养)
 * YANG Yi 杨燚 (2024.9-) 
-* HU Shuyi 胡舒熠 (2024.9-)
+* HU Shuyi 胡舒熠 (2024.9-)【国家奖学金（2025）】
 * ZHU Xiaoye 朱小烨 (2025.9-) 
 * WANG Hao 王浩 (2025.9-) 
 * NI Jiahao 倪家豪 (2025.9-) 
