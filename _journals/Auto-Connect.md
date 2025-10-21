@@ -13,7 +13,7 @@ authors: "Jingfeng Guo, Jian Liu, Jinnan Chen*, Shiwei Mao, Changrong Hu, Puhua 
 bibtex: Auto-Connect.txt
 uri: Auto-Connect.pdf
 arxiv: https://arxiv.org/abs/2506.11430
-project: 
+project: https://autoconnectrig.github.io/
 source: https://autoconnectrig.github.io/
 poster: 
 data:
