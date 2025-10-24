@@ -58,6 +58,8 @@ Graduate Students
 
 Alumni (whereabout)
 --------  
+* GUO Jingfeng 郭靖丰 (2023.9-2026.6)，腾讯.
+* XUE Weiying 薛炜樱 (2023.9-2026.6)，阿里.
 * ZHAO Baozhu 赵宝柱 (硕士，2023.9-2026.6)，大疆.
 * LIN Jinhao 林锦濠 (硕士，2022.9-2025.6)，佛山供电局【未来技术太湖创新奖（2024）】.
 * WEI Zhenao 魏振傲 (博士后，2023.1-2025.1)，苏州城市学院，讲师.
