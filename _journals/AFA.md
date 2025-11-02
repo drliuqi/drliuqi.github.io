@@ -1,5 +1,5 @@
 ---
-title: "AG-NeRF: Attention-guided Neural Radiance Fields for Multi-height Large-scale Outdoor Scene Rendering"
+title: "Beyond Deceptive Flatness: Dual-Order Solution for Strengthening Adversarial Transferability"
 collection: journals
 permalink: /publication/AFA
 date: 2026-1-25
