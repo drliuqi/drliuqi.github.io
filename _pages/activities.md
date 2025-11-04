@@ -75,6 +75,7 @@ Academia Services
 * 中国太平洋学会海洋电子信息科学与技术分会理事
 * 粤港澳大湾区人工智能产业智库专家
 * 全国研究生教育评估监测专家库专家
+* 澳门特区科学技术发展基金评审专家
 * Area Chair (AC): IJCNN 2025  
 * Senior Program Chair (SPC): ECAI 2025, ICIVIS 2025     
 * Program Chair (PC): AAAI 2026, ICASSP 2026
