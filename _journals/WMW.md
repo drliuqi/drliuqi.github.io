@@ -12,7 +12,7 @@ teaser :
 authors: "Yuxiao Wang, Yu Lei, Wolin Liang, Weiying Xue, Zhenao Wei, Nan Zhuang, Qi Liu*"
 bibtex: WMW.txt
 uri: WMW.pdf
-arxiv: 
+arxiv: https://www.arxiv.org/abs/2508.09428
 project: 
 source: 
 poster: 
