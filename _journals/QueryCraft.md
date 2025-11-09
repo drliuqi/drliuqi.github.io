@@ -12,7 +12,7 @@ teaser :
 authors: "Yuxiao Wang, Wolin Liang, Yu Lei, Weiying Xue, Nan Zhuang, Qi Liu*"
 bibtex: QueryCraft.txt
 uri: QueryCraft.pdf
-arxiv: 
+arxiv: https://arxiv.org/abs/2508.08590
 project: 
 source: 
 poster: 
