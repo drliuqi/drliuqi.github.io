@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/Melodia
 date: 2026-1-25
 year: "2026"
-venue: "AAAI,"
+venue: "AAAI, <span style='color:red'>(Oral)</span>,"
 city: 
 state: ""
 thumbnail: "Melodia.png"
