@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/OpenStory
 date: 2024-4-15
 year: "2024"
-venue: "CVPR Workshops,"
+venue: "CVPR Workshops, <span style='color:red'>(Oral)</span>,"
 city: 
 state: ""
 thumbnail: "OpenStory.png"
