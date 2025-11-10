@@ -12,7 +12,7 @@ teaser :
 authors: "Zhixuan Zhang, Pingyu Wang, Xingjian Zheng, Lingbo Qing, Qi Liu"
 bibtex: AFA.txt
 uri: AFA.pdf
-arxiv: 
+arxiv: https://arxiv.org/abs/2511.01240
 project: 
 source: 
 poster: 
