@@ -1,0 +1,8 @@
+@InProceedings{Wang_2025_ICCV,
+    author    = {Wang, Yuxiao and Lei, Yu and Wei, Zhenao and Xue, Weiying and Jiang, Xinyu and Zhuang, Nan and Liu, Qi},
+    title     = {Prompt Guidance and Human Proximal Perception for HOT Prediction with Regional Joint Loss},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2025},
+    pages     = {23636-23645}
+}
