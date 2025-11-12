@@ -14,7 +14,7 @@ bibtex: WMW.txt
 uri: WMW.pdf
 arxiv: https://www.arxiv.org/abs/2508.09428
 project: 
-source: 
+source: https://github.com/YuxiaoWang-AI/PaIR 
 poster: 
 data:
 ---
