@@ -14,7 +14,7 @@ bibtex: P3HOT.txt
 uri: P3HOT.pdf
 arxiv: https://arxiv.org/abs/2507.01630
 project: 
-source: 
+source: https://github.com/YuxiaoWang-AI/P3HOT
 poster: 
 data:
 ---
