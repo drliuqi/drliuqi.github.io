@@ -14,7 +14,7 @@ bibtex: QueryCraft.txt
 uri: QueryCraft.pdf
 arxiv: https://arxiv.org/abs/2508.08590
 project: 
-source: 
+source: https://github.com/YuxiaoWang-AI/QueryCraft
 poster: 
 data:
 ---
