@@ -23,9 +23,9 @@ Awards and Honors
 * Exemplary Reviewer of the IEEE Communications Letters, 2020
 * IEEE ICSIDP 2019 (Chongqing), Best Paper Award, 2019
 * Institutional Research Tuition Scholarship, CityU, 2018-2019
-* Outstanding Academic Performance Award, CityU, 2018
+* 香港城市大学杰出学术成就奖Outstanding Academic Performance Award, CityU, 2018
 * Institutional Research Tuition Scholarship, CityU, 2017-2018
-* Outstanding Academic Performance Award, CityU, 2017
+* 香港城市大学杰出学术成就奖Outstanding Academic Performance Award, CityU, 2017
 * PhD Research Scholarship, CityU, 2016-2019
 * 硕士研究生国家奖学金, 2015
 
