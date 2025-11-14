@@ -13,7 +13,7 @@ authors: "Yi Yang, Haowen Li, Tianxiang Li, Boyu Cao, Xiaohan Zhang, Liqun Chen,
 bibtex: Melodia.txt
 uri: Melodia.pdf
 arxiv: https://arxiv.org/abs/2511.08252
-project: 
+project: https://melodia-edit.github.io/
 source: https://github.com/YiYang-SCUT/Melodia
 poster: 
 data:
