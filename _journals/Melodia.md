@@ -12,7 +12,7 @@ teaser :
 authors: "Yi Yang, Haowen Li, Tianxiang Li, Boyu Cao, Xiaohan Zhang, Liqun Chen, Qi Liu*"
 bibtex: Melodia.txt
 uri: Melodia.pdf
-arxiv: 
+arxiv: https://arxiv.org/abs/2511.08252
 project: 
 source: 
 poster: 
