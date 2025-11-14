@@ -12,9 +12,9 @@ teaser :
 authors: "Yu Deng, Baozhu Zhao, Junyan Su, Xiaohan Zhang, Qi Liu*"
 bibtex: DepthGS.txt
 uri: DepthGS.pdf
-arxiv: 
+arxiv: https://arxiv.org/abs/2511.10316
 project: 
-source: 
+source: https://github.com/jixiedy/ConsistentGS/tree/main
 poster: 
 data:
 ---
