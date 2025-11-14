@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/AFA
 date: 2026-1-25
 year: "2026"
-venue: "Pattern Recognition,"
+venue: "Pattern Recognition, 172,"
 city: 
 state: ""
 thumbnail: "AFA.png"
