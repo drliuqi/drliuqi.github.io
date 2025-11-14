@@ -14,7 +14,7 @@ bibtex: Melodia.txt
 uri: Melodia.pdf
 arxiv: https://arxiv.org/abs/2511.08252
 project: 
-source: 
+source: https://github.com/YiYang-SCUT/Melodia
 poster: 
 data:
 ---
