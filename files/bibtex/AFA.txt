@@ -1,0 +1,13 @@
+@article{ZHANG2026112710,
+title = {Beyond deceptive flatness: Dual-order solution for strengthening adversarial transferability},
+journal = {Pattern Recognition},
+volume = {172},
+pages = {112710},
+year = {2026},
+issn = {0031-3203},
+doi = {https://doi.org/10.1016/j.patcog.2025.112710},
+url = {https://www.sciencedirect.com/science/article/pii/S0031320325013731},
+author = {Zhixuan Zhang and Pingyu Wang and Xingjian Zheng and Linbo Qing and Qi Liu},
+keywords = {Adversarial transferability, Black-box attack, Inner-loop sampling, Adversarial flatness, Deep neural network},
+abstract = {Transferable attacks generate adversarial examples on surrogate models to fool unknown victim models, posing real-world threats and growing research interest. Despite focusing on flat losses for transferable adversarial examples, recent studies still fall into suboptimal regions, especially the flat-yet-sharp areas, termed as deceptive flatness. In this paper, we introduce a novel black-box gradient-based transferable attack from a perspective of dual-order information. Specifically, we feasibly propose Adversarial Flatness (AF) to the deceptive flatness problem and a theoretical assurance for adversarial transferability. Based on this, using an efficient approximation of our objective, we instantiate our attack as Adversarial Flatness Attack (AFA), addressing the altered gradient sign issue. Additionally, to further improve the attack ability, we devise MonteCarlo Adversarial Sampling (MCAS) by enhancing the inner-loop sampling efficiency. Extensive results on ImageNet-compatible dataset demonstrate our superiority over six baselines by generating adversarial examples in flatter regions, boosting transferability across model architectures, input transformation attacks and the Baidu Cloud API.}
+}
