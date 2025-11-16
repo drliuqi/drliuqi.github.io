@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
+* 2025.11.15: Prof. Liu serves as the Aera Chair（AC） for the 2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026).
 * 2025.11.13: 恭喜！祝贺2022级人工智能1班被评为2024-2025学年度“先进班集体”，刘琦教授担任班主任.&nbsp;🎉🎉🎉
 * 2025.11.03：课题组刘琦教授受邀担任澳门特区科学技术发展基金的评审专家.
 * 2025.10.28：课题组刘琦教授被聘请担任中国太平洋学会海洋电子信息科学与技术分会第一届理事会理事.
