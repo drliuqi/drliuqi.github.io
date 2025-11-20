@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/DepthGS
 date: 2026-1-25
 year: "2026"
-venue: "Neural Networks,"
+venue: "Neural Networks, 195,"
 city: 
 state: ""
 thumbnail: "DepthGS.png"
