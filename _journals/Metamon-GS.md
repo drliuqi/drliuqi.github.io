@@ -14,7 +14,7 @@ bibtex: Metamon-GS.txt
 uri: Metamon-GS.pdf
 arxiv: https://arxiv.org/abs/2504.14460
 project: 
-source: 
+source: https://github.com/sato-imo/metamon-gs
 poster: 
 data:
 ---
