@@ -79,7 +79,7 @@ Academia Services
 * 澳门特区科学技术发展基金评审专家
 * Area Chair (AC): IJCNN 2025, ICASSP 2026  
 * Senior Program Chair (SPC): ECAI 2025, ICIVIS 2025     
-* Program Chair (PC): AAAI 2026, ICASSP 2026
+* Program Chair (PC): AAAI 2026, ICASSP 2026, CVPR 2026
 
   
 2) 期刊副主编（Associate Editor）:
