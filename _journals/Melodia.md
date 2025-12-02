@@ -2,7 +2,7 @@
 title: "Melodia: Training-Free Music Editing Guided by Attention Probing in Diffusion Models"
 collection: journals
 permalink: /publication/Melodia
-date: 2026-1-25
+date: 2026-1-26
 year: "2026"
 venue: "AAAI, <span style='color:red'>(Oral)</span>,"
 city: 
