@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/Metamon-GS
 date: 2026-1-25
 year: "2026"
-venue: "Neural Networks,"
+venue: "Neural Networks, 196,"
 city: 
 state: ""
 thumbnail: "Metamon-GS.png"
