@@ -1,0 +1,13 @@
+@article{SU2026108349,
+title = {Metamon-GS: Enhancing representability with variance-guided densification and light encoding},
+journal = {Neural Networks},
+volume = {196},
+pages = {108349},
+year = {2026},
+issn = {0893-6080},
+doi = {https://doi.org/10.1016/j.neunet.2025.108349},
+url = {https://www.sciencedirect.com/science/article/pii/S0893608025012304},
+author = {Junyan Su and Baozhu Zhao and Xiaohan Zhang and Qi Liu},
+keywords = {3D scene reconstruction, Novel view synthesis, Differentiable rendering,},
+abstract = {The introduction of 3D Gaussian Splatting (3DGS) has advanced novel view synthesis by utilizing Gaussians to represent scenes. Recent anchor-based 3DGS variants have significantly enhanced reconstruction performance by encoding Gaussian point features via anchor embeddings. Despite this progress in reconstruction, it remains challenging to further boost rendering performance. Feature embeddings have difficulty accurately representing colors from different perspectives under varying lighting conditions, which leads to a washed-out appearance. Another reason is the lack of a proper densification strategy that prevents Gaussian point growth in sparsely initialized areas, resulting in blurriness and needle-shaped artifacts. To address them, we propose Metamon-GS, from innovative viewpoints of variance-guided densification strategy and multi-level hash grid. The densification strategy guided by variance specifically targets Gaussians with high gradient variance in pixels and compensates for the importance of regions with extra Gaussians to improve reconstruction. The multi-level hash grid, by contrast, encodes implicit global lighting conditions, enabling accurate color reproduction across different viewpoints and feature embeddings. Our thorough experiments on publicly available datasets show that Metamon-GS surpasses its baseline model and other variants, delivering superior quality in rendering novel views. The source code of our method is available at https://github.com/sato-imo/metamon-gs.}
+}
