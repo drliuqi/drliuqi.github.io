@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <br />
-　　Multimodal Perceive-Reconstruct-Generate Lab (MPRG Lab) mainly focuses on 3D scene reconstruction/rendering/generation/editing, music generation and editing, human-object interaction, LLM agent and their applications.
+　　Multimodal Perceive-Reconstruct-Generate Lab (MPRG Lab) mainly focuses on 3D scene reconstruction/rendering/generation/editing, music generation/editing, human-object interaction, LLM agent and their applications.
 
 Collaborators
 --------
