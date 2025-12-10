@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/Onespike
 date: 2022-6-01
 year: "2022"
-venue: "IEEE ICASSP,"
+venue: "ICASSP,"
 city: 
 state: ""
 thumbnail: "Onespike.png"
