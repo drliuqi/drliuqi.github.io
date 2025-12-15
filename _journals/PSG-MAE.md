@@ -14,7 +14,7 @@ bibtex: PSG-MAE.txt
 uri: PSG-MAE.pdf
 arxiv: https://arxiv.org/pdf/2504.13229
 project: 
-source: 
+source: https://github.com/yfw-scut/PSG-MAE
 poster: 
 data:
 ---
