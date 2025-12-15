@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
+* 2025.12.15: 课题组刘琦教授被广州市数字经济协会聘请为广州市人工智能产业创新发展智库专家.
 * 2025.12.14: 课题组刘琦教授受邀讲座：“基于信息感知和语义驱动方法的人-物交互检测研究”，中国图象图形学学会（CSIG）学术活动，感知与协同：可视分析与智能交互前沿论坛，广东工业大学.
 * 2025.11.15: Prof. Liu serves as the Aera Chair（AC） for the 2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026).
 * 2025.11.13: 恭喜！祝贺2022级人工智能1班被评为2024-2025学年度“先进班集体”，刘琦教授担任班主任.&nbsp;🎉🎉🎉
