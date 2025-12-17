@@ -1,0 +1,13 @@
+@article{DENG2026108320,
+title = {Depth-consistent 3D Gaussian Splatting via physical defocus modeling and multi-view geometric supervision},
+journal = {Neural Networks},
+volume = {195},
+pages = {108320},
+year = {2026},
+issn = {0893-6080},
+doi = {https://doi.org/10.1016/j.neunet.2025.108320},
+url = {https://www.sciencedirect.com/science/article/pii/S0893608025012018},
+author = {Yu Deng and Baozhu Zhao and Junyan Su and Xiaohan Zhang and Qi Liu},
+keywords = {3D scene reconstruction, Depth-of-field, Differentiable rendering, Novel view synthesis},
+abstract = {Three-dimensional reconstruction in scenes with extreme depth variations remains challenging due to inconsistent supervisory signals between near-field and far-field regions. Existing methods fail to simultaneously address inaccurate depth estimation in distant areas and structural degradation in close-range regions. This paper proposes a novel computational framework that integrates depth-of-field supervision and multi-view consistency supervision to advance 3D Gaussian Splatting. Our approach comprises two core components: (1) Depth-of-field Supervision employs a scale-recovered monocular depth estimator (e.g., Metric3D) to generate depth priors, leverages defocus convolution to synthesize physically accurate defocused images, and enforces geometric consistency through a novel depth-of-field loss, thereby enhancing depth fidelity in both far-field and near-field regions; (2) Multi-View Consistency Supervision employing LoFTR-based semi-dense feature matching to minimize cross-view geometric errors and enforce depth consistency via least squares optimization of reliable matched points. By unifying defocus physics with multi-view geometric constraints, our method achieves superior depth fidelity, demonstrating a 0.8 dB PSNR improvement over the state-of-the-art method on the Waymo Open Dataset. This framework bridges physical imaging principles and learning-based depth regularization, offering a scalable solution for complex depth stratification in urban environments.}
+}
