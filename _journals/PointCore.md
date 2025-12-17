@@ -14,7 +14,7 @@ bibtex: PointCore.txt
 uri: PointCore.pdf
 arxiv: https://arxiv.org/abs/2403.01804
 project: 
-source: 
+source: https://github.com/drliuqi/PointCore
 poster: 
 data:
 ---
