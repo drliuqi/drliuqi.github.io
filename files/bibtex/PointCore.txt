@@ -1,0 +1,13 @@
+@article{ZHAO2026108446,
+title = {PointCore: An efficient framework for unsupervised point cloud anomaly detection using joint local-global features},
+journal = {Neural Networks},
+volume = {197},
+pages = {108446},
+year = {2026},
+issn = {0893-6080},
+doi = {https://doi.org/10.1016/j.neunet.2025.108446},
+url = {https://www.sciencedirect.com/science/article/pii/S0893608025013279},
+author = {Baozhu Zhao and Xiaohan Zhang and Jingfeng Guo and Qi Liu},
+keywords = {Point cloud anomaly detection, Unsupervised learning, Memory bank},
+abstract = {The foundation for various applications, such as industrial inspection and autonomous driving, is built upon the detection of anomaly data points in a training set using three-dimensional point cloud anomaly detection. Nevertheless, current point cloud anomaly detection techniques frequently use multiple feature memory banks to retain both local and global representations completely, but this leads to increased computational complexity and feature mismatches. To tackle this issue, we propose PointCore, a novel framework that introduces a unified coordinate-semantic memory bank. This architecture leverages low-dimensional coordinates to guide the matching process in the high-dimensional semantic feature space, effectively mitigating feature mismatches inherent in previous methods and reducing computational overhead. In addition, a normalization ranking method has been implemented to protect against outliers by not only standardizing values of varying scales to a common scale but also converting closely grouped data into a consistent distribution. Extensive testing on the Real3D-AD dataset shows that PointCore delivers fast inference time and outperforms the Reg3D-AD approach and other competitors in both detection and localization.}
+}
