@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/PointCore
 date: 2026-1-25
 year: "2026"
-venue: "Neural Networks,"
+venue: "Neural Networks, 197,"
 city: 
 state: ""
 thumbnail: "PointCore.png"
