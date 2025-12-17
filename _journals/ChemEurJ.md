@@ -2,7 +2,7 @@
 title: "Palladium-Catalyzed Hydroamination of Vinyl Ethers with Indoles: Efficient Access to N,O-Aminal Indoles"
 collection: journals
 permalink: /publication/ChemEurJ
-date: 2025-10-10
+date: 2025-9-10
 year: "2025"
 venue: "Chemistry - A European Journal,"
 city: 
