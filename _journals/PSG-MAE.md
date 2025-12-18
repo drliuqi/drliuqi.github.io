@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "PSG-MAE.png"
 teaser : 
-authors: "Yifei Wang, Qi Liu*, Fuli Min, Honghao Wang"
+authors: "Yifei Wang, Qi Liu*, Fuli Min, Honghao Wang*"
 bibtex: PSG-MAE.txt
 uri: PSG-MAE.pdf
 arxiv: https://arxiv.org/pdf/2504.13229
