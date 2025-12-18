@@ -30,7 +30,7 @@ Doctoral Students
 * LI Haowen 黎皓文 (2024.9-) 
 * CAO Boyu 曹博禹 (2024.9-): (阿里联合培养)
 * XU Mingda 许明达 (2024.9-): (阿里联合培养)
-* LUO Ye 罗烨 (2024.9-): (学科交叉培养)
+* LUO Ye 罗烨 (2024.9-): 
    
 
 
