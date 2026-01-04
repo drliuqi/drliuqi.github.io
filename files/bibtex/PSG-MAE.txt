@@ -1,0 +1,10 @@
+@ARTICLE{11303316,
+  author={Wang, Yifei and Liu, Qi and Min, Fuli and Wang, Honghao},
+  journal={IEEE Transactions on Neural Systems and Rehabilitation Engineering}, 
+  title={PSG-MAE: Robust Multitask Sleep Event Monitoring Using Multichannel PSG Reconstruction and Inter-Channel Contrastive Learning}, 
+  year={2026},
+  volume={34},
+  number={},
+  pages={274-286},
+  keywords={Sleep;Monitoring;Sleep apnea;Feature extraction;Electroencephalography;Time-frequency analysis;Brain modeling;Signal reconstruction;Robustness;Recording;Polysomnography signal analysis;multichannel signal reconstruction;pretrained deep learning models;sleep stage classification;sleep apnea detection},
+  doi={10.1109/TNSRE.2025.3645353}}
