@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/PSG-MAE
 date: 2026-1-30
 year: "2026"
-venue: "IEEE Transactions on Neural Systems and Rehabilitation Engineering,"
+venue: "IEEE Transactions on Neural Systems and Rehabilitation Engineering, 34,"
 city: 
 state: ""
 thumbnail: "PSG-MAE.png"
