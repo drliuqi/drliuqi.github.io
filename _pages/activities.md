@@ -82,7 +82,7 @@ Academia Services
 * 广州市人工智能产业创新发展智库专家
 * 全国研究生教育评估监测专家库专家
 * 澳门特区科学技术发展基金评审专家
-* Area Chair (AC): IJCNN 2025, ICASSP 2026  
+* Area Chair (AC): IJCNN 2025, ICASSP 2026, IJCNN 2026  
 * Senior Program Chair (SPC): ECAI 2025, ICIVIS 2025     
 * Program Chair (PC): AAAI 2026, ICASSP 2026, CVPR 2026
 
