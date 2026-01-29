@@ -12,7 +12,7 @@ teaser :
 authors: "Lekai Qian, Haoyu Gu, Dehan Li, Boyu Cao*, Qi Liu*"
 bibtex: Pianoroll-Event.txt
 uri: Pianoroll-Event.pdf
-arxiv: 
+arxiv: https://arxiv.org/abs/2601.19951
 project: 
 source: 
 poster: 
