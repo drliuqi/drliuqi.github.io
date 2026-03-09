@@ -67,6 +67,7 @@ redirect_from:
   
   
 3.教学课程
+* 《人工智能导论》, 研究生, 2026春季
 * 《Machine Learning Course Training》, 2025 Fall
 * 《Machine Learning》, 2025 Fall
 * 《Reshape Our Future with Generative AI》, 2024 Winter
@@ -75,6 +76,6 @@ redirect_from:
 * 《Data Analysis and Machine Learning》, 2024 Summer
 * 《Machine Learning Course Training》, 2023 Fall
 * 《Machine Learning》, 2023 Fall
-* 《Engineering Applications in Artificial Intelligence》, 2023 Spring
+* 《人工智能的工程应用》, 研究生, 2023春季
 * 《Machine Learning Course Training》, 2022 Fall
 * 《Machine Learning》, 2022 Fall
