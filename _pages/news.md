@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
+* 2026.03.13: 课题组刘琦教授受邀讲座“AI agent的安装部署与实际操作”，广州市天河区人大常委会
 * 2026.03.10: 课题组刘琦教授被聘请为广州市事业单位干部培训名师宣讲团成员，广州市人力资源和社会保障局.
 * 2026.01.22: Prof. Liu serves as the Aera Chair（AC） for the 2026 International Joint Conference on Neural Networks (IJCNN 2026).
 * 2026.01.17: 课题组刘琦教授受邀讲座：“面向情感陪伴的生成式听觉智能”，CCF YOCSEF，广州.
