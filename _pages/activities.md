@@ -136,6 +136,7 @@ Academia Services
 
 
 5) 会议论坛主席（Conference (Workshop) Chair）:  
+* Q. Liu, Publication Chair of The 7th International Conference on Intelligent Medicine and Health, Guangzhou, China, 2026.[https://www.icimh.com/committee.html](https://www.icimh.com/committee.html)
 * Q. Liu and Z. Wei, Workshop Chair of "Visual Perception and Understanding Based on Deep Neural Networks" in the 5th International Conference on Computer, Big Data and Artificial Intelligence, Jingdezhen, China, 2024. [http://www.iccbdai.org/workshop2024/index.html](http://www.iccbdai.org/workshop2024/index.html)
 * Q. Liu and Z. Wei, Workshop Chair of "Multimodal/Crossmodal Perception and Content Understanding" in the 4th International Conference on Image, Vision and Intelligent Systems (ICIVIS), Xining, China, 2024. [http://www.icivis.net//](https://www.icivis.net/committee-2024/)
 * Q. Liu and H. Cao, Special Session Chair of "Artificial Intelligence based Array Signal Processing and Its Applications" in the 2nd International Conference on Frontiers of Electronics, Information and Computation Technologies (ICFEICT), Wuhan, China, 2022. [http://www.feict.net/workshop/](https://www.feict.net/workshop-2022/)
