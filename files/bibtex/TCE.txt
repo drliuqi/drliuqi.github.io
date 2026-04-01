@@ -1,0 +1,10 @@
+@ARTICLE{11306137,
+  author={Zhu, Hongxu and Chi, Hao Ran and Qian, Xinyuan and Liu, Rui and Liu, Qi},
+  journal={IEEE Transactions on Consumer Electronics}, 
+  title={Guest Editorial of the Special Section on Human Machine Interface for Next Generation Consumer Electronics}, 
+  year={2025},
+  volume={71},
+  number={4},
+  pages={11706-11707},
+  keywords={Surveys;Virtual assistants;Human-machine systems;Speech recognition;Touch sensitive screens;Information and communication technology;Artificial intelligence;Consumer electronics;Next generation networking;Graphical user interfaces},
+  doi={10.1109/TCE.2025.3596448}}
