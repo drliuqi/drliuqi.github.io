@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "ACG.png"
 teaser : 
-authors: "Boyu Cao, Lekai Qian, Dehan Li, Haoyu Gu, Mingda Xu, Qi Liu"
+authors: "Boyu Cao, Lekai Qian, Dehan Li, Haoyu Gu, Mingda Xu, Qi Liu*"
 bibtex: ACG.txt
 uri: ACG.pdf
 arxiv: 
