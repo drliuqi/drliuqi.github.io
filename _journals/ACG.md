@@ -12,7 +12,7 @@ teaser :
 authors: "Boyu Cao, Lekai Qian, Dehan Li, Haoyu Gu, Mingda Xu, Qi Liu*"
 bibtex: ACG.txt
 uri: ACG.pdf
-arxiv: 
+arxiv: https://arxiv.org/abs/2604.05343
 project: 
 source: 
 poster: 
