@@ -59,7 +59,7 @@ Graduate Students
 Alumni (whereabout)
 --------  
 * GUO Jingfeng 郭靖丰 (硕士，2023.9-2026.6)，腾讯.
-* XUE Weiying 薛炜樱 (硕士，2023.9-2026.6)，阿里国际.
+* XUE Weiying 薛炜樱 (硕士，2023.9-2026.6)，影石Insta360.
 * ZHAO Baozhu 赵宝柱 (硕士，2023.9-2026.6)，百度.
 * SU Junyan 苏俊彦 (硕士，2023.9-2026.6)，联通.
 * LIN Jinhao 林锦濠 (硕士，2022.9-2025.6)，南方电网【<span style='color:red'>未来技术太湖创新奖（2024）</span>】.
