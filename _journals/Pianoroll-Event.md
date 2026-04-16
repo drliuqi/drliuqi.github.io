@@ -13,7 +13,7 @@ authors: "Lekai Qian, Haoyu Gu, Dehan Li, Boyu Cao*, Qi Liu*"
 bibtex: Pianoroll-Event.txt
 uri: Pianoroll-Event.pdf
 arxiv: https://arxiv.org/abs/2601.19951
-project: 
+project: https://haoyu-gu.github.io/PIANOROLL-EVENT/
 source: 
 poster: 
 data:
