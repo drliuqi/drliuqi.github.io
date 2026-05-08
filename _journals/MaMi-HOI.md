@@ -12,7 +12,7 @@ teaser :
 authors: "Hao Wang, Shiqi Wang, Qi Liu*"
 bibtex: MaMi-HOI.txt
 uri: MaMi-HOI.pdf
-arxiv: 
+arxiv: https://arxiv.org/abs/2605.05756
 project: 
 source: https://github.com/DON738110198/MaMi-HOI.git
 poster: 
