@@ -1,5 +1,5 @@
 ---
-title: "Polyphonia: Training-Free Context-Aware Music Editing with Acoustic-Informed Attention Calibration"
+title: "Polyphonia: Zero-Shot Timbre Transfer in Polyphonic Music with Acoustic-Informed Attention Calibration"
 collection: journals
 permalink: /publication/Polyphonia
 date: 2026-5-7
@@ -12,8 +12,8 @@ teaser :
 authors: "Haowen Li, Tianxiang Li, Yi Yang, Boyu Cao, Qi Liu*"
 bibtex: Polyphonia.txt
 uri: Polyphonia.pdf
-arxiv: 
-project: 
+arxiv: https://arxiv.org/abs/2605.10203
+project: https://polyphonia2026.github.io/polyphonia-demo/
 source: 
 poster: 
 data:
