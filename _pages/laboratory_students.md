@@ -21,7 +21,7 @@ Postdocs & RAs
 
 Doctoral Students
 --------
-* CHEN Bin 陈彬 (2022.9-): (科大讯飞联合培养)
+* CHEN Bin 陈彬 (2022.9-): (在职博士，科大讯飞联合培养)
 * WANG Yuxiao 王煜骁 (2022.9-):【<span style='color:red'>校长奖学金（2022），国家奖学金（2024），未来技术太湖创新奖（2024）</span>】
 * CHEN Huajun 陈铧浚 (2023.9-) 
 * ZHANG Xiaohan 张笑晗 (2023.9-): (阿里联合培养)【<span style='color:red'>未来技术太湖创新奖（2024）</span>】
