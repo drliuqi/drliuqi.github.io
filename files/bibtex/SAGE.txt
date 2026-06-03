@@ -1,0 +1,13 @@
+@article{WANG2026109183,
+title = {SAGE: Semantic-guided framework with decoupled optimization for open-vocabulary video visual relationship detection},
+journal = {Neural Networks},
+volume = {203},
+pages = {109183},
+year = {2026},
+issn = {0893-6080},
+doi = {https://doi.org/10.1016/j.neunet.2026.109183},
+url = {https://www.sciencedirect.com/science/article/pii/S0893608026006441},
+author = {Shiqi Wang and Weiying Xue and Shuyi Hu and Haowen Li and Qi Liu},
+keywords = {Open-vocabulary video visual relationship detection, Semantic-guided framework, Multimodal large language model, Cross-attention mechanism},
+abstract = {Open-vocabulary video visual relationship detection (VidVRD) aims to expand video visual relationship detection beyond annotated categories by detecting unseen relationships between both seen and unseen objects in videos. Existing approaches primarily focus on adapting static image-text models (e.g., CLIP) via visual prompting but pay limited attention to the intrinsic visual-semantic gap and optimization instability in dynamic video contexts. To overcome this, we propose a Semantic-Guided Framework with Decoupled Optimization (SAGE) to decouple explicit semantic reasoning from robust classifier adaptation. Due to the static nature of pre-trained image encoders, low-level visual features often fail to capture subtle spatio-temporal action cues, leading to semantic ambiguity in distinguishing visually similar but semantically different interactions. We introduce a Multimodal LLM-based Semantic Teacher as a semantic information source to establish explicit semantic reasoning, extracting structured descriptions that are integrated with visual representations via cross-attention, thereby reducing the spatio-temporal gap. Furthermore, instance-level visual representations in videos are highly susceptible to visual noise (e.g., motion blur, occlusion). In existing instance-conditioned methods, this noise propagates into learnable prompts, causing semantic drift, classification inconsistency, and poor generalization to novel categories. To mitigate this noise sensitivity, we propose a Decoupled Class-Aware Prompting strategy. Unlike instance-conditioned methods, this module utilizes a Textual Knowledge Embedding network to transform stable class-level text embeddings into adaptive prompts, effectively mitigating semantic drift caused by visual noise. Extensive experiments on VidVRD and VidOR datasets validate that the proposed method achieves state-of-the-art performance, with significant gains on the challenging novel relationship categories.}
+}
