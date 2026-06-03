@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/SAGE
 date: 2026-5-25
 year: "2026"
-venue: "Neural Networks,"
+venue: "Neural Networks, 203,"
 city: 
 state: ""
 thumbnail: "SAGE.png"
