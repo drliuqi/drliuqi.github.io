@@ -39,10 +39,6 @@ Doctoral Students
 
 Graduate Students
 --------
-* ZHAO Baozhu 赵宝柱 (2023.9-):  (阿里联合培养)
-* SU Junyan 苏俊彦 (2023.9-) 
-* XUE Weiying 薛炜樱 (2023.9-)
-* GUO Jingfeng 郭靖丰 (2023.9-)
 * WANG Shiqi 王诗琦 (2024.9-): (阿里联合培养)
 * YANG Yi 杨燚 (2024.9-) 
 * HU Shuyi 胡舒熠 (2024.9-)【<span style='color:red'>国家奖学金（2025）</span>】
