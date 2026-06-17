@@ -22,7 +22,6 @@ Postdocs & RAs
 Doctoral Students
 --------
 * CHEN Bin 陈彬 (2022.9-): (在职博士，科大讯飞联合培养)
-* WANG Yuxiao 王煜骁 (2022.9-):【<span style='color:red'>校长奖学金（2022），国家奖学金（2024），未来技术太湖创新奖（2024）</span>】
 * CHEN Huajun 陈铧浚 (2023.9-) 
 * ZHANG Xiaohan 张笑晗 (2023.9-): (阿里联合培养)【<span style='color:red'>未来技术太湖创新奖（2024）</span>】
 * DENG Yu 邓宇 (2023.9-): (阿里联合培养)
@@ -56,6 +55,7 @@ Graduate Students
 
 Alumni (whereabout)
 --------  
+* WANG Yuxiao 王煜骁 (博士，2022.9-2026.6)，【<span style='color:red'>校长奖学金（2022），国家奖学金（2024），未来技术太湖创新奖（2024）</span>】
 * GUO Jingfeng 郭靖丰 (硕士，2023.9-2026.6)，腾讯.
 * XUE Weiying 薛炜樱 (硕士，2023.9-2026.6)，影石Insta360.
 * ZHAO Baozhu 赵宝柱 (硕士，2023.9-2026.6)，百度.
