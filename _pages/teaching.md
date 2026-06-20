@@ -48,7 +48,7 @@ redirect_from:
 * 《基于大语言模型的图像生成与编辑智能体设计与实现》（霍君安，2026）
 * 《基于智能体的运动医学研究》（钟睿，2026）
 * 《SCANet：面向统一运动重定向的语义图交叉注意力网络》（王子寒，2026）
-* 《强化学习驱动的视觉生成质量优化研究》（叶子绿，2026）
+* 《强化学习驱动的视觉生成质量优化研究》（叶子绿，2026）【<span style='color:red'>优秀毕业论文</span>，**院级和校级**】 
 * 《基于多模态模型的篮球比赛图像智能解说系统研究》（曾嘉，2026）
 * 《基于抽象全局表征辅助的极端视角位姿设计》（孙振宇，2026）
 * 《人声分离语音转写系统的设计与实现》（谢金璇，2026）
@@ -67,15 +67,15 @@ redirect_from:
   
   
 3.教学课程
-* 《人工智能导论》, 研究生, 2026春季
-* 《Machine Learning Course Training》, 2025 Fall
-* 《Machine Learning》, 2025 Fall
-* 《Reshape Our Future with Generative AI》, 2024 Winter
-* 《Machine Learning Course Training》, 2024 Fall
-* 《Machine Learning》, 2024 Fall
-* 《Data Analysis and Machine Learning》, 2024 Summer
-* 《Machine Learning Course Training》, 2023 Fall
-* 《Machine Learning》, 2023 Fall
-* 《人工智能的工程应用》, 研究生, 2023春季
-* 《Machine Learning Course Training》, 2022 Fall
-* 《Machine Learning》, 2022 Fall
+* 《人工智能导论》, 全校研究生, 2026春季
+* 《Machine Learning Course Training》, 本科生, 未来技术学院, 2025 Fall
+* 《Machine Learning》, 本科生, 未来技术学院, 2025 Fall
+* 《Reshape Our Future with Generative AI》, 本科生, 未来技术学院, 2024 Winter
+* 《Machine Learning Course Training》, 本科生, 未来技术学院, 2024 Fall
+* 《Machine Learning》, 本科生, 未来技术学院, 2024 Fall
+* 《Data Analysis and Machine Learning》, 本科生, 未来技术学院, 2024 Summer
+* 《Machine Learning Course Training》, 本科生, 未来技术学院, 2023 Fall
+* 《Machine Learning》, 本科生, 未来技术学院, 2023 Fall
+* 《人工智能的工程应用》, 研究生, 未来技术学院, 2023春季
+* 《Machine Learning Course Training》, 本科生, 未来技术学院, 2022 Fall
+* 《Machine Learning》, 本科生, 未来技术学院, 2022 Fall
