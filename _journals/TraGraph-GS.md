@@ -12,7 +12,7 @@ teaser :
 authors: "Xiaohan Zhang, Sitong Wang, Yushen Yan, Yi Yang, Mingda Xu, Qi Liu*"
 bibtex: TraGraph-GS.txt
 uri: TraGraph-GS.pdf
-arxiv: 
+arxiv: https://arxiv.org/abs/2506.08704
 project: 
 source: 
 poster: 
