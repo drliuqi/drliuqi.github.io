@@ -1,0 +1,10 @@
+@INPROCEEDINGS{11462490,
+  author={Qian, Lekai and Gu, Haoyu and Li, Dehan and Cao, Boyu and Liu, Qi},
+  booktitle={ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Pianoroll-Event: A Novel Score Representation for Symbolic Music}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={14822-14826},
+  keywords={Event detection;Wireless sensor networks;Protocols;HTTP;Radio access networks;Regional area networks;Machine learning;Generative Pre-trained transformer;Long short term memory;Learning (artificial intelligence);Symbolic music representation;Music encoding;Music generation;Sequence modeling},
+  doi={10.1109/ICASSP55912.2026.11462490}}
