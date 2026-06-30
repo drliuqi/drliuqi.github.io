@@ -14,7 +14,7 @@ bibtex: Polyphonia.txt
 uri: Polyphonia.pdf
 arxiv: https://arxiv.org/abs/2605.10203
 project: https://polyphonia2026.github.io/polyphonia-demo/
-source: 
+source: https://github.com/Ltx-Leif/polyphonia
 poster: 
 data:
 ---
