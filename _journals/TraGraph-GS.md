@@ -14,7 +14,7 @@ bibtex: TraGraph-GS.txt
 uri: TraGraph-GS.pdf
 arxiv: https://arxiv.org/abs/2506.08704
 project: 
-source: 
+source: https://github.com/Xiaohan-Z/TraGraph-GS
 poster: 
 data:
 ---
