@@ -14,7 +14,7 @@ bibtex: AgentHOI.txt
 uri: AgentHOI.pdf
 arxiv: 
 project: 
-source: 
+source: https://github.com/YuxiaoWang-AI/AgentHOI
 poster: 
 data:
 ---
