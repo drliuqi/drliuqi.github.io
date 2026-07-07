@@ -1,5 +1,5 @@
 ---
-title: "Pigie: Proximal Policy Optimization Guided Diffusion for Fine-Grained Image Editing"
+title: "PiGIE: Proximal Policy Optimization Guided Diffusion for Fine-Grained Image Editing"
 collection: journals
 permalink: /publication/PiGIE
 date: 2026-7-7
