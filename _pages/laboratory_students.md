@@ -17,7 +17,8 @@ Collaborators
 Postdocs & RAs
 --------
 * WANG Bowen 王柏文 (博士后，2025.1-)
-* SHENG Xiaoqi 盛校棋 (博士后，2025.1-) 
+* SHENG Xiaoqi 盛校棋 (博士后，2025.1-)
+* DING Bowen 丁博文 (企业博士后，2026.7-)
 
 Doctoral Students
 --------
