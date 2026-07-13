@@ -68,14 +68,14 @@ redirect_from:
   
 3.教学课程
 * 《人工智能导论》, 全校研究生, 2026春季
-* 《Machine Learning Course Training》, 本科生, 未来技术学院, 2025 Fall
-* 《Machine Learning》, 本科生, 未来技术学院, 2025 Fall
-* 《Reshape Our Future with Generative AI》, 本科生, 未来技术学院, 2024 Winter
-* 《Machine Learning Course Training》, 本科生, 未来技术学院, 2024 Fall
-* 《Machine Learning》, 本科生, 未来技术学院, 2024 Fall
-* 《Data Analysis and Machine Learning》, 本科生, 未来技术学院, 2024 Summer
-* 《Machine Learning Course Training》, 本科生, 未来技术学院, 2023 Fall
-* 《Machine Learning》, 本科生, 未来技术学院, 2023 Fall
+* 《Machine Learning Course Training》, 本科生, 未来技术学院, 2025秋季
+* 《Machine Learning》, 本科生, 未来技术学院, 2025秋季
+* 《Reshape Our Future with Generative AI》, 本科生, 未来技术学院, 2024冬季
+* 《Machine Learning Course Training》, 本科生, 未来技术学院, 2024秋季
+* 《Machine Learning》, 本科生, 未来技术学院, 2024秋季
+* 《Data Analysis and Machine Learning》, 本科生, 未来技术学院, 2024夏季
+* 《Machine Learning Course Training》, 本科生, 未来技术学院, 2023秋季
+* 《Machine Learning》, 本科生, 未来技术学院, 2023秋季
 * 《人工智能的工程应用》, 研究生, 未来技术学院, 2023春季
-* 《Machine Learning Course Training》, 本科生, 未来技术学院, 2022 Fall
-* 《Machine Learning》, 本科生, 未来技术学院, 2022 Fall
+* 《Machine Learning Course Training》, 本科生, 未来技术学院, 2022秋季
+* 《Machine Learning》, 本科生, 未来技术学院, 2022秋季
