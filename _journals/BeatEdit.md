@@ -14,7 +14,7 @@ bibtex: BeatEdit.txt
 uri: BeatEdit.pdf
 arxiv: 
 project: 
-source: 
+source: https://github.com/Haoyu-Gu/BeatEdit-code
 poster: 
 data:
 ---
