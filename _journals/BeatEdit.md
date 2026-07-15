@@ -12,7 +12,7 @@ teaser :
 authors: "Haoyu Gu, Lekai Qian, Haowu Zhou, Qi Liu*, Shuai Wang*"
 bibtex: BeatEdit.txt
 uri: BeatEdit.pdf
-arxiv: 
+arxiv: https://arxiv.org/html/2607.11124v1
 project: 
 source: https://github.com/Haoyu-Gu/BeatEdit-code
 poster: 
