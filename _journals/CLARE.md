@@ -12,7 +12,7 @@ teaser :
 authors: "Xiaoye Zhu, Weixin Li, Junan Huo, Bozhong Wang, Jia Zeng, Yi Yang, Cen Chen, Qi Liu*"
 bibtex: CLARE.txt
 uri: CLARE.pdf
-arxiv: 
+arxiv: https://arxiv.org/abs/2607.16352
 project: 
 source: 
 poster: 
