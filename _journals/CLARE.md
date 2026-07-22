@@ -14,7 +14,7 @@ bibtex: CLARE.txt
 uri: CLARE.pdf
 arxiv: https://arxiv.org/abs/2607.16352
 project: 
-source: 
+source: https://xyzhu1225.github.io/CLARE/
 poster: 
 data:
 ---
