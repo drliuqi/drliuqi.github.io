@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/CGGS
 date: 2026-6-29
 year: "2026"
-venue: "IEEE Transactions on Image Processing,"
+venue: "IEEE Transactions on Image Processing, 35,"
 city: 
 state: ""
 thumbnail: "CGGS.png"
