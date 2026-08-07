@@ -19,6 +19,7 @@ Postdocs & RAs
 * WANG Bowen 王柏文 (博士后，2025.1-)
 * SHENG Xiaoqi 盛校棋 (博士后，2025.1-)
 * DING Bowen 丁博文 (博士后，广州地铁集团，2026.7-)
+* CHEN Xianshan 陈献珊 (科研助理，2026.5-)
 
 Doctoral Students
 --------
