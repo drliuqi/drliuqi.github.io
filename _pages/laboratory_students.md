@@ -57,7 +57,7 @@ Graduate Students
 
 Alumni (whereabout)
 --------  
-* WANG Yuxiao 王煜骁 (博士，2022.9-2026.6)，【<span style='color:red'>校长奖学金（2022），国家奖学金（2024），未来技术太湖创新奖（2024）</span>】
+* WANG Yuxiao 王煜骁 (博士，2022.9-2026.6)，睿魔寻影，【<span style='color:red'>校长奖学金（2022），国家奖学金（2024），未来技术太湖创新奖（2024）</span>】
 * GUO Jingfeng 郭靖丰 (硕士，2023.9-2026.6)，腾讯.
 * XUE Weiying 薛炜樱 (硕士，2023.9-2026.6)，影石Insta360.
 * ZHAO Baozhu 赵宝柱 (硕士，2023.9-2026.6)，百度.
