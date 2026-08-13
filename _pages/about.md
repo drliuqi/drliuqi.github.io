@@ -31,7 +31,7 @@ Experiences
   Supervisor: Prof. Zhi Ding (IEEE Fellow，海外高层次人才)
 * Ph.D degree: Aug. 2016 - Oct. 2019  
   Department of Electrical Engineering, City University of Hong Kong (CityU), Hong Kong, China   
-  Supervisor: Prof. Hing Cheung So (IEEE Fellow，海外高层次人才)
+  Supervisor: Prof. Hing Cheung So (IEEE Fellow，欧洲工程院院士，海外高层次人才)
 * M.S degree: Sept. 2013 - Mar. 2016  
   College of Automation, Harbin Engineering University (HEU), Harbin, China   
   Supervisor: Prof. Wei Wang (国家级人才计划入选者)
