@@ -1,0 +1,13 @@
+@article{LI2027109346,
+title = {PiGIE: Proximal policy optimization guided diffusion for fine-grained image editing},
+journal = {Neural Networks},
+volume = {205},
+pages = {109346},
+year = {2027},
+issn = {0893-6080},
+doi = {https://doi.org/10.1016/j.neunet.2026.109346},
+url = {https://www.sciencedirect.com/science/article/pii/S0893608026008051},
+author = {Tiancheng Li and Jinxiu Liu and Weijian Luo and Huajun Chen and Qi Liu},
+keywords = {Image editing, Diffusion model, Reinforcement learning},
+abstract = {Instruction-based image editing is a challenging task since it requires to manipulate the visual content of images according to complex human language instructions. When editing an image with tiny objects and complex positional relationships, existing image editing methods cannot locate the accurate region to execute the editing. To address this issue, we introduce Proximal Policy Optimization Guided Image Editing(PiGIE), a diffusion model that can accurately edit tiny objects in images with complex scenes. The PiGIE can incorporate proper noise masks to edit images based on the guidance of the target object’s attention maps. Different from the traditional image editing approaches based on supervised learning, PiGIE leverages reinforcement learning with Proximal Policy Optimization (PPO) to fine-tune the diffusion model by using the cosine similarity between UNet attention maps and human feedback as the reward signal. On multiple image editing benchmarks, PiGIE exhibits remarkable improvements in both image quality and generalization capability. In particular, PiGIE sets a new baseline for editing fine-grained images with multiple tiny objects, shedding light on future studies on text-guided image editing for tiny objects.}
+}
