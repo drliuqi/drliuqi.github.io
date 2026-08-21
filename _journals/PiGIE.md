@@ -4,12 +4,12 @@ collection: journals
 permalink: /publication/PiGIE
 date: 2026-7-7
 year: "2026"
-venue: "Neural Networks,"
+venue: "Neural Networks, 205,"
 city: 
 state: ""
 thumbnail: "PiGIE.png"
 teaser : 
-authors: "Tiancheng Li, Jinxiu Liu, Weijian Luo, Huajun Chen, Qi Liu*"
+authors: "Tiancheng Li, Jinxiu Liu, Weijian Luo, Huajun Chen, Qi Liu"
 bibtex: PiGIE.txt
 uri: PiGIE.pdf
 arxiv: 
