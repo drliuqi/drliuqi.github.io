@@ -92,6 +92,7 @@ Academia Services
 
   
 2) 期刊副主编（Associate Editor）:
+* Communications AI & Computing, 2026-. [https://www.nature.com/commsaicomp/](https://www.nature.com/commsaicomp/)
 * IEEE Systems Journal, 2022- . [https://ieeesystemsjournal.org/journal-of-boards/](https://ieeesystemscouncil.org/publication/ieee-systems-journal#committee)
 * Digital Signal Processing, 2022- . [https://www.journals.elsevier.com/digital-signal-processing/editorial-board/qi-liu](https://www.sciencedirect.com/journal/digital-signal-processing/about/editorial-board)
 * Electronics and Signal Processing, 2022- . [https://www.elspub.com/journals/electronics-and-signal-processing](https://www.elspub.com/journals/electronics-and-signal-processing/editorial/)
