@@ -16,8 +16,8 @@ Collaborators
 
 Postdocs & RAs
 --------
-* WANG Bowen 王柏文 (博士后，2025.1-)【<span style='color:red'>国资博士后C档基金（2025）</span>】
-* SHENG Xiaoqi 盛校棋 (博士后，2025.1-)【<span style='color:red'>国自然青年C类基金（2025）</span>】
+* WANG Bowen 王柏文 (博士后，2025.1-)【<span style='color:red'>国资博士后C档基金</span>】
+* SHENG Xiaoqi 盛校棋 (博士后，2025.1-)【<span style='color:red'>国自然青年C类基金</span>】
 * DING Bowen 丁博文 (企业联培博士后，广州地铁集团，2026.7-)
 * CHEN Xianshan 陈献珊 (科研助理，2026.5-)
 
