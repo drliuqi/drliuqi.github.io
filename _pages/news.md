@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
+* 2026.09.01：Congratulations to my PhD student, Mingda Xu, for being awarded the ACM SIGMM Student Travel Grants.&nbsp;🎉🎉🎉
 * 2026.08.21: Prof. Liu serves as the Associate Editor of Communications AI & Computing. [https://www.nature.com/commsaicomp/](https://www.nature.com/commsaicomp/)
 * 2026.07.29：课题组刘琦教授受邀讲座：“多模态具身导航：从空间感知到智能体决策”，国防科技大学，长沙.
 * 2026.06.22：课题组刘琦教授受邀讲座：“多模态AI技术落地实践：校企协同培育高校教师交叉学科教学创新能力”，人工智能赋能高校教师教学能力提升研讨会，兰州.
