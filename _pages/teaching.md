@@ -67,6 +67,7 @@ redirect_from:
   
   
 3.教学课程
+* 《机器学习》，本科生，法学院，2026秋季
 * 《人工智能导论》, 全校研究生, 2026春季
 * 《Machine Learning Course Training》, 本科生, 未来技术学院, 2025秋季
 * 《Machine Learning》, 本科生, 未来技术学院, 2025秋季
