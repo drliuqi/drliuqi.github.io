@@ -14,7 +14,7 @@ bibtex: HoloDenoiser.txt
 uri: HoloDenoiser.pdf
 arxiv: 
 project: 
-source: 
+source: https://github.com/YLLY-6/HoloDenoiser
 poster: 
 data:
 ---
