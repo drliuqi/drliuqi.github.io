@@ -19,8 +19,7 @@ redirect_from:
 Requirements:
 * Postdoc（博士后）: Ph.D degree in EE or CS; will perform research on natural language processing, music generation/editing, human-object interaction, affective computing, 3D vision, or related video/image/speech signal processing.
 * Research Assistant（科研助理）: should possess at least bachelor's degree (no requirement in discipline). Programming experience is preferred.
-* 博士/硕士招生：对我们的研究方向感兴趣，有论文发表经历者优先。
-* 本科生进组实习：请直接到国际校区B1c-417（C）找我。   
+* 博士/硕士招生：对我们的研究方向感兴趣，有论文发表经历者优先。   
 * 具体领域包括（不限于）：  
   1）视觉智能：3D场景重建/渲染/生成/编辑、自动蒙皮、人物交互、空间智能感知；  
   2）听觉智能：音乐生成/编辑；  
