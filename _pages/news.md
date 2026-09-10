@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
+* 2026.09.18：课题组刘琦教授受邀讲座：“AI相关技术解读与智能体的应用实践”（第二期），广东东江干部学院，惠州.
 * 2026.09.09：课题组刘琦教授受邀讲座：“AI相关技术解读与智能体的应用实践”，广东东江干部学院，惠州.
 * 2026.09.01：Congratulations to my PhD student, Mingda Xu, for being awarded the ACM SIGMM Student Travel Grants.&nbsp;🎉🎉🎉
 * 2026.08.21: Prof. Liu serves as the Associate Editor of Communications AI & Computing. [https://www.nature.com/commsaicomp/](https://www.nature.com/commsaicomp/)
