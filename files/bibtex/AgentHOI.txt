@@ -1,0 +1,10 @@
+@ARTICLE{11488251,
+  author={Wang, Yuxiao and Lei, Yu and Liu, Qi},
+  journal={IEEE Internet of Things Journal}, 
+  title={AgentHOI: Towards Multi-Agent Collaborative Human-Object Interaction Detection}, 
+  year={2026},
+  volume={13},
+  number={18},
+  pages={41354-41361},
+  keywords={Activity recognition;Human activity recognition;Circuits and systems;Contacts;Filtering;Filters;Voltage-controlled oscillators;Integrated circuits;Oscillators;Communication systems;Agent;human-object interaction (HOI);scene understanding},
+  doi={10.1109/JIOT.2026.3685409}}
