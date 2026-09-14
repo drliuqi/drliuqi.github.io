@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "GarmentX.png"
 teaser : 
-authors: "Jingfeng Guo, Jinnan Chen*, Weikai Chen, Zhenyu Sun, Lanjiong Li, Baozhu Zhao, Lingting Zhu, Xin Wang, Qi Liu*"
+authors: "Jingfeng Guo, Jinnan Chen, Weikai Chen*, Zhenyu Sun, Lanjiong Li, Baozhu Zhao, Lingting Zhu, Xin Wang, Qi Liu*"
 bibtex: GarmentX.txt
 uri: GarmentX.pdf
 arxiv: https://arxiv.org/abs/2504.20409
