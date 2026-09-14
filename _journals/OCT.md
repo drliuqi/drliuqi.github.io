@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/OCT
 date: 2026-6-2
 year: "2026"
-venue: "IEEE Transactions on Circuits and Systems for Video Technology,"
+venue: "IEEE Transactions on Circuits and Systems for Video Technology, 36(9),"
 city: 
 state: ""
 thumbnail: "OCT.png"
