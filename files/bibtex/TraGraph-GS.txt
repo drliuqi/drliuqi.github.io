@@ -1,0 +1,10 @@
+@ARTICLE{11593447,
+  author={Zhang, Xiaohan and Wang, Sitong and Yan, Yushen and Yang, Yi and Xu, Mingda and Liu, Qi},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={TraGraph-GS: Trajectory Graph-based Gaussian Splatting for Arbitrary Large-Scale Scene Rendering}, 
+  year={2026},
+  volume={48},
+  number={10},
+  pages={13720-13732},
+  keywords={Rendering (computer graphics);Cameras;Trajectory;Computers;Conferences;Grounding;PSNR;Neural radiance field;Computer vision;Educational institutions;Novel view synthesis;arbitrary large scenes;3D Gaussian splatting;trajectory graph},
+  doi={10.1109/TPAMI.2026.3709368}}
