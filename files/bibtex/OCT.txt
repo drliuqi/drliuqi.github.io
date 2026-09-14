@@ -1,0 +1,10 @@
+@ARTICLE{11556478,
+  author={Li, Xiang and Fang, Huihui and Wang, Yuning and Chen, Cen and Liu, Qi and Wang, Jinke and Shi, Yi and Duan, Lixin and Yang, Weihua and Liu, Yue and Xu, Yanwu},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={Cross-Modality Anatomy Knowledge Distillation for Retinal OCT Layer Segmentation With Limited Labels}, 
+  year={2026},
+  volume={36},
+  number={9},
+  pages={14127-14141},
+  keywords={Retina;Modeling;Labeling;Dies;Training;Technology;Learning (artificial intelligence);Educational institutions;Annotations;Biomedical imaging;Medical image;cross-modality;layer anatomy;retinal OCT segmentation;domain adaptation},
+  doi={10.1109/TCSVT.2026.3701937}}
