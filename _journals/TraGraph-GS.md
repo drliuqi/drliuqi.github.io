@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/TraGraph-GS
 date: 2026-6-26
 year: "2026"
-venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence,"
+venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence, 48(10),"
 city: 
 state: ""
 thumbnail: "TraGraph-GS.png"
