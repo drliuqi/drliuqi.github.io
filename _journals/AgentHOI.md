@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/AgentHOI
 date: 2026-4-15
 year: "2026"
-venue: "IEEE Internet of Things Journal,"
+venue: "IEEE Internet of Things Journal, 13(18),"
 city: 
 state: ""
 thumbnail: "AgentHOI.png"
