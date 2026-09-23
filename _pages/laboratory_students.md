@@ -49,7 +49,7 @@ Graduate Students
 * LI Kerui 李柯锐 (2025.9-)
 * ZHOU Rugang 周如刚 (2026.9-)
 * ZENG Jia 曾嘉 (2026.9-)
-* WANG Bozhong 王博中 (2026.9-): (超级机器人研究院联合培养)
+* WANG Bozhong 王博中 (2026.9-): 
 * LIANG Jinzong 梁锦棕 (2026.9-)
 * HUANG Jinhuan 黄锦焕 (2026.9-)
 * BAI Guanwu 白冠武 (2026.9-)
