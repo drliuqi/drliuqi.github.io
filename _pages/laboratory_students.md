@@ -40,7 +40,7 @@ Doctoral Students
 
 Graduate Students
 --------
-* WANG Shiqi 王诗琦 (2024.9-): (阿里联合培养)
+* WANG Shiqi 王诗琦 (2024.9-): 
 * YANG Yi 杨燚 (2024.9-) 
 * HU Shuyi 胡舒熠 (2024.9-)【<span style='color:red'>国家奖学金（2025）</span>】
 * ZHU Xiaoye 朱小烨 (2025.9-) 
