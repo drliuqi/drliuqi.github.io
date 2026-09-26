@@ -54,6 +54,12 @@ Graduate Students
 * HUANG Jinhuan 黄锦焕 (2026.9-)
 * BAI Guanwu 白冠武 (2026.9-)
 * ZENG Zhiheng 曾治恒 (2026.9-)
+* CHENG Xinyi 程心怡 (2027.9-)
+* YAN Shiqi 颜诗淇 (2027.9-)
+* WANG Zifan 王紫凡 (2027.9-)
+* WANG Kexin 王可欣 (2027.9-)
+* LONG Yujin 龙钰锦 (2027.9-)
+* LIN Zihao 林子淏 (2027.9-)
 
 Alumni (whereabout)
 --------  
