@@ -1,0 +1,13 @@
+@article{GUO2027114937,
+title = {GarmentX: Autoregressive parametric representations for 3D garment generation},
+journal = {Pattern Recognition},
+volume = {183},
+pages = {114937},
+year = {2027},
+issn = {0031-3203},
+doi = {https://doi.org/10.1016/j.patcog.2026.114937},
+url = {https://www.sciencedirect.com/science/article/pii/S0031320326019011},
+author = {Jingfeng Guo and Jinnan Chen and Weikai Chen and Zhenyu Sun and Lanjiong Li and Baozhu Zhao and Lingting Zhu and Xin Wang and Qi Liu},
+keywords = {3D garment generation, Autoregressive, Sewing pattern},
+abstract = {This work presents GarmentX, a novel framework for generating diverse, high-fidelity, and wearable 3D garments from a single input image. Traditional methods directly predict 2D pattern edges and their connectivity, an overly unconstrained approach that often leads to severe self-intersections and physically implausible garment structures. In contrast, GarmentX introduces a structured parametric representation compatible with GarmentCode, ensuring that the decoded sewing patterns always form valid, simulation-ready 3D garments while allowing for intuitive modifications of garment shape and style. To achieve this, we employ a masked autoregressive model that sequentially predicts garment parameters, leveraging autoregressive modeling for structured generation while mitigating inconsistencies in direct pattern prediction. Additionally, we introduce GarmentX dataset, containing 378,682 garment parameter–image pairs, constructed through an automatic data generation pipeline that synthesizes diverse garment images conditioned on parametric garment representations. Through integrating our method with GarmentX dataset, we achieve state-of-the-art performance in geometric fidelity and input image alignment, with 100% simulation success that generalizes across diverse body shapes and poses. The complete source code, pre-trained model weights, and the dataset will be released upon publication.}
+}
