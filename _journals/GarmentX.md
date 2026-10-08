@@ -2,9 +2,9 @@
 title: "GarmentX: Autoregressive Parametric Representations for 3D Garment Generation"
 collection: journals
 permalink: /publication/GarmentX
-date: 2026-9-13
-year: "2026"
-venue: "Pattern Recognition,"
+date: 2027-1-13
+year: "2027"
+venue: "Pattern Recognition, 183,"
 city: 
 state: ""
 thumbnail: "GarmentX.png"
