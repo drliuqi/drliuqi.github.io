@@ -2,8 +2,8 @@
 title: "PiGIE: Proximal Policy Optimization Guided Diffusion for Fine-Grained Image Editing"
 collection: journals
 permalink: /publication/PiGIE
-date: 2026-7-7
-year: "2026"
+date: 2027-1-7
+year: "2027"
 venue: "Neural Networks, 205,"
 city: 
 state: ""
