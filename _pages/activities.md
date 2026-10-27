@@ -90,14 +90,14 @@ Academia Services
 * 全国研究生教育评估监测专家库专家
 * 澳门特区科学技术发展基金评审专家
   
-2) 区域主席（Area Chair - AC）
+2) 国际会议区域主席（Area Chair - AC）
 * ACL 2026
 * ICASSP 2026, ICASSP 2027
 * IJCNN 2025, IJCNN 2026, IJCNN 2027
  
 
   
-2) 期刊副主编（Associate Editor）:
+2) SCI期刊副主编（Associate Editor）:
 * Communications AI & Computing, 2026-. [https://www.nature.com/commsaicomp/](https://www.nature.com/commsaicomp/)
 * IEEE Systems Journal, 2022- . [https://ieeesystemsjournal.org/journal-of-boards/](https://ieeesystemscouncil.org/publication/ieee-systems-journal#committee)
 * Digital Signal Processing, 2022- . [https://www.journals.elsevier.com/digital-signal-processing/editorial-board/qi-liu](https://www.sciencedirect.com/journal/digital-signal-processing/about/editorial-board)
