@@ -97,7 +97,7 @@ Academia Services
  
 
   
-2) SCI期刊副主编（Associate Editor）:
+3) SCI期刊副主编（Associate Editor）:
 * Communications AI & Computing, 2026-. [https://www.nature.com/commsaicomp/](https://www.nature.com/commsaicomp/)
 * IEEE Systems Journal, 2022- . [https://ieeesystemsjournal.org/journal-of-boards/](https://ieeesystemscouncil.org/publication/ieee-systems-journal#committee)
 * Digital Signal Processing, 2022- . [https://www.journals.elsevier.com/digital-signal-processing/editorial-board/qi-liu](https://www.sciencedirect.com/journal/digital-signal-processing/about/editorial-board)
@@ -105,7 +105,7 @@ Academia Services
 
 
 
-3) 受邀报告（Invited Talks）:  
+4) 受邀报告（Invited Talks）:  
 * 受邀报告：“AI相关技术解读与智能体的应用实践”，广东东江干部学院，惠州，2026/10/20.
 * 受邀报告：“AI相关技术解读与智能体的应用实践” — 广东电网（第四期），惠城区委党校，广东东江干部学院，惠州，2026/10/16.
 * 受邀报告：“AI相关技术解读与智能体的应用实践” — 广东电网（第三期），惠城区委党校，广东东江干部学院，惠州，2026/09/24.
@@ -145,7 +145,7 @@ Academia Services
 * Invited Speaker: "Image denoising via 2D random interpolation average scheme", hosted by Prof. Truong Nguyen (IEEE Fellow), Department of Electrical and Computer Engineering, University of California, San Diego (UCSD), 03 Dec. 2018.
 * Invited Speaker: "Weakly convex optimization for signal processing problems", hosted by Prof. P.P. Vaidyanathan (IEEE Fellow，美国工程院院士), Department of Electrical Engineering, California Institute of Technology (Caltech), 30 Nov. 2018. 
 
-4) 客座编辑（Guest Editor）:  
+5) 客座编辑（Guest Editor）:  
 * Hongxu Zhu, Haoran Chi, Xinyuan Qian, Rui Liu, and Qi Liu, Special Issue on "Human Machine Interface for Next Generation Consumer Electronics", IEEE Transactions on Consumer Electronics, 2024. [https://ctsoc.ieee.org/images/TCE_FILES/Approved_CFP/August_2024.pdf.](https://ctsoc.ieee.org/publications/ieee-transactions-on-consumer-electronics.html)
 * Hongyang Chen, Qi Liu, Quan Yu, Ian F. Akyildiz, and Sergy Vorobyov, Special Issue on "Efficient, Effective, and Explicable AI Inspired IoT over Non-terrestrial Networks", IEEE Interest of Things Journal, 2023. [https://ieee-iotj.org/wp-content/uploads/2023/06/3EAI_Non_Terrestrial.pdf.](https://ieee-iotj.org/special-issues/)
 * Qi Liu, Junli Liang, Hing Cheung So, and Yimin Daniel Zhang, Special Issue on "Neural Networks and Machine Learning for Multidimensional Signal Processing", IET Signal Processing, 2022. [https://digital-library.theiet.org/content/journals/iet-spr](https://ietresearch.onlinelibrary.wiley.com/doi/toc/10.1049/(ISSN)1751-9683.Neural-Networks-and-Machine-Learning-for-Multidimensional-Signal-Processing)
@@ -153,7 +153,7 @@ Academia Services
 * Xianpeng Wang, Qi Liu, Bin Zhang, and Wei Liu, Special Issue on "Scalable and Robust Optimization Techniques for Multidimensional Signal Processing", Wireless Communications and Mobile Computing, 2022. [https://www.hindawi.com/journals/wcmc/si/395818/](https://onlinelibrary.wiley.com/doi/toc/10.1155/6302.si.395818)
 
 
-5) 会议论坛主席（Conference (Workshop) Chair）:  
+6) 会议论坛主席（Conference (Workshop) Chair）:  
 * Q. Liu, Publication Chair of The 7th International Conference on Intelligent Medicine and Health, Guangzhou, China, 2026.[https://www.icimh.com/committee.html](https://www.icimh.com/committee.html)
 * Q. Liu and Z. Wei, Workshop Chair of "Visual Perception and Understanding Based on Deep Neural Networks" in the 5th International Conference on Computer, Big Data and Artificial Intelligence, Jingdezhen, China, 2024. [http://www.iccbdai.org/workshop2024/index.html](http://www.iccbdai.org/workshop2024/index.html)
 * Q. Liu and Z. Wei, Workshop Chair of "Multimodal/Crossmodal Perception and Content Understanding" in the 4th International Conference on Image, Vision and Intelligent Systems (ICIVIS), Xining, China, 2024. [http://www.icivis.net//](https://www.icivis.net/committee-2024/)
