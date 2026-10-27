@@ -5,7 +5,9 @@ permalink: /news/
 author_profile: true
 ---
 
+* 2026.10.27：Prof. Liu serves as the Aera Chair（AC） for the 64th Annual Meeting of the Association for Computational Linguistics (ACL) Rolling Review (ACL RR 2026).
 * 2026.10.26：恭喜！祝贺课题组王诗琦同学获得2026年度“燕宝奖学金”.&nbsp;🎉🎉🎉
+* 2026.10.24：Prof. Liu serves as the Aera Chair（AC） for the 2027 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2027).
 * 2026.10.20：课题组刘琦教授受邀讲座：“AI相关技术解读与智能体的应用实践”，广东东江干部学院，惠州.
 * 2026.10.16：课题组刘琦教授受邀讲座：“AI相关技术解读与智能体的应用实践” — 广东电网（第四期），惠城区委党校，广东东江干部学院，惠州.
 * 2026.09.24：课题组刘琦教授受邀讲座：“AI相关技术解读与智能体的应用实践” — 广东电网（第三期），惠城区委党校，广东东江干部学院，惠州.
