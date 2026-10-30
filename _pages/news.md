@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
+* 2026.11.17：课题组刘琦教授受邀讲座：“以人工智能赋能新质生产力发展” ，中共广东省委党校（广东行政学院）.
 * 2026.10.27：Prof. Liu serves as the Aera Chair（AC） for the 64th Annual Meeting of the Association for Computational Linguistics (ACL) Rolling Review (ACL RR 2026).
 * 2026.10.26：恭喜！祝贺课题组王诗琦同学获得2026年度“燕宝奖学金”.&nbsp;🎉🎉🎉
 * 2026.10.24：Prof. Liu serves as the Aera Chair（AC） for the 2027 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2027).
