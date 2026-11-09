@@ -12,6 +12,7 @@ redirect_from:
 
 Awards and Honors
 ----------
+* 中国商业联合会科学技术奖，技术发明奖，一等奖，2026
 * 华南理工大学2024-2025学年度本科生优秀班主任, 2025  
 * 广东省大学生计算机设计大赛，优秀指导教师奖，2025
 * ICCBD+AI 2024 (Jingdezhen), Best Paper Award, 2024（2篇）  
