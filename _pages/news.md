@@ -5,7 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
-* 2026.11.25: 课题组刘琦教授受邀讲座：“银行” ，中共广东省委党校（广东行政学院），广州.
+* 2026.11.25: 课题组刘琦教授受邀讲座：“人工智能时代银行数据安全：风险挑战与治理应对” ，中共广东省委党校（广东行政学院），广州.
 * 2026.11.17：课题组刘琦教授受邀讲座：“以人工智能赋能新质生产力发展: 社保经办服务的智能化转型与创新发展” ，中共广东省委党校（广东行政学院），广州.
 * 2026.11.06：恭喜！祝贺刘琦教授作为主要参与人员获得2026年度中国商业联合会科学技术奖的技术发明奖一等奖.&nbsp;🎉🎉🎉
 * 2026.10.27：Prof. Liu serves as the Aera Chair（AC） for the 64th Annual Meeting of the Association for Computational Linguistics (ACL) Rolling Review (ACL RR 2026).
