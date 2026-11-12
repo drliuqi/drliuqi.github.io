@@ -14,7 +14,7 @@ bibtex: Auto-Connect.txt
 uri: Auto-Connect.pdf
 arxiv: https://arxiv.org/abs/2506.11430
 project: https://autoconnectrig.github.io/
-source: https://autoconnectrig.github.io/
+source: https://github.com/autoconnectrig/auto-connect
 poster: 
 data:
 ---
