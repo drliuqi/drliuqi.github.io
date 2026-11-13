@@ -64,10 +64,10 @@ Graduate Students
 Alumni (whereabout)
 --------  
 * WANG Yuxiao 王煜骁 (博士，2022.9-2026.6)，睿魔寻影，【<span style='color:red'>校长奖学金（2022），国家奖学金（2024），未来技术太湖创新奖（2024）</span>】
-* GUO Jingfeng 郭靖丰 (硕士，2023.9-2026.6)，腾讯.
+* GUO Jingfeng 郭靖丰 (硕士，2023.9-2026.6)，腾讯IEG.
 * XUE Weiying 薛炜樱 (硕士，2023.9-2026.6)，影石Insta360.
-* ZHAO Baozhu 赵宝柱 (硕士，2023.9-2026.6)，百度.
-* SU Junyan 苏俊彦 (硕士，2023.9-2026.6)，联通.
-* LIN Jinhao 林锦濠 (硕士，2022.9-2025.6)，南方电网【<span style='color:red'>未来技术太湖创新奖（2024）</span>】.
+* ZHAO Baozhu 赵宝柱 (硕士，2023.9-2026.6)，百度IDG.
+* SU Junyan 苏俊彦 (硕士，2023.9-2026.6)，联通研究院.
+* LIN Jinhao 林锦濠 (硕士，2022.9-2025.6)，南方电网佛山供电局【<span style='color:red'>未来技术太湖创新奖（2024）</span>】.
 * WEI Zhenao 魏振傲 (博士后，2023.1-2025.1)，苏州城市学院，讲师.
 * WANG Yifei 王毅飞(科研助理，2022.9-2023.7)，华南理工大学未来技术学院，攻读博士学位.
