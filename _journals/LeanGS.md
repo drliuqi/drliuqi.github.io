@@ -12,9 +12,9 @@ teaser :
 authors: "Mingda Xu, Xuanchen Lu, Boyu Cao, Xiaohan Zhang, Qi Liu*"
 bibtex: LeanGS.txt
 uri: LeanGS.pdf
-arxiv: 
+arxiv: https://dl.acm.org/doi/10.1145/3767308.3835628
 project: 
-source: 
+source: https://github.com/xmdcv/LeanGS
 poster: 
 data:
 ---
