@@ -14,7 +14,7 @@ bibtex: ACG.txt
 uri: ACG.pdf
 arxiv: https://arxiv.org/abs/2604.05343
 project: 
-source: 
+source: https://github.com/Qqq-40/ACG
 poster: 
 data:
 ---
